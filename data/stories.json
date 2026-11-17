@@ -1,0 +1,324 @@
+{
+ "date": "2026-11-18",
+ "topics": [
+  {
+   "id": "archaeology",
+   "name": "Archaeology",
+   "desc": "Uncovering the human past",
+   "color": "#d97706",
+   "article": {
+    "title": "Everyday Life In A Bronze Age Village Emerges In U.K. Excavation",
+    "outlet": "WGBH (NPR's All Things Considered)",
+    "url": "https://www.wgbh.org/news/2016-01-13/everyday-life-in-a-bronze-age-village-emerges-in-u-k-excavation",
+    "year": 2016,
+    "summary": "Archaeologists at Must Farm Quarry in eastern England found circular Bronze Age houses that stood on stilts above a river. A fire seems to have driven the residents out, and the burned houses collapsed into the water, where silt preserved them. The site held whole pots with food still inside, plant-fibre textiles, a longboat, weapons and colourful beads. The team stresses that this is the archaeology of ordinary homes, not of burial mounds or important people.",
+    "facts": [
+     "The houses were built on stilts over a river, and the fire dropped them into the water, where silt sealed and preserved them.",
+     "The team found 29 complete food vessels and pots, ranging from about 2 feet tall to about 2 inches.",
+     "One archaeologist said the pot collection looked like someone had ordered a full set from a department store.",
+     "Archaeologists usually see a settlement slowly decaying and filling in. Must Farm gave them a snapshot of one moment in daily life."
+    ],
+    "questions": [
+     "Why might a disaster like a fire be better for preserving everyday life than a peaceful, gradual abandonment?",
+     "How does studying ordinary homes change the story we tell about the Bronze Age compared with studying burial mounds?",
+     "If archaeologists dug up your home 3,000 years from now, which everyday objects would tell them the most about you?"
+    ],
+    "related": [
+     {
+      "t": "Must Farm",
+      "u": "https://en.wikipedia.org/wiki/Must_Farm",
+      "k": "wiki"
+     },
+     {
+      "t": "A surprising look at life in the Bronze Age (Science)",
+      "u": "https://www.science.org/content/article/surprising-look-life-bronze-age",
+      "k": "sci"
+     },
+     {
+      "t": "Bronze Age Textiles in Britain's Pompeii (University of Glasgow)",
+      "u": "https://www.gla.ac.uk/colleges/arts/knowledge-exchange/newsletter/reach11/textiles",
+      "k": "sci"
+     },
+     {
+      "t": "Incredibly Well-Preserved Bronze Age Village Reveals a Snapshot of Early British Life Before a Fire (Smithsonian)",
+      "u": "https://www.smithsonianmag.com/smart-news/incredibly-well-preserved-bronze-age-village-reveals-a-snapshot-of-early-british-life-before-a-fire-180984006/",
+      "k": "sci"
+     }
+    ]
+   },
+   "alt": {
+    "title": "What did the Vikings really eat?",
+    "outlet": "ScienceNorway",
+    "url": "https://www.sciencenorway.no/archaeology-food-viking-age/what-did-the-vikings-really-eat/1706735",
+    "year": 2020,
+    "summary": "Norwegian researchers are trying to work out what Vikings cooked in their cauldrons, using plant remains and the study of cooking pots. Their picture is of stews, soups, fried pork, porridge and bread, not the meat-heavy feasts of popular myth. Grain was the everyday staple for most people, though warriors seem to have eaten more meat. Plants that grew around Viking settlements show that vegetables and herbs were part of the diet too.",
+    "facts": [
+     "Even an ordinary shoemaker could make dishes with red wine, root vegetables and fish.",
+     "Potatoes, tomatoes, carrots and cucumbers were not part of Viking meals.",
+     "Norwegian angelica seems to have been an important vegetable in the Viking Age.",
+     "Pollen analysis shows that yarrow was introduced to Greenland in the Viking Age."
+    ],
+    "questions": [
+     "How much of our picture of Vikings comes from myths about warriors rather than evidence about ordinary households?",
+     "What can plant remains and pollen tell us about food that bones and artefacts can't?",
+     "Which foods that seem 'normal' to you today would have been missing from a Viking kitchen, and how would that change daily life?"
+    ],
+    "related": [
+     {
+      "t": "Archaeology of Northern Europe",
+      "u": "https://en.wikipedia.org/wiki/Archaeology_of_Northern_Europe",
+      "k": "wiki"
+     },
+     {
+      "t": "T\u00f8nnesminde",
+      "u": "https://en.wikipedia.org/wiki/T%C3%B8nnesminde",
+      "k": "wiki"
+     },
+     {
+      "t": "Erosive and Mechanical Tooth Wear in Viking Age Icelanders (NIH/PMC)",
+      "u": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5806945/",
+      "k": "sci"
+     }
+    ]
+   }
+  },
+  {
+   "id": "physics",
+   "name": "Physics",
+   "desc": "Matter, energy, motion and force",
+   "color": "#f59e0b",
+   "article": {
+    "title": "China's Space Station Cools Atoms to a Record-Low 9.7 Trillionths of a Degree Above Absolute Zero",
+    "outlet": "Discover Magazine",
+    "url": "https://www.discovermagazine.com/china-s-space-station-cools-atoms-to-a-record-low-9-7-trillionths-of-a-degree-above-absolute-zero-49926",
+    "year": 2026,
+    "summary": "Researchers working on China's Tiangong space station chilled a cloud of rubidium atoms to an equivalent temperature of about 9.7 trillionths of a degree above absolute zero. That is roughly a quarter of the previous record of 38 trillionths. Lasers acted as the trap, and the near-weightless conditions let the light hold the atoms more loosely than it can on Earth. The result was reported in the journal Science.",
+    "facts": [
+     "The new record is about four times colder than the previous one of 38 trillionths of a degree.",
+     "The atoms were held by laser light alone, with no material container.",
+     "The 9.7 picokelvin figure describes how slowly the cloud expands, not a reading from an ordinary thermometer.",
+     "The cloud contained roughly 20,000 rubidium atoms and was left to expand freely for about 7 seconds."
+    ],
+    "questions": [
+     "Why does removing gravity make it easier to reach such extremely low temperatures?",
+     "If absolute zero can probably never be reached, why do scientists keep chasing colder and colder records?",
+     "What might you learn from a cloud of atoms that behaves as a single quantum object?"
+    ],
+    "related": [
+     {
+      "t": "Ultracold atom",
+      "u": "https://en.wikipedia.org/wiki/Ultracold_atom",
+      "k": "wiki"
+     },
+     {
+      "t": "China space experiment creates coldest temperature ever",
+      "u": "https://www.science.org/content/article/china-space-experiment-creates-coldest-temperature-ever",
+      "k": "sci"
+     },
+     {
+      "t": "Record-low temperature created on China's space station",
+      "u": "https://www.sciencenews.org/article/lowest-temperature-china-space-station",
+      "k": "sci"
+     }
+    ]
+   },
+   "alt": {
+    "title": "Physicists create Bose\u2013Einstein condensate from ultracold polar molecules",
+    "outlet": "Phys.org",
+    "url": "https://phys.org/news/2026-07-physicists-boseeinstein-condensate-ultracold-polar.html",
+    "year": 2026,
+    "summary": "A team at the Chinese University of Hong Kong and the Chinese Academy of Sciences' Institute of Theoretical Physics cooled sodium\u2013rubidium molecules into a Bose\u2013Einstein condensate. Most condensates so far have been made from single atoms. Polar molecules are much harder because they tend to collide and get lost. The team protected them with a microwave-based shielding technique, and the results appeared in Nature Physics.",
+    "facts": [
+     "Bose\u2013Einstein condensates have mostly been made from atoms, not molecules.",
+     "Polar molecules have separated positive and negative charges, which makes them especially hard to condense.",
+     "Near-universal losses from two-molecule collisions were the long-standing obstacle.",
+     "The shielding method worked by creating a repulsive barrier while still letting the gas cool by evaporation."
+    ],
+    "questions": [
+     "Why might molecules be more useful than single atoms for studying exotic quantum matter?",
+     "How does shielding molecules from one another resemble other ways scientists protect fragile systems?",
+     "What would you want to explore if you could tune how strongly molecules interact?"
+    ],
+    "related": [
+     {
+      "t": "Ultracold atom",
+      "u": "https://en.wikipedia.org/wiki/Ultracold_atom",
+      "k": "wiki"
+     },
+     {
+      "t": "Journal papers - Dajun Wang Group (CUHK Department of Physics)",
+      "u": "https://www.phy.cuhk.edu.hk/~djwang/publications.html",
+      "k": "sci"
+     },
+     {
+      "t": "Polar Molecules Condensed and Tuned: Quantum Droplet Phase Confirmed in NaRb BEC",
+      "u": "https://www.techtimes.com/articles/322414/20260731/polar-molecules-condensed-tuned-quantum-droplet-phase-confirmed-narb-bec.htm",
+      "k": "sci"
+     }
+    ]
+   }
+  },
+  {
+   "id": "politics",
+   "name": "Politics & Civics",
+   "desc": "How governments and laws work",
+   "color": "#94a3b8",
+   "article": {
+    "title": "How ballot shortages disrupt elections in other countries",
+    "outlet": "The Korea Herald",
+    "url": "https://www.koreaherald.com/article/10763916",
+    "year": 2026,
+    "summary": "During South Korea's local elections, ballots ran out at 14 polling stations in Seoul, and the National Election Commission apologized. The article treats this as a rare failure but not a unique one, and it compares it with similar problems elsewhere. Examples include Alaska, Boston in 2024, Western Australia in 2025 and the UK in 2010. Officials in several places printed extra ballots or kept polls open longer. Australia's compulsory voting adds a further complication, because voters there can be penalized for not voting.",
+    "facts": [
+     "Seoul's shortage hit 14 polling stations, and the election commission formally apologized.",
+     "In Australia, where voting is compulsory, a ballot shortage can leave people at risk of a penalty for not voting.",
+     "In the UK's 2010 general election, the trouble was not a lack of ballots. Some stations underestimated turnout and were overwhelmed, so some people could not vote before polls closed.",
+     "Other reports put the nationwide South Korean figure higher: 50 polling stations short of ballots, with voting briefly halted at 22 of them."
+    ],
+    "questions": [
+     "If an election accident prevents some people from voting, what remedies are fair: extended hours, extra ballots, or a re-run?",
+     "Why might a ballot shortage matter more in a country with compulsory voting than in one where voting is voluntary?",
+     "How should election officials estimate turnout, and who should be responsible when they get it wrong?"
+    ],
+    "related": [
+     {
+      "t": "2026 South Korean local elections",
+      "u": "https://en.wikipedia.org/wiki/2026_South_Korean_local_elections",
+      "k": "wiki"
+     },
+     {
+      "t": "Elections in South Korea",
+      "u": "https://en.wikipedia.org/wiki/Elections_in_South_Korea",
+      "k": "wiki"
+     },
+     {
+      "t": "Why Australians are made to vote (University of Melbourne)",
+      "u": "https://pursuit.unimelb.edu.au/articles/why-australians-are-made-to-vote",
+      "k": "sci"
+     },
+     {
+      "t": "Electoral systems (Australian open educational resource)",
+      "u": "https://oercollective.caul.edu.au/aust-politics-policy/chapter/electoral-systems/",
+      "k": "sci"
+     }
+    ]
+   },
+   "alt": {
+    "title": "A blunder meant this voter's ballot wasn't counted \u2013 then her pick lost by one vote. Now the case is in court",
+    "outlet": "CNN",
+    "url": "https://www.cnn.com/2025/10/22/world/canada-election-carney-quebec-intl-hnk",
+    "year": 2025,
+    "summary": "In Canada's 2025 federal election, the Montreal-area riding of Terrebonne was decided by a single vote. A Bloc Qu\u00e9b\u00e9cois supporter's mail-in ballot was never counted, because it was returned to her after the national elections agency printed the wrong postal code on the return envelope. The losing incumbent challenged the result in court, and the case raised the question of whether one tiny administrative error is enough to cancel an election. The one-vote win also mattered nationally, because it moved the governing Liberals closer to a majority.",
+    "facts": [
+     "The Liberals held 169 seats at this point, against the 172 they needed for a majority, so one riding mattered a lot.",
+     "The returned ballot was blamed on an incorrect postal code on the envelope supplied by the elections agency.",
+     "Later coverage says Canada's Supreme Court annulled the result in February 2026, and a byelection followed on April 13.",
+     "In that byelection the same Liberal candidate, then 25, won by more than 700 votes."
+    ],
+    "questions": [
+     "How small does an administrative error need to be before it is too small to overturn an election, and who decides?",
+     "Is it fairer to re-run an election after a mistake or to accept a recount result, even if it was decided by one vote?",
+     "How can election agencies design processes such as mail-in voting so that small errors do not decide outcomes?"
+    ],
+    "related": [
+     {
+      "t": "Terrebonne in the 2025 Canadian federal election",
+      "u": "https://en.wikipedia.org/wiki/Terrebonne_in_the_2025_Canadian_federal_election",
+      "k": "wiki"
+     },
+     {
+      "t": "Sinclair-Desgagn\u00e9 v. Canada (Chief Electoral Officer)",
+      "u": "https://en.wikipedia.org/wiki/Sinclair-Desgagn%C3%A9_v._Canada_(Chief_Electoral_Officer)",
+      "k": "wiki"
+     },
+     {
+      "t": "List of close election results",
+      "u": "https://en.wikipedia.org/wiki/List_of_close_election_results",
+      "k": "wiki"
+     },
+     {
+      "t": "Tie Votes \u2013 MultiState Elections explainer",
+      "u": "https://www.multistate.us/elections/ties-101",
+      "k": "sci"
+     }
+    ]
+   }
+  },
+  {
+   "id": "ai",
+   "name": "Artificial Intelligence",
+   "desc": "Machines that learn and reason",
+   "color": "#a78bfa",
+   "article": {
+    "title": "Robotic trucks taking over Pilbara mining operations in shift to automation",
+    "outlet": "ABC News (Australia)",
+    "url": "https://www.abc.net.au/news/2014-04-25/computer-controlled-trucks-taking-over-in-pilbara-mining-wa/5412642",
+    "year": 2014,
+    "summary": "In Western Australia's remote Pilbara, giant haul trucks, trains and drills were already starting to take over work that used to be done by hand and was often dangerous. Rio Tinto began trialling driverless trucks with Komatsu in 2008, and by 2014 it had 30 of them across two mine sites. The article stresses that these trucks are truly autonomous, not remote controlled. Control-room staff act as the trucks' eyes and ears, building a virtual map of the mine and making sure the vehicles stay on course.",
+    "facts": [
+     "Rio Tinto began trialling driverless trucks in the Pilbara in 2008, years before robotaxis made headlines.",
+     "By 2014 the company had 30 autonomous trucks across two mine sites and wanted to expand to 150.",
+     "The people overseeing the trucks work in control rooms, where they create a virtual map of the mine.",
+     "BHP's new Perth operations centre could not yet control its own driverless fleet, though that was the plan. Caterpillar trained its Pilbara workers in Perth, not at the mines."
+    ],
+    "questions": [
+     "If a machine takes over a dangerous job, what new kinds of work does it create, and who gets those jobs?",
+     "Why might a closed, controlled place like a mine be a much easier setting for self-driving vehicles than a busy city street?",
+     "How do you feel about the idea of a vehicle that is steered by software while people supervise it from hundreds of kilometres away?"
+    ],
+    "related": [
+     {
+      "t": "Automated mining",
+      "u": "https://en.wikipedia.org/wiki/Automated_mining",
+      "k": "wiki"
+     },
+     {
+      "t": "Yandicoogina mine",
+      "u": "https://en.wikipedia.org/wiki/Yandicoogina_mine",
+      "k": "wiki"
+     },
+     {
+      "t": "Australian driverless mining trucks and remote health technologies could be key to NASA's 2024 Moon mission",
+      "u": "https://www.abc.net.au/news/science/2019-09-24/automated-trucks-driving-australias-moon-race/11539914",
+      "k": "sci"
+     }
+    ]
+   },
+   "alt": {
+    "title": "Impressive and terrifying: We test Tesla 'Full Self-Driving' in Australia",
+    "outlet": "Stuff (New Zealand)",
+    "url": "https://www.stuff.co.nz/motoring/360806684/impressive-and-terrifying-we-test-tesla-full-self-driving-australia",
+    "year": 2025,
+    "summary": "Journalists from Australia and New Zealand gathered in Brisbane for a secretive Tesla event to try its Full Self-Driving (Supervised) system on public roads. The system is a semi-autonomous Level 2 setup that was expected to reach New Zealand customers within months. Tesla itself is careful to say it is not a top-level, fully autonomous system. The reviewers found it both impressive and unnerving, and thought it could improve as it logs more local miles.",
+    "facts": [
+     "The first test took place on ordinary public roads in Brisbane, not on a private course.",
+     "Tesla only launched the finished product for left-hand-drive cars in 2024, so right-hand-drive Down Under was a later step.",
+     "Tesla insists the system is not Level 5, the top rung of the automation ladder.",
+     "The reviewers expected the system to keep getting better as it clocks more miles on Australian and New Zealand roads."
+    ],
+    "questions": [
+     "What does 'supervised' self-driving really ask of the human behind the wheel, and is that harder than driving yourself?",
+     "Does a name like 'Full Self-Driving' shape how much people trust a system that is not fully self-driving?",
+     "How might driving on the left, with different road signs and habits, change what an AI driver has to learn?"
+    ],
+    "related": [
+     {
+      "t": "Advanced driver-assistance system",
+      "u": "https://en.wikipedia.org/wiki/Advanced_driver-assistance_system",
+      "k": "wiki"
+     },
+     {
+      "t": "Explained: Levels of autonomy in self-driving cars",
+      "u": "https://www.csail.mit.edu/news/explained-levels-autonomy-self-driving-cars",
+      "k": "sci"
+     },
+     {
+      "t": "Self-driving Vehicles (US EPA)",
+      "u": "https://www.epa.gov/greenvehicles/self-driving-vehicles",
+      "k": "sci"
+     }
+    ]
+   }
+  }
+ ]
+}
