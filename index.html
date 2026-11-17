@@ -153,7 +153,8 @@ function renderArticle(t){
 (async function boot(){
   $("tiles").innerHTML = [0,1,2,3].map(()=>`<div class="tile loading" style="cursor:default"><div><div class="k">Loading</div><div class="name">&nbsp;</div></div></div>`).join("");
   try{
-    const r = await fetch("data/stories.json?d=" + todayKey, {cache: "no-store"});
+    let r = await fetch("data/archive/" + todayKey + ".json", {cache: "no-store"});      // today's exact day if it exists
+    if (!r.ok) r = await fetch("data/stories.json?d=" + todayKey, {cache: "no-store"});  // else the latest day
     if (!r.ok) throw new Error(r.status);
     day = await r.json();
     if (!day || !Array.isArray(day.topics) || !day.topics.length) throw new Error("empty");
