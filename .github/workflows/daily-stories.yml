@@ -4,14 +4,18 @@ on:
   schedule:
     # GitHub cron is in UTC. 06:00 UTC = 10 PM Pacific standard time (11 PM during daylight time).
     - cron: "0 6 * * *"
-  workflow_dispatch:
+  workflow_dispatch:        # lets you run it by hand from the Actions tab
     inputs:
       date:
         description: "Date to build (YYYY-MM-DD). Leave blank for tomorrow."
         required: false
 
 permissions:
-  contents: write
+  contents: write           # needed to commit data/stories.json back to the repo
+
+concurrency:                # never run two at once
+  group: daily-spin
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -33,5 +37,11 @@ jobs:
           git config user.name "daily-spin-bot"
           git config user.email "daily-spin-bot@users.noreply.github.com"
           git add data/
-          git diff --cached --quiet || git commit -m "Daily Spin stories $(date -u +%F)"
-          git push
+          git diff --cached --quiet && exit 0
+          git commit -m "Daily Spin stories $(date -u +%F)"
+          # The repo may have changed while Claude was searching: pull first, then push (3 tries).
+          for i in 1 2 3; do
+            git pull --rebase -X theirs origin main && git push && exit 0
+            sleep 10
+          done
+          exit 1
