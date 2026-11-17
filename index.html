@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Daily Spin</title>
+<!--
+  The Daily Spin — page for GitHub Pages.
+  It only READS data/stories.json, which a GitHub Actions workflow (.github/workflows/daily-stories.yml)
+  builds every night with Claude + web search, using the ANTHROPIC_API_KEY repository secret.
+  No API key is ever in this page or in the browser.
+-->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#0b0d12;--panel:rgba(255,255,255,.04);--line:rgba(255,255,255,.09);--text:#eef0f5;--muted:#9aa1b2}
+*{box-sizing:border-box}html,body{margin:0}
+body{font-family:Inter,system-ui,sans-serif;color:var(--text);background:var(--bg);min-height:100vh;line-height:1.6;
+  background-image:radial-gradient(900px 500px at 15% -10%,rgba(124,92,255,.22),transparent 60%),radial-gradient(700px 500px at 100% 10%,rgba(56,189,248,.12),transparent 60%)}
+.wrap{max-width:1080px;margin:0 auto;padding:32px 20px 80px}
+.top{display:flex;justify-content:space-between;align-items:center;gap:16px;flex-wrap:wrap}
+.brand{display:flex;align-items:center;gap:12px}
+.logo{width:38px;height:38px;border-radius:12px;background:conic-gradient(#f5a524,#34d399,#38bdf8,#a78bfa,#f472b6,#f5a524);box-shadow:0 0 30px rgba(124,92,255,.4)}
+h1{font-family:"Space Grotesk",sans-serif;font-size:24px;margin:0;letter-spacing:-.02em}
+.date{color:var(--muted);font-size:14px}
+.right{display:flex;gap:8px;align-items:center}
+.stat{font-size:13px;color:var(--muted);background:var(--panel);border:1px solid var(--line);padding:6px 12px;border-radius:999px}
+.gear{background:var(--panel);border:1px solid var(--line);color:var(--muted);border-radius:999px;width:34px;height:34px;cursor:pointer;font-size:16px}
+.settings{display:none;margin-top:14px;background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:16px;font-size:14px;color:var(--muted)}
+.settings.on{display:block}
+.settings input{background:#12151d;border:1px solid var(--line);color:var(--text);border-radius:10px;padding:8px 10px;width:min(360px,100%);font:inherit;margin:6px 8px 6px 0}
+.hero{margin:44px 0 26px;max-width:640px}
+.hero h2{font-family:"Space Grotesk",sans-serif;font-size:clamp(34px,5.5vw,54px);line-height:1.05;margin:0 0 12px;letter-spacing:-.03em}
+.hero h2 span{background:linear-gradient(90deg,#a78bfa,#38bdf8 50%,#34d399);-webkit-background-clip:text;background-clip:text;color:transparent}
+.hero p{color:var(--muted);margin:0}
+.tiles{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}
+@media(max-width:900px){.tiles{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:480px){.tiles{grid-template-columns:1fr}}
+.tile{--c:#7c5cff;position:relative;overflow:hidden;text-align:left;font:inherit;color:var(--text);cursor:pointer;min-height:200px;padding:20px;border-radius:22px;border:1px solid var(--line);
+  background:linear-gradient(160deg,color-mix(in srgb,var(--c) 22%,transparent),rgba(255,255,255,.02) 60%);display:flex;flex-direction:column;justify-content:space-between;transition:transform .18s,border-color .18s,box-shadow .18s}
+.tile:hover{transform:translateY(-3px);border-color:color-mix(in srgb,var(--c) 70%,transparent);box-shadow:0 14px 40px -12px color-mix(in srgb,var(--c) 60%,transparent)}
+.tile.active{border-color:var(--c);box-shadow:0 0 0 1px var(--c),0 14px 40px -12px color-mix(in srgb,var(--c) 60%,transparent)}
+.tile .k{padding-right:62px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-size:11px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:color-mix(in srgb,var(--c) 80%,white)}
+.tile .name{font:700 24px/1.1 "Space Grotesk",sans-serif;margin-top:6px;letter-spacing:-.02em}
+.tile .desc{font-size:13px;color:var(--muted);margin-top:4px}
+.tile .state{font-size:14px;font-weight:500;display:flex;align-items:center;gap:8px}
+.tile .peek{font:600 15px/1.3 "Space Grotesk",sans-serif;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.badge{font-size:10px;font-weight:700;letter-spacing:.12em;padding:3px 8px;border-radius:999px;background:var(--c);color:#0b0d12;position:absolute;top:16px;right:16px}
+.tile.loading::after{content:"";position:absolute;inset:0;background:linear-gradient(100deg,transparent 30%,rgba(255,255,255,.08) 50%,transparent 70%);background-size:200% 100%;animation:shine 1.2s linear infinite}
+@keyframes shine{from{background-position:200% 0}to{background-position:-200% 0}}
+.dots{display:inline-flex;gap:4px}.dots i{width:6px;height:6px;border-radius:50%;background:var(--c,#a78bfa);animation:bob 1s infinite ease-in-out}.dots i:nth-child(2){animation-delay:.15s}.dots i:nth-child(3){animation-delay:.3s}
+@keyframes bob{0%,100%{transform:translateY(0);opacity:.5}50%{transform:translateY(-4px);opacity:1}}
+#result{margin-top:34px}
+.card{--c:#7c5cff;background:linear-gradient(180deg,rgba(255,255,255,.06),rgba(255,255,255,.02));border:1px solid var(--line);border-radius:24px;padding:clamp(22px,4vw,40px);animation:rise .45s ease}
+@keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.meta{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.pill{font-size:12px;font-weight:600;padding:5px 11px;border-radius:999px;border:1px solid var(--line);color:var(--muted)}
+.pill.cat{background:var(--c);color:#0b0d12;border:0}
+.card h3{font-family:"Space Grotesk",sans-serif;font-size:clamp(24px,3.4vw,34px);line-height:1.15;letter-spacing:-.02em;margin:16px 0 18px}
+.row{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.btn{display:inline-flex;align-items:center;gap:8px;text-decoration:none;color:var(--text);font:600 14px Inter,sans-serif;background:var(--panel);border:1px solid var(--line);padding:10px 16px;border-radius:12px;cursor:pointer}
+.btn:hover{border-color:var(--muted)}
+.btn.primary{background:linear-gradient(135deg,#c4b5fd,#7dd3fc);color:#0b0d12;border:0}
+.summary{font-size:17px;color:#d6d9e2;margin:22px 0 0;max-width:800px}
+.summary p{margin:0 0 10px}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:26px}
+@media(max-width:820px){.grid{grid-template-columns:1fr}}
+.box{background:var(--panel);border:1px solid var(--line);border-radius:18px;padding:20px 22px}
+.box h4{font:600 13px "Space Grotesk",sans-serif;text-transform:uppercase;letter-spacing:.12em;color:var(--muted);margin:0 0 12px}
+.box ul,.box ol{margin:0;padding-left:20px}.box li{margin:8px 0}.box li::marker{color:var(--c)}
+.related{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:10px}
+.related a{display:block;text-decoration:none;color:var(--text);background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:12px 14px;transition:border-color .15s,transform .15s}
+.related a:hover{border-color:var(--c);transform:translateY(-2px)}
+.tag{display:block;font-size:11px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin-bottom:2px}
+.tag.sci{color:#34d399}.tag.news{color:#7dd3fc}
+.foot{color:var(--muted);font-size:12px;margin-top:22px}
+.empty{color:var(--muted);text-align:center;padding:30px;border:1px dashed var(--line);border-radius:20px}
+.err{color:#fca5a5}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="top">
+    <div class="brand"><div class="logo"></div><div><h1>The Daily Spin</h1><div class="date" id="today"></div></div></div>
+    <div class="right"><div class="stat" id="stat"></div></div>
+  </div>
+  <section class="hero">
+    <h2>Today's four<br><span>rabbit holes.</span></h2>
+    <p>New topics every day. Each one leads to a real, lesser-known story, found the night before with a live web search.</p>
+  </section>
+  <div class="tiles" id="tiles"></div>
+  <section id="result"><div class="empty">Pick a topic above to get today's story.</div></section>
+</div>
+
+<script>
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const safeUrl = u => /^https?:\/\//.test(String(u||"")) ? String(u) : "#";
+const todayKey = new Date().toLocaleDateString("en-CA");
+$("today").textContent = new Date().toLocaleDateString(undefined,{weekday:"long",month:"long",day:"numeric"});
+
+/* per-browser memory: which stories you've opened, and whether you swapped to the backup */
+const LS = "dailyspin_gh_v1";
+let mem = (() => { try{ return JSON.parse(localStorage.getItem(LS)) || {}; }catch(e){ return {}; } })();
+mem.seen = mem.seen || {}; mem.swapped = mem.swapped || {};
+const save = () => { try{ localStorage.setItem(LS, JSON.stringify(mem)); }catch(e){} };
+
+let day = null, selected = null;
+const topicById = id => day.topics.find(t => t.id === id);
+const articleFor = t => (mem.swapped[day.date + ":" + t.id] && t.alt) ? t.alt : t.article;
+
+function renderStat(){ const n = Object.keys(mem.seen).length; $("stat").textContent = `${n} ${n===1?"story":"stories"} discovered`; }
+function renderTiles(){
+  $("tiles").innerHTML = day.topics.map(t => {
+    const a = articleFor(t), opened = mem.seen[a.url];
+    return `<button class="tile ${selected===t.id?'active':''}" style="--c:${esc(t.color)}" data-id="${esc(t.id)}">
+      ${t.id==="ai" ? `<span class="badge">DAILY</span>` : ""}
+      <div><div class="k">${opened ? esc(a.outlet) : "Today's topic"}</div><div class="name">${esc(t.name)}</div><div class="desc">${esc(t.desc)}</div></div>
+      ${opened ? `<div class="peek">${esc(a.title)}</div>` : `<div class="state">Open story →</div>`}</button>`;
+  }).join("");
+  document.querySelectorAll(".tile").forEach(b => b.onclick = () => openTopic(b.dataset.id));
+  renderStat();
+}
+function openTopic(id){
+  selected = id; const t = topicById(id), a = articleFor(t);
+  mem.seen[a.url] = {t: a.title, d: day.date}; save();
+  renderTiles(); renderArticle(t);
+  $("result").scrollIntoView({behavior:"smooth", block:"start"});
+}
+function renderArticle(t){
+  const a = articleFor(t), canSwap = t.alt && !mem.swapped[day.date + ":" + t.id];
+  $("result").innerHTML = `<div class="card" style="--c:${esc(t.color)}">
+    <div class="meta"><span class="pill cat">${esc(t.name)}</span><span class="pill">${esc(a.outlet)}${a.year?` · ${esc(a.year)}`:""}</span></div>
+    <h3>${esc(a.title)}</h3>
+    <div class="row">
+      <a class="btn primary" href="${esc(safeUrl(a.url))}" target="_blank" rel="noopener">Read the full article ↗</a>
+      ${canSwap ? `<button class="btn" id="another">Give me another</button>` : ""}
+    </div>
+    <div class="summary"><p>${esc(a.summary)}</p></div>
+    <div class="grid">
+      <div class="box"><h4>Fun facts</h4><ul>${(a.facts||[]).map(f=>`<li>${esc(f)}</li>`).join("")}</ul></div>
+      <div class="box"><h4>Starting questions</h4><ol>${(a.questions||[]).map(q=>`<li>${esc(q)}</li>`).join("")}</ol></div>
+    </div>
+    ${(a.related||[]).length ? `<div class="box" style="margin-top:16px"><h4>Go deeper</h4><div class="related">
+      ${a.related.map(r=>`<a href="${esc(safeUrl(r.u))}" target="_blank" rel="noopener"><span class="tag ${r.k==='wiki'?'wiki':'sci'}">${r.k==='wiki'?'Wikipedia':'Science · Reference'}</span>${esc(r.t)}</a>`).join("")}
+    </div></div>` : ""}
+    <p class="foot">Found by Claude with a live web search the night before. Links come from the actual search results. The summary, facts and questions were written by Claude, so read the article for the full story.</p>
+  </div>`;
+  const an = $("another");
+  if (an) an.onclick = () => { mem.swapped[day.date + ":" + t.id] = true; save(); openTopic(t.id); };
+}
+
+(async function boot(){
+  $("tiles").innerHTML = [0,1,2,3].map(()=>`<div class="tile loading" style="cursor:default"><div><div class="k">Loading</div><div class="name">&nbsp;</div></div></div>`).join("");
+  try{
+    const r = await fetch("data/stories.json?d=" + todayKey, {cache: "no-store"});
+    if (!r.ok) throw new Error(r.status);
+    day = await r.json();
+    if (!day || !Array.isArray(day.topics) || !day.topics.length) throw new Error("empty");
+    day.topics = day.topics.filter(t => t && t.article && t.article.url);
+    if (day.date !== todayKey) $("today").textContent += ` · stories from ${day.date}`;
+    renderTiles();
+  } catch(e){
+    $("tiles").innerHTML = "";
+    $("result").innerHTML = `<div class="empty">No stories yet. Run the "Daily Spin stories" workflow from the repo's Actions tab, then refresh.</div>`;
+    renderStat();
+  }
+})();
+</script>
+</body>
+</html>
