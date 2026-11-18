@@ -1,0 +1,324 @@
+{
+ "date": "2026-11-18",
+ "topics": [
+  {
+   "id": "medicine",
+   "name": "Medicine",
+   "desc": "Health, disease and treatment",
+   "color": "#f43f5e",
+   "article": {
+    "title": "This American Doctor Pioneered Abdominal Surgery by Operating on Enslaved Women",
+    "outlet": "Smithsonian Magazine",
+    "url": "https://www.smithsonianmag.com/history/father-abdominal-surgery-practiced-enslaved-women-180967589/",
+    "year": 2017,
+    "summary": "Ephraim McDowell, a frontier surgeon in Danville, Kentucky, is honored with a statue in the U.S. Capitol as the father of abdominal surgery. The story of his first patient, Jane Todd Crawford, has been retold for two centuries. The article points out that the enslaved women he also operated on while developing a treatment for ovarian cancer got far less attention and have no memorial. It asks who gets remembered as a medical pioneer, and who gets left out.",
+    "facts": [
+     "McDowell published his account of the famous operation in 1817, and later biographies leaned heavily on earlier histories, including one by his granddaughter.",
+     "A museum in his small Kentucky town is devoted to the first ovariotomy and to showing how a frontier doctor lived.",
+     "In 1809 many doctors believed that opening the abdomen meant certain death, and Crawford had no anesthesia. Another source says she sang hymns during the operation.",
+     "Besides Crawford, McDowell operated on four enslaved women. Three of them survived, according to the Kentucky Historical Society."
+    ],
+    "questions": [
+     "Why do some patients and collaborators become part of the official story of a medical breakthrough while others disappear from it?",
+     "Should statues and museums honoring historical doctors be updated to include the people who were experimented on? What might that look like?",
+     "How does being in a small town, far from medical centers, shape what a doctor is willing to try?"
+    ],
+    "related": [
+     {
+      "t": "Ephraim McDowell",
+      "u": "https://en.wikipedia.org/wiki/Ephraim_McDowell",
+      "k": "wiki"
+     },
+     {
+      "t": "Danville, Boyle County: Ephraim McDowell (Kentucky Historical Society)",
+      "u": "https://history.ky.gov/stories-and-blogs/danville-boyle-county-ephraim-mcdowell",
+      "k": "sci"
+     },
+     {
+      "t": "Jane Todd Crawford: The Mother of Abdominal Surgery",
+      "u": "https://explorekyhistory.ky.gov/items/show/807",
+      "k": "sci"
+     },
+     {
+      "t": "Review of 'Doctors on Horseback' (Smithsonian)",
+      "u": "https://www.smithsonianmag.com/arts-culture/review-of-doctors-on-horseback-86992400/",
+      "k": "sci"
+     }
+    ]
+   },
+   "alt": {
+    "title": "Lady Mary Wortley Montagu \u2013 the forgotten immunisation pioneer",
+    "outlet": "The Conversation",
+    "url": "https://theconversation.com/lady-mary-wortley-montagu-the-forgotten-immunisation-pioneer-164256",
+    "year": 2021,
+    "summary": "Many people know the story of Edward Jenner and the smallpox vaccine. This piece looks at the socialite whose earlier inoculation work helped lay the groundwork for his discovery, and whose role has been largely forgotten. She was struck by the Turkish practice of 'variolation' against smallpox and helped popularise it. The article notes that Jenner is taught to medical students worldwide, while she gets little credit.",
+    "facts": [
+     "Her interest began with descriptions of the Turkish method of inoculating people against smallpox. She wrote about them while living abroad.",
+     "A prison experiment strengthened the campaign for variolation, even though inoculation stayed controversial and faced medical and religious opposition.",
+     "Jenner's portrait hangs in the Royal College of Physicians of London, but the woman whose work came before his is largely forgotten.",
+     "In the Yorkshire woolen town of Halifax, a country physician named Thomas Nettleton tried inoculation despite local opposition. He was moved by the suffering of families in nearby towns and villages."
+    ],
+    "questions": [
+     "Why do credit and fame in science often go to the person who completes a discovery rather than the people who made it possible?",
+     "How might a socialite with no medical training have been able to bring an idea from one culture to another?",
+     "What do the small-town and rural doctors in this story show about how new medical ideas spread?"
+    ],
+    "related": [
+     {
+      "t": "The Forgotten History of Inoculation (Yale University Press)",
+      "u": "https://yalebooks.yale.edu/2020/10/09/the-forgotten-history-of-inoculation/",
+      "k": "sci"
+     },
+     {
+      "t": "Temple of Vaccinia in Berkeley (Atlas Obscura)",
+      "u": "https://www.atlasobscura.com/places/temple-of-vaccinia",
+      "k": "sci"
+     },
+     {
+      "t": "Eli Todd",
+      "u": "https://en.wikipedia.org/wiki/Eli_Todd",
+      "k": "wiki"
+     }
+    ]
+   }
+  },
+  {
+   "id": "paleontology",
+   "name": "Paleontology",
+   "desc": "Life in deep time",
+   "color": "#b45309",
+   "article": {
+    "title": "Bone Thugs-N-Disharmony: Was forgotten paleontologist Joseph Leidy a casualty of the famous dinosaur wars?",
+    "outlet": "Slate",
+    "url": "https://slate.com/business/2013/08/dinosaur-bone-wars-othniel-charles-marsh-edward-drinker-cope-and-their-forgotten-rival.html",
+    "year": 2013,
+    "summary": "Everyone knows the story of Cope and Marsh, the two 19th-century fossil hunters who spent decades trying to ruin each other. This piece shifts attention to Joseph Leidy, an older Philadelphia scientist whose work came before theirs. When the two younger men turned fossil collecting into a cutthroat contest, Leidy backed out. The article asks whether his reputation was a quiet casualty of the feud.",
+    "facts": [
+     "A planned film about the Cope\u2013Marsh feud was to star James Gandolfini and Steve Carell.",
+     "Cope and Marsh renamed Leidy's species dozens of times, as though the finds were their own new discoveries.",
+     "In Wyoming, both rivals found evidence of the same elephant-like beast with six knobby bumps on its head.",
+     "Beyond fossil animals, Leidy named at least 100 single-celled organisms and 300 invertebrates."
+    ],
+    "questions": [
+     "Does a famous rivalry help science by speeding up discovery, or does it bury quieter researchers like Leidy?",
+     "Why do you think the stories of cooperative scientists are remembered less than those of bitter rivals?",
+     "What rules would you set so that competing fossil hunters get credit fairly?"
+    ],
+    "related": [
+     {
+      "t": "Florentino Ameghino",
+      "u": "https://en.wikipedia.org/wiki/Florentino_Ameghino",
+      "k": "wiki"
+     },
+     {
+      "t": "The Bone Wars: A Real Life Battle For Bones (Houston Museum of Natural Science)",
+      "u": "https://blog.hmns.org/2019/06/the-bone-wars-a-real-life-battle-for-bones/",
+      "k": "sci"
+     },
+     {
+      "t": "Dinosaur Wars (PBS American Experience)",
+      "u": "https://www.pbs.org/wgbh/americanexperience/features/biography/dinosaur-rivalry",
+      "k": "sci"
+     }
+    ]
+   },
+   "alt": {
+    "title": "Stones & Bones: The dino 'monsters' of Patagonia\u2014and the hermit who found them",
+    "outlet": "National Geographic",
+    "url": "https://www.nationalgeographic.com/newsletters/article/stones-bones-dino-monsters-patagonia-hermit",
+    "year": 2026,
+    "summary": "This newsletter feature heads to the Patagonian Desert in Argentina. There, a shepherd named Dionide Mesa spotted strange bones that turned out to belong to a new long-necked dinosaur. Over about twenty years, paleontologists recovered more than 40 of its bones from a Late Jurassic site. The find offers a glimpse of life on the ancient southern supercontinent Gondwana. It also tells a story of long-term partnership between a scientist and a local man with a gift for spotting fossils. That makes a gentle contrast to the Bone Wars-style rivalries.",
+    "facts": [
+     "More than 40 bones of the new sauropod came out of one Late Jurassic Patagonian site.",
+     "The excavation ran for over two decades.",
+     "The fossils were found by a shepherd living in a remote part of the desert.",
+     "In 2005 the paleontologist Pol trekked eight hours into the desert to track the shepherd down."
+    ],
+    "questions": [
+     "How should credit be shared between professional scientists and local people who first spot a fossil?",
+     "What can a Gondwana-era dinosaur tell us about how the southern continents were once connected?",
+     "Is a long, friendly partnership better for science than a fierce race to be first?"
+    ],
+    "related": [
+     {
+      "t": "Museum of Paleontology Egidio Feruglio",
+      "u": "https://en.wikipedia.org/wiki/Museum_of_Paleontology_Egidio_Feruglio",
+      "k": "wiki"
+     },
+     {
+      "t": "Southern Terror (Science)",
+      "u": "https://www.science.org/content/article/southern-terror",
+      "k": "sci"
+     },
+     {
+      "t": "Dinosaurs in Argentina (University of Arizona classroom resource)",
+      "u": "https://clas.arizona.edu/sites/default/files/Argentina_STEM_Dinosaurs%20in%20Argentina.pdf",
+      "k": "sci"
+     }
+    ]
+   }
+  },
+  {
+   "id": "ecology",
+   "name": "Ecology",
+   "desc": "Organisms and their environment",
+   "color": "#34d399",
+   "article": {
+    "title": "Return of the lions: Large protected areas in Africa attract apex predator",
+    "outlet": "Mongabay",
+    "url": "https://news.mongabay.com/2023/06/return-of-the-lions-large-protected-areas-in-africa-attract-apex-predator/",
+    "year": 2023,
+    "summary": "Zinave National Park in Mozambique lost most of its wildlife during the country's civil war. Since then, thousands of animals have been brought back to restore it. Lions weren't part of that effort, but a young male has now settled there anyway. The story argues that big, well-protected reserves can draw predators back by themselves, and it points to similar comebacks in other African countries.",
+    "facts": [
+     "One park official remembers Zinave as beautiful but deathly quiet, like a graveyard, before restoration began.",
+     "Park managers don't know where the new lion came from. It probably walked in from Kruger, Limpopo or Gonarezhou, all linked parks.",
+     "Lions are also returning to protected areas in countries such as Chad, Zambia and Senegal, not only Mozambique.",
+     "A rewilding manager says the goal is to bring back key species that reshape habitat so other species can live there."
+    ],
+    "questions": [
+     "If a lion walks into a park on its own, is that rewilding or simply nature recovering? Does the difference matter?",
+     "Why might large, connected parks work better than small isolated reserves for bringing back predators?",
+     "What do local people gain or lose when top predators return to nearby land?"
+    ],
+    "related": [
+     {
+      "t": "Zinave National Park",
+      "u": "https://en.wikipedia.org/wiki/Zinave_National_Park",
+      "k": "wiki"
+     },
+     {
+      "t": "Species reintroduction",
+      "u": "https://en.wikipedia.org/wiki/Species_reintroduction",
+      "k": "wiki"
+     },
+     {
+      "t": "Researching One of Nature's Comeback Stories (Boston University)",
+      "u": "https://www.bu.edu/cgs/?p=47427",
+      "k": "sci"
+     },
+     {
+      "t": "Rewilding case study: Gorongosa National Park, Mozambique (Pringle & Gon\u00e7alves, Princeton)",
+      "u": "https://pringle.princeton.edu/wp-content/uploads/sites/798/2022/11/2022_Pringle-Goncalves-Chapter.pdf",
+      "k": "sci"
+     }
+    ]
+   },
+   "alt": {
+    "title": "It Might Be Impossible to Turn Back the Clock on Altered Ecosystems",
+    "outlet": "Smithsonian Magazine",
+    "url": "https://www.smithsonianmag.com/science-nature/it-might-be-impossible-turn-back-clock-altered-ecosystems-180958316/",
+    "year": 2016,
+    "summary": "This article looks at the doubts some ecologists have about rewilding. They say that bringing back a large animal rarely has the tidy effect people expect. Ecosystems that humans have already changed may respond in unpredictable and sometimes harmful ways. One researcher says we should think about the whole cascade of effects, and that managing 'novel ecosystems' may sometimes be a better goal than recreating the past.",
+    "facts": [
+     "Wolves reintroduced in parts of the US and Europe cut grazer numbers, which left more berries for grizzly bears.",
+     "One ecologist says reintroducing a large animal always brings a mixed bag of effects.",
+     "The article's opening example is the tule elk, brought back to California's Point Reyes National Seashore, where rewilding has had unintended side effects.",
+     "The critics say reintroduction isn't always bad. Their point is that planners often look at only one or two effects instead of the full chain."
+    ],
+    "questions": [
+     "Is it realistic to restore an ecosystem to a past 'natural' state? Which past would we pick?",
+     "How should conservationists weigh the risk of unexpected side effects against the cost of doing nothing?",
+     "What would a 'novel ecosystem' approach look like, and who would decide what counts as success?"
+    ],
+    "related": [
+     {
+      "t": "Rewilding (disambiguation)",
+      "u": "https://en.wikipedia.org/wiki/Rewilding_(disambiguation)",
+      "k": "wiki"
+     },
+     {
+      "t": "Researcher urges caution on rewilding to restore wild spaces (University of Tennessee)",
+      "u": "https://news.utk.edu/2016/02/08/researcher-urges-caution-rewilding-restore-wild-spaces",
+      "k": "sci"
+     },
+     {
+      "t": "Wolf Rewilding Leads to Unforeseen Species Interactions (UW\u2013Madison)",
+      "u": "https://grow.cals.wisc.edu/priority-themes/healthy-ecosystems/wolf-rewilding-leads-to-unforeseen-species-interactions",
+      "k": "sci"
+     },
+     {
+      "t": "Rewilding returns lost species to strengthen ecosystems (Science News Explores)",
+      "u": "https://www.snexplores.org/article/rewilding-lost-species-strengthen-ecosystems",
+      "k": "sci"
+     }
+    ]
+   }
+  },
+  {
+   "id": "ai",
+   "name": "Artificial Intelligence",
+   "desc": "Machines that learn and reason",
+   "color": "#a78bfa",
+   "article": {
+    "title": "How AI decoded a 400 year old Vatican mystery",
+    "outlet": "Gold FM News (Sri Lanka), reporting on the BBC feature",
+    "url": "https://hirunews.lk/goldfmnews/469428/how-ai-decoded-a-400-year-old-vatican-mystery",
+    "year": 2026,
+    "summary": "A hand-written, 408-page book sat unread in the Vatican library for more than 400 years. It was written in a cipher, and a note inside the cover hints that it holds secret remedies for ailments of the human body. Researchers used machine learning and an AI chatbot to read and decode it. Medical advice like this was often hidden because it could draw accusations of witchcraft. The same tools are now being pointed at other coded archives, including a stash of cipher-script love letters.",
+    "facts": [
+     "The Borg cipher uses 34 odd symbols, a few Roman letters, and a front page in plain Arabic.",
+     "Researchers' AI chatbot translated a 500-symbol extract in a little over 29 minutes.",
+     "The decoded text contains strange cures, such as drinking plenty of good red wine or fermenting nutmeg in dough to treat dysentery.",
+     "Researchers estimate that about 1% of archival material is fully or partly encrypted, so a lot of history is still locked away."
+    ],
+    "questions": [
+     "Why might healers have chosen to hide their medical knowledge in code, and what does that say about how society treated medicine at the time?",
+     "If an AI can decode a text in minutes, how should historians check that its translation is right and not an invented answer?",
+     "What else might be sitting in encrypted archives, and which kinds of secrets would you most want AI to unlock?"
+    ],
+    "related": [
+     {
+      "t": "Borg cipher",
+      "u": "https://en.wikipedia.org/wiki/Borg_cipher",
+      "k": "wiki"
+     },
+     {
+      "t": "Decoding the Past, Informing the Future: Artificial Intelligence as a Bridge Between Ancient Egyptian Medical Knowledge and Modern Surgical Practice",
+      "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13037296/",
+      "k": "sci"
+     },
+     {
+      "t": "Medicine in Ancient Rome: A Historical Study Using Artificial Intelligence for Analysis",
+      "u": "https://link.springer.com/chapter/10.1007/978-3-031-90893-4_53",
+      "k": "sci"
+     }
+    ]
+   },
+   "alt": {
+    "title": "Medieval Medical Books Could Hold the Recipe for New Antibiotics",
+    "outlet": "The Conversation",
+    "url": "https://theconversation.com/medieval-medical-books-could-hold-the-recipe-for-new-antibiotics-74490",
+    "year": 2017,
+    "summary": "A research team is turning a 15th-century English medical text, the Lylye of Medicynes, into a searchable database. They then use network analysis, a data-science method that maps relationships between entries, to find ingredient combinations that keep turning up in remedies for infections. The idea is that medieval healers may have followed a rational pattern, and that those patterns could point to candidate 'ancientbiotic' recipes to test in the lab. It is a clear example of computational pattern-finding applied to a medieval medical text, in a time of growing antibiotic resistance.",
+    "facts": [
+     "The Lylye of Medicynes is a 15th-century Middle English medical text. Its recipes follow a standard format of remedy type, stage of illness, then ingredients.",
+     "The text holds 360 recipes that mention thousands of ingredient names for 113 different conditions.",
+     "Medieval recipes often listed ingredients without exact amounts, even when hazardous materials were involved.",
+     "A related 10th-century eye salve of wine, garlic, leek and ox bile worked against MRSA only as a combination, because the separate ingredients did not."
+    ],
+    "questions": [
+     "If patterns in medieval recipes can guide modern drug searches, what other old records might be worth mining with algorithms?",
+     "How would you tell whether a historical remedy works because of its ingredients or only by coincidence?",
+     "Does it change how you see medieval medicine to learn it may have followed rational patterns?"
+    ],
+    "related": [
+     {
+      "t": "Bald's eyesalve",
+      "u": "https://en.wikipedia.org/wiki/Bald's_eyesalve",
+      "k": "wiki"
+     },
+     {
+      "t": "Data Mining a Medieval Medical Text Reveals Patterns in Ingredient Choice That Reflect Biological Activity against Infectious Agents",
+      "u": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7018648/",
+      "k": "sci"
+     },
+     {
+      "t": "Ancient Solutions for Modern Problems: Fighting Antibiotic Resistance with a 10th Century Remedy",
+      "u": "https://thedishonscience.stanford.edu/articles/ancient-solutions-modern-problems",
+      "k": "sci"
+     }
+    ]
+   }
+  }
+ ]
+}
