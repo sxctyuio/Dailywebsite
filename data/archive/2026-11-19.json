@@ -1,0 +1,349 @@
+{
+ "date": "2026-11-19",
+ "topics": [
+  {
+   "id": "biology",
+   "name": "Biology",
+   "desc": "Living organisms and life processes",
+   "color": "#22c55e",
+   "article": {
+    "title": "How understanding plant body clocks could help transform how food is grown",
+    "outlet": "The Conversation",
+    "url": "https://theconversation.com/how-understanding-plant-body-clocks-could-help-transform-how-food-is-grown-199137",
+    "year": 2023,
+    "summary": "This article looks at the inner timekeeping that plants have and how knowing about it might change the way crops are grown. It traces the idea back to ancient Greece, when a ship's captain recorded a tamarind tree's leaves opening and closing each day. It then moves to the 1700s, when a French scientist showed the rhythm carries on without any change in light. That experiment is the basis for how we define a circadian rhythm.",
+    "facts": [
+     "The earliest known reports of a plant body clock come from ancient Greece, long before 1500.",
+     "The observer was a ship's captain, not a scholar, and he was watching a tamarind tree's leaves.",
+     "In the 1700s, Jean-Jacques d'Ortous de Mairan studied the leaves of Mimosa pudica, a member of the pea family.",
+     "The leaves kept their rhythm in constant darkness, so the plant was producing the cycle itself instead of reacting to light."
+    ],
+    "questions": [
+     "Why might it be an advantage for a plant to predict dawn and dusk instead of just reacting to light?",
+     "How could knowing a crop's internal clock change the way farmers plant, breed or harvest it?",
+     "What does it say about science that a ship's captain and an 18th-century astronomer both found this by watching leaves?"
+    ],
+    "related": [
+     {
+      "t": "Drosophila circadian rhythm",
+      "u": "https://en.wikipedia.org/wiki/Drosophila_circadian_rhythm",
+      "k": "wiki"
+     },
+     {
+      "t": "Circadian Rhythms (Botany)",
+      "u": "https://www.ebsco.com/research-starters/anatomy-and-physiology/circadian-rhythms-botany/",
+      "k": "sci"
+     },
+     {
+      "t": "The birth of chronobiology: a botanical observation",
+      "u": "https://srbr.org/the-birth-of-chronobiology-a-botanical-observation/",
+      "k": "sci"
+     },
+     {
+      "t": "Circadian clock during plant development",
+      "u": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6151625/",
+      "k": "sci"
+     }
+    ]
+   },
+   "alt": {
+    "title": "The Jellies That Evolved a Different Way To Keep Time",
+    "outlet": "Quanta Magazine",
+    "url": "https://www.quantamagazine.org/the-jellies-that-evolved-a-different-way-to-keep-time-20260320/",
+    "year": 2026,
+    "summary": "Biologists off the coast of Japan netted a pea-size jellyfish that turned out to be a new species with an odd internal clock. The clock runs on a cycle of about 20 hours, not Earth's 24. It does not use the clock genes that most animals rely on, since this lineage lost them over evolutionary time. The finding hints that other unusual ways of keeping time may be waiting to be found.",
+    "facts": [
+     "The jellyfish is a hydrozoan about the size of a pea, and it was a species new to science.",
+     "Its circadian-style clock tracks roughly 20 hours instead of the 24-hour day.",
+     "It seems to have a second timer, a molecular countdown of about 14 hours that starts at sunrise and leads up to spawning.",
+     "The animal's lineage lost the clock genes thought to be essential for circadian regulation in most other animals."
+    ],
+    "questions": [
+     "If a clock can work without the standard clock genes, what else in biology might we be assuming is universal when it isn't?",
+     "Why might a jellyfish need a countdown timer for spawning in addition to a daily clock?",
+     "What does the chance nature of this discovery suggest about how many other organisms are still unstudied?"
+    ],
+    "related": [
+     {
+      "t": "Circadian clock",
+      "u": "https://en.wikipedia.org/wiki/Circadian_clock",
+      "k": "wiki"
+     },
+     {
+      "t": "Dissecting the Circadian Clock in Real Time",
+      "u": "https://today.ucsd.edu/story/dissecting-the-circadian-clock-in-real-time",
+      "k": "sci"
+     },
+     {
+      "t": "Astonishing complexity of bacterial circadian clocks",
+      "u": "https://www.sciencedaily.com/releases/2023/08/230804140508.htm",
+      "k": "sci"
+     },
+     {
+      "t": "Researchers Studied a Circadian Clock in Real Time in a First For Science",
+      "u": "https://www.sciencealert.com/researchers-studied-a-circadian-clock-in-real-time-in-a-first-for-science",
+      "k": "sci"
+     }
+    ]
+   }
+  },
+  {
+   "id": "chemistry",
+   "name": "Chemistry",
+   "desc": "Composition, structure and reactions of matter",
+   "color": "#fb923c",
+   "article": {
+    "title": "Ancient Romans Made Amazing Color-Changing Glass Using Accidental Nanotech 1,600 Years Ago. Now, Scientists Finally Recreate It",
+    "outlet": "ZME Science",
+    "url": "https://www.zmescience.com/other/art-other/lycurgus-cup-recreating-sheffield-uni/",
+    "year": 2026,
+    "summary": "A Roman glass cup from about 1,600 years ago shows different colors depending on how light hits it. For decades, modern scientists struggled to copy this effect. Researchers at the University of Sheffield have now made glass that closely matches the cup's optics, using a new recipe inspired by Roman methods. The article frames the Romans' use of tiny metal particles as nanotechnology by accident, and asks whether the craftsmen really understood what they were doing.",
+    "facts": [
+     "The Lycurgus Cup looks jade green when lit from the front but blood red when lit from behind.",
+     "The Sheffield team tried different furnaces, raw materials, oxygen levels and even sugar before getting a close match.",
+     "The metal flecks that cause the effect are only about 50 nanometers across, far smaller than a grain of table salt.",
+     "The gold in the glass may have got there by chance, perhaps as a trace impurity in silver or as workshop residue."
+    ],
+    "questions": [
+     "If the Romans got a nanotech effect without knowing the science, does that count as invention or luck?",
+     "How can modern chemists work out an ancient recipe when no written instructions survive?",
+     "What other everyday materials might owe their properties to accidental ingredients that no one noticed?"
+    ],
+    "related": [
+     {
+      "t": "Lycurgus Cup",
+      "u": "https://en.wikipedia.org/wiki/Lycurgus_Cup",
+      "k": "wiki"
+     },
+     {
+      "t": "History of glass",
+      "u": "https://en.wikipedia.org/wiki/History_of_glass",
+      "k": "wiki"
+     },
+     {
+      "t": "This 1,600-Year-Old Goblet Shows that the Romans Were Nanotechnology Pioneers",
+      "u": "https://www.smithsonianmag.com/history/this-1600-year-old-goblet-shows-that-the-romans-were-nanotechnology-pioneers-787224/",
+      "k": "sci"
+     },
+     {
+      "t": "How was glass the first glass believed to be made? - Ask a Glass Question",
+      "u": "https://libanswers.cmog.org/faq/143701",
+      "k": "sci"
+     }
+    ]
+   },
+   "alt": {
+    "title": "Dean Arnold pieces together mystery of Maya blue",
+    "outlet": "AAAS",
+    "url": "https://aaas.org/dean-arnold-pieces-together-mystery-maya-blue",
+    "year": 2013,
+    "summary": "In 1965 a chance rainstorm in Yucatan started anthropologist Dean Arnold on a long, partly accidental effort to understand Maya blue, a sky-blue pigment. Chemists had already shown that heating the clay palygorskite with a little indigo makes an unusually stable blue. Arnold later found a pot at the Field Museum, recovered from the Sacred Cenote at Chichen Itza. Its contents suggested the Maya made the pigment as part of a ritual.",
+    "facts": [
+     "Maya blue can still be seen on murals at Chichen Itza that are easily 800 years old.",
+     "The pigment is made by gently heating a mix of indigo dye and a special clay.",
+     "Arnold's key find was a three-legged pot that had been pulled from a sacred sinkhole in 1904 and then sat in a museum.",
+     "Archeology magazine named the paper on how and why the Maya made it one of the top 10 discoveries of 2008."
+    ],
+    "questions": [
+     "Why might an ancient culture turn pigment-making into a religious ritual?",
+     "What does it say about science when a rainstorm and an old museum pot lead to a breakthrough?",
+     "How can chemists reverse-engineer a recipe that has been used for centuries without any written formula?"
+    ],
+    "related": [
+     {
+      "t": "Maya blue",
+      "u": "https://en.wikipedia.org/wiki/Maya_blue",
+      "k": "wiki"
+     },
+     {
+      "t": "Pigment",
+      "u": "https://en.wikipedia.org/wiki/Pigment",
+      "k": "wiki"
+     },
+     {
+      "t": "The Mystery of Maya Blue Finally Solved",
+      "u": "https://www.mcgill.ca/oss/article/science-science-everywhere/mystery-maya-blue-finally-solved",
+      "k": "sci"
+     },
+     {
+      "t": "Ancient secrets of Maya blue revealed: a second method for creating the iconic pigment discovered",
+      "u": "https://archaeologymag.com/2025/05/ancient-secrets-of-maya-blue-revealed/",
+      "k": "sci"
+     }
+    ]
+   }
+  },
+  {
+   "id": "astrophysics",
+   "name": "Astrophysics",
+   "desc": "The physics of the universe",
+   "color": "#6366f1",
+   "article": {
+    "title": "From Worlds That Look Like Cotton Candy to Others Covered in Volcanoes, These Are the Strangest and Most Captivating Exoplanets",
+    "outlet": "Smithsonian Magazine",
+    "url": "https://www.smithsonianmag.com/science-nature/from-worlds-that-look-like-cotton-candy-to-others-covered-in-volcanoes-these-are-the-strangest-and-most-captivating-exoplanets-180986260/",
+    "year": 2025,
+    "summary": "This tour of oddball alien worlds includes fluffy planets, a world with an ocean of lava, a planet as dark as night, and one hotter than many stars. It also tells how astronomer William Borucki spent about two decades refining and resubmitting proposals for a dedicated planet-hunting telescope before it was built. His persistence eventually produced the Kepler space telescope, the most prolific exoplanet hunter so far.",
+    "facts": [
+     "KELT-9 b has a dayside around 7,800 \u00b0F, making it the hottest exoplanet found so far.",
+     "One featured planet is hot enough that its surface would melt rock, so it has an ocean of lava.",
+     "Borucki's telescope proposals were turned down repeatedly over roughly twenty years.",
+     "The planet HD 209458 b helped his Kepler mission get off the ground after it became the first planet detected by the transit method from ground-based telescopes."
+    ],
+    "questions": [
+     "Is stubborn persistence like Borucki's a scientific virtue, or does it sometimes keep bad ideas alive?",
+     "Which of these strange planets would you most want to study up close, and what would you hope to learn?",
+     "How do you think scientists decide what counts as a planet when conditions are as extreme as on KELT-9 b?"
+    ],
+    "related": [
+     {
+      "t": "William J. Borucki",
+      "u": "https://en.wikipedia.org/wiki/William_J._Borucki",
+      "k": "wiki"
+     },
+     {
+      "t": "KELT-9b",
+      "u": "https://en.wikipedia.org/wiki/KELT-9b",
+      "k": "wiki"
+     },
+     {
+      "t": "For Hottest Planet, a Major Meltdown, Study Shows - NASA Science",
+      "u": "https://science.nasa.gov/universe/exoplanets/for-hottest-planet-a-major-meltdown-study-shows/",
+      "k": "sci"
+     },
+     {
+      "t": "William J. Borucki - Franklin Institute",
+      "u": "https://fi.edu/en/awards/laureates/william-j-borucki",
+      "k": "sci"
+     }
+    ]
+   },
+   "alt": {
+    "title": "Mysterious 'puffy' planet may finally be explained by James Webb Space Telescope",
+    "outlet": "Live Science",
+    "url": "https://www.livescience.com/space/exoplanets/mysterious-puffy-planet-may-finally-be-explained-by-james-webb-space-telescope",
+    "year": 2024,
+    "summary": "WASP-107 b is one of the least dense planets ever found. Its density has been likened to a microwaved marshmallow. New James Webb Space Telescope data show far less methane in its atmosphere than expected, which may explain how it got so inflated. Its air is so extended that its star's ultraviolet light is slowly stripping it away, leaving a comet-like tail.",
+    "facts": [
+     "The planet's methane is about one-thousandth of what astronomers expected.",
+     "Its star's radiation strips away roughly 0.1% to 4% of the atmosphere's mass every billion years.",
+     "Because the atmosphere is so extended, astronomers can see about 50 times deeper into it than they can for a Jupiter-like world.",
+     "Earlier Webb observations suggested that it rains sand on this planet."
+    ],
+    "questions": [
+     "If a planet can be nearly Jupiter-sized but only a fraction of the mass, what does that say about how planets form?",
+     "What can a planet that is slowly losing its atmosphere teach us about the fate of other worlds, including our own?",
+     "Why might a missing ingredient, like the absent methane, be as informative as one that is present?"
+    ],
+    "related": [
+     {
+      "t": "WASP-107b",
+      "u": "https://en.wikipedia.org/wiki/WASP-107b",
+      "k": "wiki"
+     },
+     {
+      "t": "JWST data reveal interior structure of puffy exoplanet - Physics World",
+      "u": "https://physicsworld.com/a/jwst-data-reveal-interior-structure-of-puffy-exoplanet/",
+      "k": "sci"
+     },
+     {
+      "t": "Webb Telescope captures exoplanet dramatically shedding its atmosphere in real time - UChicago News",
+      "u": "https://news.uchicago.edu/story/webb-telescope-captures-exoplanet-dramatically-shedding-its-atmosphere-real-time",
+      "k": "sci"
+     },
+     {
+      "t": "WASP-107",
+      "u": "https://en.wikipedia.org/wiki/WASP-107",
+      "k": "wiki"
+     }
+    ]
+   }
+  },
+  {
+   "id": "ai",
+   "name": "Artificial Intelligence",
+   "desc": "Machines that learn and reason",
+   "color": "#a78bfa",
+   "article": {
+    "title": "In the Early Days of Machine Learning, Massive Computers Said George Harrison Was a Woman. A.I. Has Come a Long Way",
+    "outlet": "Smithsonian Magazine",
+    "url": "https://www.smithsonianmag.com/innovation/early-days-machine-learning-massive-computers-said-george-harrison-was-woman-ai-come-long-way-180988805/",
+    "year": 2026,
+    "summary": "This feature goes back to Frank Rosenblatt, a Cornell psychologist who built the Perceptron, a room-size machine meant to copy how a neuron works. It took in information, ran it through circuits and gave an answer. Researchers trained it with yes/no feedback that changed how it weighed what came in. Rosenblatt predicted it would grow wiser with experience, and the article follows how that idea spread into today's AI.",
+    "facts": [
+     "The Perceptron was a room-size grid of 400 light-sensing detectors built to sort images.",
+     "The New York Times described it in a July 1958 headline as an electronic 'brain' that teaches itself.",
+     "Rosenblatt died in a boating accident in 1971 at age 43, so he never saw his idea take off.",
+     "A physicist who later studied at Cornell remembers seeing an experimental Perceptron gathering dust in a barn at a pig roast."
+    ],
+    "questions": [
+     "Why do you think a 1958 machine that sorted simple images got so much hype, and what does that tell us about how we react to new AI today?",
+     "Rosenblatt promised a machine that would 'grow wiser' with experience. How much of that promise has come true?",
+     "What do early failures, like misjudging a Beatle's gender, teach us about how we should judge AI's progress?"
+    ],
+    "related": [
+     {
+      "t": "Perceptron (Wikipedia)",
+      "u": "https://en.wikipedia.org/wiki/Perceptron",
+      "k": "wiki"
+     },
+     {
+      "t": "Minsky vs. Rosenblatt (UMass Brain Wars)",
+      "u": "https://websites.umass.edu/brain-wars/the-debates/minsky-vs-rosenblatt/",
+      "k": "sci"
+     },
+     {
+      "t": "A history of AI (University of Oxford)",
+      "u": "https://oxford.shorthandstories.com/ai-a-history/index.html",
+      "k": "sci"
+     },
+     {
+      "t": "Table of contents for Summer 2026 in Smithsonian Magazine: The Thinking Machine",
+      "u": "https://www.zinio.com/publications/smithsonian-magazine/8362/issues/710590/articles",
+      "k": "sci"
+     }
+    ]
+   },
+   "alt": {
+    "title": "Science: The Thinking Machine",
+    "outlet": "TIME",
+    "url": "https://time.com/archive/6796057/science-the-thinking-machine-2/",
+    "year": 1950,
+    "summary": "This 1950 TIME story looks at the giant early computers of the day, including Harvard's machines, and asks whether they truly 'think'. It lays out an argument between researchers who see thinking in the way the machines compare numbers with stored memory and conservatives who disagree. Harvard's Howard Aiken is one of the doubters. He grants the machines nearly every trait of human thinking except imagination. The piece shows how people in the 1950s were already debating machine minds.",
+    "facts": [
+     "The article describes a computer nicknamed 'Bessie' that had been working steadily since 1944.",
+     "The machine had to warm up its vacuum tubes before it was ready to work, so the operators could turn it on and still find it 'not really awake'.",
+     "Harvard's Mark III was about to go to the Navy and was described as having the best memory of any machine so far.",
+     "It was meant for ambitious jobs such as long-range weather forecasting."
+    ],
+    "questions": [
+     "Aiken said machines lack imagination. Do you think that is still true of AI today?",
+     "How does the 1950 argument over whether computers 'think' compare with today's arguments about AI?",
+     "Why might the press in 1950 have called these number-crunching machines 'thinking' ones?"
+    ],
+    "related": [
+     {
+      "t": "Harvard Mark III (Wikipedia)",
+      "u": "https://en.wikipedia.org/wiki/Harvard_Mark_III",
+      "k": "wiki"
+     },
+     {
+      "t": "Documenting Invention in the Digital Age (Smithsonian)",
+      "u": "https://invention.si.edu/invention-stories/documenting-invention-digital-age",
+      "k": "sci"
+     },
+     {
+      "t": "Computer Pioneers: Aiken, Howard Hathaway (IEEE Computer Society)",
+      "u": "https://history.computer.org/pioneers/aiken.html",
+      "k": "sci"
+     },
+     {
+      "t": "Howard Aiken biography (MacTutor, University of St Andrews)",
+      "u": "https://mathshistory.st-andrews.ac.uk/Biographies/Aiken/",
+      "k": "sci"
+     }
+    ]
+   }
+  }
+ ]
+}
