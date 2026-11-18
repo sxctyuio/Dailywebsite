@@ -18,6 +18,6 @@ found by Claude with a live web search, plus a summary, fun facts, starting ques
 4. **Settings → Pages**: Deploy from a branch → `main` → `/ (root)` → Save.
 5. **Actions tab → Daily Spin stories → Run workflow** once to create the first day of stories.
 
-Your page: `https://<username>.github.io/<repo>/`
+
 
 Cost: each night is about 4 Claude calls with up to 6 web searches each, billed to your API account.
