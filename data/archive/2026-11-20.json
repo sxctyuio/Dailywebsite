@@ -1,0 +1,334 @@
+{
+ "date": "2026-11-20",
+ "topics": [
+  {
+   "id": "engineering",
+   "name": "Engineering",
+   "desc": "How things are designed and built",
+   "color": "#fb7185",
+   "article": {
+    "title": "10 Ruins of the Pursuit of Super Science",
+    "outlet": "Atlas Obscura",
+    "url": "https://www.atlasobscura.com/articles/the-atlas-obscura-guide-to-ruins-of-super-science",
+    "year": 2025,
+    "summary": "This tour of abandoned science projects asks what happens when big ambitions outrun budgets and patience. The best-known example is a giant particle collider in Texas. Its costs ballooned by billions of dollars and Congress cut it off early in the 1990s, with only a short stretch of tunnel dug. The list also covers other grand experiments left to ruin, including a deep-drilling race and a sealed-in miniature world.",
+    "facts": [
+     "The Texas collider got only about 14 miles of tunnel dug before Congress pulled the plug.",
+     "The Soviet Kola drilling site kept going after a rival US drilling project was scrapped, and it made the deepest hole in the world at 7.5 miles.",
+     "The Nevada Test Site, nicknamed Survival Town, offers tours of the desert where leftover test buildings still stand.",
+     "In one sealed-habitat experiment, falling oxygen, hunger and stress split the crew into two warring factions after two years."
+    ],
+    "questions": [
+     "When a megaproject is already partly built, what should decide whether to finish it or cancel it?",
+     "Do abandoned projects like these count as failures, or can the knowledge and ruins they leave behind still be worth something?",
+     "Why do the most ambitious science and engineering projects so often run far over budget?"
+    ],
+    "related": [
+     {
+      "t": "Superconducting Super Collider",
+      "u": "https://en.wikipedia.org/wiki/Superconducting_Super_Collider",
+      "k": "wiki"
+     },
+     {
+      "t": "Megaproject",
+      "u": "https://en.wikipedia.org/wiki/Megaproject",
+      "k": "wiki"
+     },
+     {
+      "t": "How Was The Channel Tunnel Built? (Institution of Civil Engineers)",
+      "u": "https://www.ice.org.uk/what-is-civil-engineering/infrastructure-projects/the-channel-tunnel",
+      "k": "sci"
+     }
+    ]
+   },
+   "alt": {
+    "title": "Is China Pulling Ahead in the Quest for Fusion Energy?",
+    "outlet": "IEEE Spectrum",
+    "url": "https://spectrum.ieee.org/china-nuclear-fusion-reactor",
+    "year": 2025,
+    "summary": "This article looks at a wave of fusion research buildings going up in China. It starts with a huge X-shaped complex in Sichuan that outside analysts think could be a laser-based fusion facility. Satellite images and procurement records suggest it resembles the US National Ignition Facility but is much bigger. The piece asks whether China's fast, large-scale construction is a real scientific lead, and it points to several fusion reactors being built across the country.",
+    "facts": [
+     "The X-shaped building near Mianyang has four long arms that may be laser bays pointed at a central chamber.",
+     "Analysts working out what the site is relied on satellite imagery and procurement records, because the project's purpose isn't publicly confirmed.",
+     "The site is thought to look like the US National Ignition Facility, but larger.",
+     "A triangular vacuum chamber in Hefei is one of several fusion devices under construction in China."
+    ],
+    "questions": [
+     "How much can you really tell about a secretive megaproject just from satellite photos and purchase records?",
+     "Does building fast and big count as scientific progress, or is it a different thing from making discoveries?",
+     "What are the pros and cons of one country pouring huge resources into one experimental technology?"
+    ],
+    "related": [
+     {
+      "t": "Megastructure",
+      "u": "https://en.wikipedia.org/wiki/Megastructure",
+      "k": "wiki"
+     },
+     {
+      "t": "Megaproject",
+      "u": "https://en.wikipedia.org/wiki/Megaproject",
+      "k": "wiki"
+     },
+     {
+      "t": "Nevada and Arizona: Hoover Dam (U.S. National Park Service)",
+      "u": "https://www.nps.gov/articles/nevada-and-arizona-hoover-dam.htm",
+      "k": "sci"
+     }
+    ]
+   }
+  },
+  {
+   "id": "oceanography",
+   "name": "Oceanography",
+   "desc": "Oceans and marine ecosystems",
+   "color": "#06b6d4",
+   "article": {
+    "title": "Gravitational anomalies reveal seamount 3 times the height of world's tallest building",
+    "outlet": "Space.com",
+    "url": "https://www.space.com/seamount-discovered-via-gravitational-anomalies",
+    "year": 2024,
+    "summary": "A research ship called Falkor (too) found and mapped four huge underwater mountains in the deep Pacific, several hundred miles off Peru and Chile. The crew did not stumble on them. They plotted a route based on tiny gravity signals that show up in satellite data. The biggest peak rises roughly 1.5 miles above the seabed. Scientists think the oceans hold up to 100,000 seamounts, and only a small share have been mapped.",
+    "facts": [
+     "The tallest of the four new seamounts is about 8,796 feet (2,681 m) high, which brings its summit within roughly a mile of the sea surface.",
+     "The mountains sit between about 286 and 373 miles off the coasts of Peru and Chile.",
+     "Big underwater mountains tug slightly harder on gravity, so the sea surface above them bulges a tiny bit, and satellites can detect that bulge.",
+     "Scientists suspect that up to 100,000 seamounts exist worldwide, but only a small fraction have been mapped."
+    ],
+    "questions": [
+     "If satellites can already hint at where hidden mountains are, why do we still need ships to go and map the seafloor directly?",
+     "What might live on a seamount that rises close to the surface from the deep, and why might each seamount host its own distinct community?",
+     "Who should decide how mountains and ecosystems in international waters off South America are studied and protected?"
+    ],
+    "related": [
+     {
+      "t": "Seamount (Wikipedia)",
+      "u": "https://en.wikipedia.org/wiki/Seamount",
+      "k": "wiki"
+     },
+     {
+      "t": "Four New Seamounts Discovered in the High Seas (Schmidt Ocean Institute)",
+      "u": "https://schmidtocean.org/four-new-seamounts-discovered-in-the-high-seas/",
+      "k": "sci"
+     },
+     {
+      "t": "Next-Generation Water Satellite Maps Seafloor From Space (NASA)",
+      "u": "https://www.nasa.gov/missions/swot/next-generation-water-satellite-maps-seafloor-from-space/",
+      "k": "sci"
+     },
+     {
+      "t": "New Seafloor Map Only 25% Done, with 6 Years to Go (Eos)",
+      "u": "https://eos.org/articles/new-seafloor-map-only-25-done-with-6-years-to-go",
+      "k": "sci"
+     }
+    ]
+   },
+   "alt": {
+    "title": "New Study Sets Ambitious Goal to Visualize the Deep Seafloor",
+    "outlet": "National Geographic",
+    "url": "https://news.nationalgeographic.org/new-study-sets-ambitious-goal-to-visualize-the-deep-seafloor/",
+    "year": 2026,
+    "summary": "Researchers have proposed a plan to look at the deep seafloor in a more systematic way. It names 10,000 target locations around the world for exploration and imaging. The first two sites were surveyed in the Southern Ocean: the Drake Passage, which lies between South America and Antarctica, and the Powell Basin in the Weddell Sea. The work is meant to fit into larger efforts like Seabed 2030.",
+    "facts": [
+     "The framework lists 10,000 deep-sea locations to explore, chosen so that they represent the deep ocean worldwide.",
+     "The first two sites completed were the Drake Passage and the Powell Basin, a vast deep-sea plain in the northwestern Weddell Sea.",
+     "Targets were picked using seafloor depth, how the seafloor formed over time, and the type of sediment.",
+     "The Drake Passage links South America and Antarctica, and the opening surveys gave baseline data from one of the most climate-vulnerable regions on Earth."
+    ],
+    "questions": [
+     "Why might a list of target locations help ocean exploration more than visiting whichever places are easiest to reach?",
+     "What could baseline images of a remote place like the Drake Passage tell us when we look at them again in 50 years?",
+     "How should mapping groups share their findings so that every country benefits, including those along the South American coast?"
+    ],
+    "related": [
+     {
+      "t": "Bathymetry (Wikipedia)",
+      "u": "https://en.wikipedia.org/wiki/Bathymetry",
+      "k": "wiki"
+     },
+     {
+      "t": "Southern Ocean Regional Center (Seabed 2030)",
+      "u": "https://seabed2030.org/southern-ocean/",
+      "k": "sci"
+     },
+     {
+      "t": "Seabed 2030 (NOAA Integrated Ocean & Coastal Mapping)",
+      "u": "https://iocm.noaa.gov/seabed-2030.html",
+      "k": "sci"
+     }
+    ]
+   }
+  },
+  {
+   "id": "ecology",
+   "name": "Ecology",
+   "desc": "Organisms and their environment",
+   "color": "#34d399",
+   "article": {
+    "title": "Bats and moths: The nighttime guardians of Africa's baobab trees",
+    "outlet": "BizNews",
+    "url": "https://www.biznews.com/africa/bats-moths-africas-baobab-trees",
+    "year": 2025,
+    "summary": "Africa's iconic baobab trees open their flowers at night and depend on nocturnal visitors to reproduce. Researchers spent hundreds of hours watching, filming and sampling pollen from bats and moths. They found that the flowers differ across the continent depending on who visits. Big fruit bats shaped the blooms in the west, while moths matter more in the south. This means conservation plans need to protect the right pollinators, not just the trees.",
+    "facts": [
+     "Researchers logged 205 hours of observation, filming bats and collecting pollen from their bodies.",
+     "Baobab flowers give off unusual sulphur-like compounds that attract bats, but southern African flowers smell sweeter and appeal to moths.",
+     "Birds, bees and beetles don't pollinate baobab flowers, so the trees rely on just two night-shift groups.",
+     "In east Africa, shorter flower stalks reduce wobble when smaller bats land directly on the blooms."
+    ],
+    "questions": [
+     "If a baobab has adapted to bats but only moths remain nearby, what might happen to the tree's future, and how could we find out?",
+     "Why might nocturnal pollinators like bats and moths get far less attention than bees, and how could that change?",
+     "How should restoration projects decide which pollinators to plan around when planting trees in different regions?"
+    ],
+    "related": [
+     {
+      "t": "The nighttime pollinators of Africa's baobab trees (FAO)",
+      "u": "https://www.fao.org/pollination/resources/knowledge/knowledge-product-detail/the-nighttime-guardians-of-africa-s-baobab-trees/en",
+      "k": "sci"
+     },
+     {
+      "t": "Citizen Science Confirms the Rarity of Fruit Bat Pollination of Baobab Flowers in Southern Africa",
+      "u": "https://www.mdpi.com/1424-2818/12/3/106",
+      "k": "sci"
+     },
+     {
+      "t": "Pollinator decline",
+      "u": "https://en.wikipedia.org/wiki/Pollinator_decline",
+      "k": "wiki"
+     },
+     {
+      "t": "Safeguarding nocturnal pollinators for food security in sub-Saharan Africa",
+      "u": "https://www.sciencedirect.com/science/article/pii/S016953472500223X",
+      "k": "sci"
+     }
+    ]
+   },
+   "alt": {
+    "title": "Pollinator declines linked to half million early human deaths annually: Study",
+    "outlet": "Mongabay",
+    "url": "https://news.mongabay.com/2023/02/pollinator-declines-linked-to-half-million-early-human-deaths-annually-study/",
+    "year": 2023,
+    "summary": "A study estimates that falling insect pollinator numbers contribute to around half a million premature human deaths each year. The loss of pollinators reduces the supply of nutritious foods such as fruits and vegetables. Middle-income countries including Russia, China and India are hit hardest. Surprisingly, parts of sub-Saharan Africa and Latin America are among the least affected. The article also lists ways to help, such as protecting habitat and cutting harmful pesticides.",
+    "facts": [
+     "The estimate is about half a million early deaths per year tied to pollinator decline.",
+     "Wealthy nations were more insulated from the effect than middle-income ones.",
+     "Some regions with high food insecurity, like parts of sub-Saharan Africa, were among the least hit.",
+     "Earlier research tracking 344 crop fields linked roughly a quarter of the yield gap to lost pollinators."
+    ],
+    "questions": [
+     "Why might regions with serious food insecurity be less affected by pollinator loss, and does that mean they are safe?",
+     "How should we weigh the health cost of declining pollinators against the pesticides used to protect crops?",
+     "What would a farm-level or national-level plan to rebuild wild pollinators look like?"
+    ],
+    "related": [
+     {
+      "t": "Decline in insect populations",
+      "u": "https://en.wikipedia.org/wiki/Decline_in_insect_populations",
+      "k": "wiki"
+     },
+     {
+      "t": "Pollinator Decline - an overview (ScienceDirect Topics)",
+      "u": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/pollinator-decline",
+      "k": "sci"
+     },
+     {
+      "t": "Evaluation of the Distribution and Impacts of Parasites, Pathogens, and Pesticides on Honey Bee Populations in East Africa",
+      "u": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3989218/",
+      "k": "sci"
+     },
+     {
+      "t": "Pollinator decline",
+      "u": "https://en.wikipedia.org/wiki/Pollinator_decline",
+      "k": "wiki"
+     }
+    ]
+   }
+  },
+  {
+   "id": "ai",
+   "name": "Artificial Intelligence",
+   "desc": "Machines that learn and reason",
+   "color": "#a78bfa",
+   "article": {
+    "title": "NASA is Building an Autonomous Robot Fleet to Explore Beneath the Uncharted Arctic Ice Caps",
+    "outlet": "The Debrief",
+    "url": "https://thedebrief.org/nasa-autonomous-robot-fleet-to-explore-beneath-the-arctic-unmapped-polar-ice-caps/",
+    "year": 2024,
+    "summary": "NASA's Jet Propulsion Laboratory is building a fleet of autonomous robots called IceNode. They are meant to slip under floating ice and measure how warm ocean water melts it from below. The robots are about 8 feet long and carry specialized sensors. The goal is better data on ice melt, which should improve predictions of how fast sea levels will rise. A prototype has already been tested in the Arctic, though the long-term target is Antarctic ice shelves.",
+    "facts": [
+     "The robots have no propeller. They position themselves with software that uses models of ocean currents.",
+     "Each robot is roughly 8 feet (2.4 m) long but only 10 inches (25 cm) wide.",
+     "When a robot reaches its target, it drops ballast and rises. Three-legged 'landing gear' then springs out to attach it to the underside of the ice.",
+     "The first polar test took place in March 2024 in the Beaufort Sea north of Alaska, at a U.S. Navy ice camp."
+    ],
+    "questions": [
+     "What are the trade-offs of sending a robot that can't steer itself into a place nobody has ever seen?",
+     "Why might robots be better than satellites or human researchers at measuring ice melt?",
+     "If the data improves sea-level forecasts, how should that change what communities and governments do?"
+    ],
+    "related": [
+     {
+      "t": "NASA JPL Developing Underwater Robots to Venture Deep Below Polar Ice",
+      "u": "https://www.jpl.nasa.gov/news/nasa-jpl-developing-underwater-robots-to-venture-deep-below-polar-ice/",
+      "k": "sci"
+     },
+     {
+      "t": "Underwater robots to explore beneath Antarctic ice",
+      "u": "https://earthsky.org/earth/underwater-robots-to-explore-beneath-antarctic-ice/",
+      "k": "sci"
+     },
+     {
+      "t": "Ice shelf (Simple English Wikipedia)",
+      "u": "https://simple.wikipedia.org/wiki/Ice_shelf",
+      "k": "wiki"
+     },
+     {
+      "t": "Ice shelf (ScienceDaily reference)",
+      "u": "https://www.sciencedaily.com/terms/ice_shelf.htm",
+      "k": "sci"
+     }
+    ]
+   },
+   "alt": {
+    "title": "Lynx S10 becomes first four-legged robot to walk on Arctic ice floes",
+    "outlet": "Interesting Engineering",
+    "url": "https://interestingengineering.com/culture/lynxs10-first-quadruped-robot-to-walk-across-arctic",
+    "year": 2026,
+    "summary": "A modified version of the Lynx S10, a robot dog from the Chinese company DEEP Robotics, became the first four-legged robot to walk on Arctic Ocean ice floes. Engineers gave it bear-like paws and AI-based navigation so it could cope with ice, snow and meltwater. The machine was still an early prototype, tested in real expedition conditions instead of a controlled demo. The article argues its main value is showing that small autonomous robots can handle unstable terrain that even experienced researchers treat with great caution.",
+    "facts": [
+     "The robot's standard wheels were replaced with paws inspired by polar bear feet.",
+     "It can move through slushy ice-and-water terrain because its enlarged limbs work a bit like paddles.",
+     "It weighs under 20 kilograms and uses AI for path planning and obstacle avoidance.",
+     "At one point it crossed what looked like solid ice but actually floated over hidden water."
+    ],
+    "questions": [
+     "Why is sea ice a harder challenge for a robot than a rocky or sandy surface?",
+     "How much should we trust the claim that a robot is 'autonomous' if humans still supervise parts of the trip?",
+     "What kinds of dangerous fieldwork would you hand over to a robot first, and why?"
+    ],
+    "related": [
+     {
+      "t": "Legged robot",
+      "u": "https://en.wikipedia.org/wiki/Legged_robot",
+      "k": "wiki"
+     },
+     {
+      "t": "Quadrupedalism",
+      "u": "https://en.wikipedia.org/wiki/Quadruped_(Robotics)",
+      "k": "wiki"
+     },
+     {
+      "t": "Robotics in Snow and Ice",
+      "u": "https://arxiv.org/pdf/2208.05095",
+      "k": "sci"
+     },
+     {
+      "t": "Quadruped robots: What are robot dogs used for?",
+      "u": "https://howtorobot.com/expert-insight/quadruped-robots",
+      "k": "sci"
+     }
+    ]
+   }
+  }
+ ]
+}
