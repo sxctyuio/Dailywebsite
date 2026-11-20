@@ -1,245 +1,250 @@
 {
- "date": "2026-11-20",
+ "date": "2026-11-21",
  "topics": [
   {
-   "id": "engineering",
-   "name": "Engineering",
-   "desc": "How things are designed and built",
-   "color": "#fb7185",
+   "id": "zoology",
+   "name": "Zoology",
+   "desc": "Animals and animal behavior",
+   "color": "#eab308",
    "article": {
-    "title": "10 Ruins of the Pursuit of Super Science",
-    "outlet": "Atlas Obscura",
-    "url": "https://www.atlasobscura.com/articles/the-atlas-obscura-guide-to-ruins-of-super-science",
+    "title": "As birds migrate south, there's an invisible danger: glass",
+    "outlet": "NPR",
+    "url": "https://www.npr.org/2025/10/07/nx-s1-5542409/as-birds-migrate-south-theres-an-invisible-danger-glass",
     "year": 2025,
-    "summary": "This tour of abandoned science projects asks what happens when big ambitions outrun budgets and patience. The best-known example is a giant particle collider in Texas. Its costs ballooned by billions of dollars and Congress cut it off early in the 1990s, with only a short stretch of tunnel dug. The list also covers other grand experiments left to ruin, including a deep-drilling race and a sealed-in miniature world.",
+    "summary": "Every migration season, huge numbers of birds die when they fly into glass buildings they can't see. The story follows volunteers who walk a set route through Washington, DC each morning to find fallen birds before they are lost. It also looks at a night in Chicago when a convention center's glass wall killed close to a thousand birds. Birding groups, government agencies and others are now joining forces to tackle the problem together.",
     "facts": [
-     "The Texas collider got only about 14 miles of tunnel dug before Congress pulled the plug.",
-     "The Soviet Kola drilling site kept going after a rival US drilling project was scrapped, and it made the deepest hole in the world at 7.5 miles.",
-     "The Nevada Test Site, nicknamed Survival Town, offers tours of the desert where leftover test buildings still stand.",
-     "In one sealed-habitat experiment, falling oxygen, hunger and stress split the crew into two warring factions after two years."
+     "Researchers estimate that at least a billion birds die from building collisions in the U.S. every year.",
+     "On one October night in 2023, nearly a thousand migrating birds were found dead at a single Chicago convention center.",
+     "Volunteers with Lights Out DC walk the same route every morning in migration season to find dead or injured birds before rats or custodians do.",
+     "Reflections in glass strongly attract birds, and some buildings funnel them toward a tall glass wall."
     ],
     "questions": [
-     "When a megaproject is already partly built, what should decide whether to finish it or cancel it?",
-     "Do abandoned projects like these count as failures, or can the knowledge and ruins they leave behind still be worth something?",
-     "Why do the most ambitious science and engineering projects so often run far over budget?"
+     "Why might a bird's migration instincts fail to prepare it for modern glass architecture?",
+     "How should cities balance attractive glass buildings against the toll on wildlife?",
+     "What small changes could you make at your own home or workplace to help migrating birds?"
     ],
     "related": [
      {
-      "t": "Superconducting Super Collider",
-      "u": "https://en.wikipedia.org/wiki/Superconducting_Super_Collider",
+      "t": "Bird migration perils",
+      "u": "https://en.wikipedia.org/wiki/Bird_migration_perils",
       "k": "wiki"
      },
      {
-      "t": "Megaproject",
-      "u": "https://en.wikipedia.org/wiki/Megaproject",
+      "t": "Bird fallout",
+      "u": "https://en.wikipedia.org/wiki/Bird_fallout",
       "k": "wiki"
      },
      {
-      "t": "How Was The Channel Tunnel Built? (Institution of Civil Engineers)",
-      "u": "https://www.ice.org.uk/what-is-civil-engineering/infrastructure-projects/the-channel-tunnel",
+      "t": "Crash land home for the holidays (Columbia Climate School, State of the Planet)",
+      "u": "https://news.climate.columbia.edu/2011/12/20/crash-land-home-for-the-holidays",
       "k": "sci"
      }
     ]
    },
    "alt": {
-    "title": "Is China Pulling Ahead in the Quest for Fusion Energy?",
-    "outlet": "IEEE Spectrum",
-    "url": "https://spectrum.ieee.org/china-nuclear-fusion-reactor",
-    "year": 2025,
-    "summary": "This article looks at a wave of fusion research buildings going up in China. It starts with a huge X-shaped complex in Sichuan that outside analysts think could be a laser-based fusion facility. Satellite images and procurement records suggest it resembles the US National Ignition Facility but is much bigger. The piece asks whether China's fast, large-scale construction is a real scientific lead, and it points to several fusion reactors being built across the country.",
+    "title": "New Tracking Technology Reveals Hidden Animal Migration Routes",
+    "outlet": "Smithsonian Magazine",
+    "url": "https://www.smithsonianmag.com/science-nature/technology-gps-collar-reveals-hidden-animal-migration-routes-180971185/",
+    "year": 2018,
+    "summary": "Decades of satellite-collar data on Wyoming's deer, elk and pronghorn are being used to map migration corridors across the state. Scientists capture animals from helicopters and fit them with collars that record where the herds go. The collars revealed an overlooked route that was rare within its herd and would have been blocked if a key property had been developed. A conservation fund bought the land and turned it into a wildlife habitat management area.",
     "facts": [
-     "The X-shaped building near Mianyang has four long arms that may be laser bays pointed at a central chamber.",
-     "Analysts working out what the site is relied on satellite imagery and procurement records, because the project's purpose isn't publicly confirmed.",
-     "The site is thought to look like the US National Ignition Facility, but larger.",
-     "A triangular vacuum chamber in Hefei is one of several fusion devices under construction in China."
+     "Migration routes can be hard to find because they may be used by only a small part of a herd.",
+     "Researchers rely on the fact that animals tend to return to the same habitats year after year.",
+     "Biologists capture deer from helicopters to fit them with tracking collars.",
+     "One newly mapped route was saved when conservationists raised money to buy the land along it."
     ],
     "questions": [
-     "How much can you really tell about a secretive megaproject just from satellite photos and purchase records?",
-     "Does building fast and big count as scientific progress, or is it a different thing from making discoveries?",
-     "What are the pros and cons of one country pouring huge resources into one experimental technology?"
+     "If a migration route is used by only a few animals, how much protection does it deserve?",
+     "What are the trade-offs between collaring wild animals and the knowledge we gain from it?",
+     "How might a route you never knew existed change decisions about building roads or housing?"
     ],
     "related": [
      {
-      "t": "Megastructure",
-      "u": "https://en.wikipedia.org/wiki/Megastructure",
+      "t": "Animal migration tracking",
+      "u": "https://en.wikipedia.org/wiki/Animal_migration_tracking",
       "k": "wiki"
      },
      {
-      "t": "Megaproject",
-      "u": "https://en.wikipedia.org/wiki/Megaproject",
+      "t": "Animal migration",
+      "u": "https://en.wikipedia.org/wiki/Animal_migration",
       "k": "wiki"
      },
      {
-      "t": "Nevada and Arizona: Hoover Dam (U.S. National Park Service)",
-      "u": "https://www.nps.gov/articles/nevada-and-arizona-hoover-dam.htm",
+      "t": "Astonishing Stories of Animal Migrations (Audubon)",
+      "u": "https://www.audubon.org/news/astonishing-stories-animal-migrations",
       "k": "sci"
      }
     ]
    }
   },
   {
-   "id": "oceanography",
-   "name": "Oceanography",
-   "desc": "Oceans and marine ecosystems",
-   "color": "#06b6d4",
+   "id": "anatomy",
+   "name": "Anatomy",
+   "desc": "The structures of living bodies",
+   "color": "#f87171",
    "article": {
-    "title": "Gravitational anomalies reveal seamount 3 times the height of world's tallest building",
-    "outlet": "Space.com",
-    "url": "https://www.space.com/seamount-discovered-via-gravitational-anomalies",
-    "year": 2024,
-    "summary": "A research ship called Falkor (too) found and mapped four huge underwater mountains in the deep Pacific, several hundred miles off Peru and Chile. The crew did not stumble on them. They plotted a route based on tiny gravity signals that show up in satellite data. The biggest peak rises roughly 1.5 miles above the seabed. Scientists think the oceans hold up to 100,000 seamounts, and only a small share have been mapped.",
-    "facts": [
-     "The tallest of the four new seamounts is about 8,796 feet (2,681 m) high, which brings its summit within roughly a mile of the sea surface.",
-     "The mountains sit between about 286 and 373 miles off the coasts of Peru and Chile.",
-     "Big underwater mountains tug slightly harder on gravity, so the sea surface above them bulges a tiny bit, and satellites can detect that bulge.",
-     "Scientists suspect that up to 100,000 seamounts exist worldwide, but only a small fraction have been mapped."
-    ],
-    "questions": [
-     "If satellites can already hint at where hidden mountains are, why do we still need ships to go and map the seafloor directly?",
-     "What might live on a seamount that rises close to the surface from the deep, and why might each seamount host its own distinct community?",
-     "Who should decide how mountains and ecosystems in international waters off South America are studied and protected?"
-    ],
-    "related": [
-     {
-      "t": "Seamount (Wikipedia)",
-      "u": "https://en.wikipedia.org/wiki/Seamount",
-      "k": "wiki"
-     },
-     {
-      "t": "Four New Seamounts Discovered in the High Seas (Schmidt Ocean Institute)",
-      "u": "https://schmidtocean.org/four-new-seamounts-discovered-in-the-high-seas/",
-      "k": "sci"
-     },
-     {
-      "t": "Next-Generation Water Satellite Maps Seafloor From Space (NASA)",
-      "u": "https://www.nasa.gov/missions/swot/next-generation-water-satellite-maps-seafloor-from-space/",
-      "k": "sci"
-     },
-     {
-      "t": "New Seafloor Map Only 25% Done, with 6 Years to Go (Eos)",
-      "u": "https://eos.org/articles/new-seafloor-map-only-25-done-with-6-years-to-go",
-      "k": "sci"
-     }
-    ]
-   },
-   "alt": {
-    "title": "New Study Sets Ambitious Goal to Visualize the Deep Seafloor",
-    "outlet": "National Geographic",
-    "url": "https://news.nationalgeographic.org/new-study-sets-ambitious-goal-to-visualize-the-deep-seafloor/",
+    "title": "Experts uncover a truly bizarre prehistoric animal \u2013 with teeth like a seal, a platypus-like pelvis and the tail of an otter",
+    "outlet": "Discover Wildlife",
+    "url": "https://www.discoverwildlife.com/prehistoric-life/megacauda-sungei-china",
     "year": 2026,
-    "summary": "Researchers have proposed a plan to look at the deep seafloor in a more systematic way. It names 10,000 target locations around the world for exploration and imaging. The first two sites were surveyed in the Southern Ocean: the Drake Passage, which lies between South America and Antarctica, and the Powell Basin in the Weddell Sea. The work is meant to fit into larger efforts like Seabed 2030.",
+    "summary": "Researchers have described Megacauda, a mammal-like animal that lived over 160 million years ago and combined traits now found in very different animals. Micro-CT scans let the team rebuild its skull and skeleton in detail. Small bony projections on the roof of its mouth and specialised throat bones suggest it already had parts of the machinery mammals use to suckle and swallow. The find pushes back the timeline for how a defining mammal feeding habit evolved.",
     "facts": [
-     "The framework lists 10,000 deep-sea locations to explore, chosen so that they represent the deep ocean worldwide.",
-     "The first two sites completed were the Drake Passage and the Powell Basin, a vast deep-sea plain in the northwestern Weddell Sea.",
-     "Targets were picked using seafloor depth, how the seafloor formed over time, and the type of sediment.",
-     "The Drake Passage links South America and Antarctica, and the opening surveys gave baseline data from one of the most climate-vulnerable regions on Earth."
+     "Its cheek teeth were blade-like, much like a modern seal's.",
+     "Its pelvis resembled a platypus's, and its tail looked like an otter's.",
+     "Throat bones called hyoids help anchor the swallowing muscles of living mammals, and this animal had specialised ones.",
+     "Soft-tissue features like these are rarely preserved in fossils, so scientists had long struggled to date them."
     ],
     "questions": [
-     "Why might a list of target locations help ocean exploration more than visiting whichever places are easiest to reach?",
-     "What could baseline images of a remote place like the Drake Passage tell us when we look at them again in 50 years?",
-     "How should mapping groups share their findings so that every country benefits, including those along the South American coast?"
+     "Why might the ability to swallow milk safely have mattered so much for early mammal relatives?",
+     "How can scientists infer soft tissues like muscles from bones alone, and how reliable are those inferences?",
+     "What does a mix of seal, platypus and otter traits tell us about how evolution recombines body features?"
     ],
     "related": [
      {
-      "t": "Bathymetry (Wikipedia)",
-      "u": "https://en.wikipedia.org/wiki/Bathymetry",
-      "k": "wiki"
-     },
-     {
-      "t": "Southern Ocean Regional Center (Seabed 2030)",
-      "u": "https://seabed2030.org/southern-ocean/",
+      "t": "Mammals\u2019 weird way of swallowing is at least 165 million years old (NOVA)",
+      "u": "https://www.pbs.org/wgbh/nova/article/microdocodon-gracilis/",
       "k": "sci"
      },
      {
-      "t": "Seabed 2030 (NOAA Integrated Ocean & Coastal Mapping)",
-      "u": "https://iocm.noaa.gov/seabed-2030.html",
+      "t": "A bone that aids chewing may have helped start the Age of Mammals (Science News)",
+      "u": "https://www.sciencenews.org/article/flexible-bone-helps-mammals-chew-dates-back-jurassic-period",
+      "k": "sci"
+     },
+     {
+      "t": "Megaconus",
+      "u": "https://en.wikipedia.org/wiki/Megaconus",
+      "k": "wiki"
+     },
+     {
+      "t": "Megazostrodon",
+      "u": "https://en.wikipedia.org/wiki/Megazostrodon",
+      "k": "wiki"
+     }
+    ]
+   },
+   "alt": {
+    "title": "6-Million-Year-Old Bizarre Whale Swam Ancient Oceans With Nostrils on One Side of Its Face",
+    "outlet": "Discover Magazine",
+    "url": "https://www.discovermagazine.com/6-million-year-old-bizarre-whale-swam-ancient-oceans-with-nostrils-on-one-side-of-its-face-49977",
+    "year": 2026,
+    "summary": "Scientists have described Scaphokogia huachafo, an extinct pygmy sperm whale whose skull was so crooked that both nostrils ended up on its left side. Lopsided skulls are normal in sperm whales because of their echolocation and sound-making organs, but this one goes much further. Its neck joints suggest it could tilt its head sharply downward. Together with dense bone and a downturned snout, that would have let it cruise just above the seabed and feed near the sediment.",
+    "facts": [
+     "Both of its nostrils sat on the left side of its face.",
+     "Its neck joints suggest it could bend its head down by as much as 55 degrees.",
+     "It lived off the coast of what is now Peru and Mexico in the Late Miocene, around six million years ago.",
+     "Dense skull bone helped it stay low over the seafloor while it fed."
+    ],
+    "questions": [
+     "Why might a lopsided skull be an advantage for an animal that hunts using sound?",
+     "How do scientists work out how an extinct animal moved or fed from its skull and neck bones?",
+     "What other living animals have asymmetric bodies, and what might drive that?"
+    ],
+    "related": [
+     {
+      "t": "Pygmy sperm whale",
+      "u": "https://en.wikipedia.org/wiki/Pygmy_sperm_whale",
+      "k": "wiki"
+     },
+     {
+      "t": "Kogiidae",
+      "u": "https://en.wikipedia.org/wiki/Kogiidae",
+      "k": "wiki"
+     },
+     {
+      "t": "Extreme cranial asymmetry in extinct benthic feeding sperm whales (Communications Biology)",
+      "u": "https://www.nature.com/articles/s42003-026-11074-2",
+      "k": "sci"
+     },
+     {
+      "t": "Scaphokogia huachafo - A Bizarre Late Miocene Toothed Whale",
+      "u": "https://blog.everythingdinosaur.com/blog/_archives/2026/11/16/scaphokogia-huachafo-bizarre-prehistoric-whale.html",
       "k": "sci"
      }
     ]
    }
   },
   {
-   "id": "ecology",
-   "name": "Ecology",
-   "desc": "Organisms and their environment",
-   "color": "#34d399",
+   "id": "genetics",
+   "name": "Genetics",
+   "desc": "Genes, heredity and variation",
+   "color": "#c084fc",
    "article": {
-    "title": "Bats and moths: The nighttime guardians of Africa's baobab trees",
-    "outlet": "BizNews",
-    "url": "https://www.biznews.com/africa/bats-moths-africas-baobab-trees",
-    "year": 2025,
-    "summary": "Africa's iconic baobab trees open their flowers at night and depend on nocturnal visitors to reproduce. Researchers spent hundreds of hours watching, filming and sampling pollen from bats and moths. They found that the flowers differ across the continent depending on who visits. Big fruit bats shaped the blooms in the west, while moths matter more in the south. This means conservation plans need to protect the right pollinators, not just the trees.",
+    "title": "Twins are a mirror to each other \u2013 and a window into the mysteries of genetics",
+    "outlet": "NPR",
+    "url": "https://www.npr.org/transcripts/1230111399",
+    "year": 2024,
+    "summary": "Psychologist Nancy Segal explains why twins are so useful to geneticists. Identical twins share all their genes, so comparing them with fraternal twins shows how much a trait is down to genes. The most revealing cases are identical twins raised apart. She describes studying two pairs of Colombian twins who were reunited as adults, and finding that their personalities lined up closely with their genetic twins rather than with the families who raised them.",
     "facts": [
-     "Researchers logged 205 hours of observation, filming bats and collecting pollen from their bodies.",
-     "Baobab flowers give off unusual sulphur-like compounds that attract bats, but southern African flowers smell sweeter and appeal to moths.",
-     "Birds, bees and beetles don't pollinate baobab flowers, so the trees rely on just two night-shift groups.",
-     "In east Africa, shorter flower stalks reduce wobble when smaller bats land directly on the blooms."
+     "Identical twins form when one fertilized egg divides within about the first 14 days after conception.",
+     "If identical twins raised apart are as alike as identical twins raised together, that is stronger evidence that genes matter.",
+     "Segal travelled to Bogot\u00e1 to study two sets of Colombian identical twins, one pair from the city and one from the countryside.",
+     "One of the Colombian pairs was outgoing and risk-taking, and the reunited twins' personalities matched almost perfectly with their genetic twins. Other coverage says the two pairs had been accidentally swapped at birth and raised as if they were fraternal twins."
     ],
     "questions": [
-     "If a baobab has adapted to bats but only moths remain nearby, what might happen to the tree's future, and how could we find out?",
-     "Why might nocturnal pollinators like bats and moths get far less attention than bees, and how could that change?",
-     "How should restoration projects decide which pollinators to plan around when planting trees in different regions?"
+     "If identical twins raised apart turn out strikingly alike, what does that say about how much of who we are is decided before birth?",
+     "What ethical rules should apply when researchers study twins who were separated, whether by accident or on purpose?",
+     "Why might it be misleading to treat coincidences between reunited twins as proof that genes control behaviour?"
     ],
     "related": [
      {
-      "t": "The nighttime pollinators of Africa's baobab trees (FAO)",
-      "u": "https://www.fao.org/pollination/resources/knowledge/knowledge-product-detail/the-nighttime-guardians-of-africa-s-baobab-trees/en",
-      "k": "sci"
-     },
-     {
-      "t": "Citizen Science Confirms the Rarity of Fruit Bat Pollination of Baobab Flowers in Southern Africa",
-      "u": "https://www.mdpi.com/1424-2818/12/3/106",
-      "k": "sci"
-     },
-     {
-      "t": "Pollinator decline",
-      "u": "https://en.wikipedia.org/wiki/Pollinator_decline",
+      "t": "Twin study",
+      "u": "https://en.wikipedia.org/wiki/Twin_study",
       "k": "wiki"
      },
      {
-      "t": "Safeguarding nocturnal pollinators for food security in sub-Saharan Africa",
-      "u": "https://www.sciencedirect.com/science/article/pii/S016953472500223X",
+      "t": "Nancy Segal",
+      "u": "https://en.wikipedia.org/wiki/Nancy_Segal",
+      "k": "wiki"
+     },
+     {
+      "t": "Twin Studies Expert Nancy Segal Featured in Netflix Documentary 'The Accidental Twins' (Cal State Fullerton)",
+      "u": "https://news.fullerton.edu/press-release/twin-studies-expert-nancy-segal-featured-in-netflix-documentary-the-accidental-twins/",
+      "k": "sci"
+     },
+     {
+      "t": "A Tale of Mismatched Twins",
+      "u": "https://www.psychotherapynetworker.org/article/tale-mismatched-twins/",
       "k": "sci"
      }
     ]
    },
    "alt": {
-    "title": "Pollinator declines linked to half million early human deaths annually: Study",
-    "outlet": "Mongabay",
-    "url": "https://news.mongabay.com/2023/02/pollinator-declines-linked-to-half-million-early-human-deaths-annually-study/",
+    "title": "Unique twin study sheds new light on TBI and risk of cognitive decline",
+    "outlet": "MDedge",
+    "url": "https://www.mdedge.com/neurology/article/265593/alzheimers-cognition/unique-twin-study-sheds-new-light-tbi-and-risk",
     "year": 2023,
-    "summary": "A study estimates that falling insect pollinator numbers contribute to around half a million premature human deaths each year. The loss of pollinators reduces the supply of nutritious foods such as fruits and vegetables. Middle-income countries including Russia, China and India are hit hardest. Surprisingly, parts of sub-Saharan Africa and Latin America are among the least affected. The article also lists ways to help, such as protecting habitat and cutting harmful pesticides.",
+    "summary": "Researchers used a registry of World War II veteran twins to ask whether a head injury in early adulthood affects thinking decades later. By comparing identical twins where only one had a traumatic brain injury, they could largely hold genes and upbringing constant. The injured twins tended to score lower on cognitive tests at about age 70. Outside experts called the twin design a real strength of the study.",
     "facts": [
-     "The estimate is about half a million early deaths per year tied to pollinator decline.",
-     "Wealthy nations were more insulated from the effect than middle-income ones.",
-     "Some regions with high food insecurity, like parts of sub-Saharan Africa, were among the least hit.",
-     "Earlier research tracking 344 crop fields linked roughly a quarter of the yield gap to lost pollinators."
+     "The study drew on 8,662 men born between 1917 and 1927 who were in a national twin registry.",
+     "It included 589 pairs of identical twins where only one twin had a brain injury.",
+     "Injuries that knocked someone unconscious, or that happened after age 24, were linked to a bigger drop in thinking skills.",
+     "An outside neurologist said this was one of the first, if not the first, studies of this question to use a twin design."
     ],
     "questions": [
-     "Why might regions with serious food insecurity be less affected by pollinator loss, and does that mean they are safe?",
-     "How should we weigh the health cost of declining pollinators against the pesticides used to protect crops?",
-     "What would a farm-level or national-level plan to rebuild wild pollinators look like?"
+     "How does comparing identical twins let researchers separate the effect of an accident from the effect of genes?",
+     "What might people who have 'fully recovered' from a concussion do differently if they knew about long-term risks?",
+     "What are the limits of relying on injuries that participants remember and report themselves?"
     ],
     "related": [
      {
-      "t": "Decline in insect populations",
-      "u": "https://en.wikipedia.org/wiki/Decline_in_insect_populations",
+      "t": "Twin study",
+      "u": "https://en.wikipedia.org/wiki/Twin_study",
       "k": "wiki"
      },
      {
-      "t": "Pollinator Decline - an overview (ScienceDirect Topics)",
-      "u": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/pollinator-decline",
+      "t": "Concussions Cause Greater Cognitive Declines in Later Life (Duke Psychiatry)",
+      "u": "https://psychiatry.duke.edu/news/concussions-cause-greater-cognitive-declines-later-life",
       "k": "sci"
      },
      {
-      "t": "Evaluation of the Distribution and Impacts of Parasites, Pathogens, and Pesticides on Honey Bee Populations in East Africa",
-      "u": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3989218/",
+      "t": "Concussions Early in Life Tied to Late Life Cognitive Decline (American Academy of Neurology)",
+      "u": "https://www.aan.com/PressRoom/Home/PressRelease/5111",
       "k": "sci"
      },
      {
-      "t": "Pollinator decline",
-      "u": "https://en.wikipedia.org/wiki/Pollinator_decline",
-      "k": "wiki"
+      "t": "Study of twins links early concussions to thinking, memory problems later (UPI)",
+      "u": "https://www.upi.com/Health_News/2023/09/07/twin-study-concussions-memory/9781694093568/",
+      "k": "sci"
      }
     ]
    }
@@ -250,81 +255,81 @@
    "desc": "Machines that learn and reason",
    "color": "#a78bfa",
    "article": {
-    "title": "NASA is Building an Autonomous Robot Fleet to Explore Beneath the Uncharted Arctic Ice Caps",
-    "outlet": "The Debrief",
-    "url": "https://thedebrief.org/nasa-autonomous-robot-fleet-to-explore-beneath-the-arctic-unmapped-polar-ice-caps/",
-    "year": 2024,
-    "summary": "NASA's Jet Propulsion Laboratory is building a fleet of autonomous robots called IceNode. They are meant to slip under floating ice and measure how warm ocean water melts it from below. The robots are about 8 feet long and carry specialized sensors. The goal is better data on ice melt, which should improve predictions of how fast sea levels will rise. A prototype has already been tested in the Arctic, though the long-term target is Antarctic ice shelves.",
+    "title": "7 Times A.I. Helped Unlock Ancient Secrets",
+    "outlet": "Artnet News",
+    "url": "https://news.artnet.com/art-world/ai-cracks-archaeology-secrets-2637925",
+    "year": 2025,
+    "summary": "This roundup looks at how artificial intelligence is helping scholars read texts from the ancient world. One case is a neural network that translates parts of Mesopotamian clay tablets from Akkadian into English. Others include AI help with piecing together the Epic of Gilgamesh and student contests to read carbonized Herculaneum scrolls. The article shows that machine translation can work on languages that disappeared thousands of years ago, not only on living ones.",
     "facts": [
-     "The robots have no propeller. They position themselves with software that uses models of ocean currents.",
-     "Each robot is roughly 8 feet (2.4 m) long but only 10 inches (25 cm) wide.",
-     "When a robot reaches its target, it drops ballast and rises. Three-legged 'landing gear' then springs out to attach it to the underside of the ice.",
-     "The first polar test took place in March 2024 in the Beaufort Sea north of Alaska, at a U.S. Navy ice camp."
+     "In May 2023, researchers from two Israeli universities trained a neural network to translate parts of cuneiform tablets from Akkadian into English.",
+     "One sample line the system produced says that a man who keeps his clothes clean will have long days.",
+     "The researchers admit that ancient languages are hard to translate because only fragments of the texts survive.",
+     "They say future progress depends on digitizing more existing texts to use as training data."
     ],
     "questions": [
-     "What are the trade-offs of sending a robot that can't steer itself into a place nobody has ever seen?",
-     "Why might robots be better than satellites or human researchers at measuring ice melt?",
-     "If the data improves sea-level forecasts, how should that change what communities and governments do?"
+     "What does a machine translator lose when the only texts it can learn from are fragments of a dead language?",
+     "Should AI translations of ancient texts be treated as a first draft for experts, or can they be trusted on their own?",
+     "How does translating a language no one has spoken for 2,000 years differ from translating a modern language like French?"
     ],
     "related": [
      {
-      "t": "NASA JPL Developing Underwater Robots to Venture Deep Below Polar Ice",
-      "u": "https://www.jpl.nasa.gov/news/nasa-jpl-developing-underwater-robots-to-venture-deep-below-polar-ice/",
-      "k": "sci"
-     },
-     {
-      "t": "Underwater robots to explore beneath Antarctic ice",
-      "u": "https://earthsky.org/earth/underwater-robots-to-explore-beneath-antarctic-ice/",
-      "k": "sci"
-     },
-     {
-      "t": "Ice shelf (Simple English Wikipedia)",
-      "u": "https://simple.wikipedia.org/wiki/Ice_shelf",
+      "t": "Timeline of machine translation",
+      "u": "https://en.wikipedia.org/wiki/Timeline_of_machine_translation",
       "k": "wiki"
      },
      {
-      "t": "Ice shelf (ScienceDaily reference)",
-      "u": "https://www.sciencedaily.com/terms/ice_shelf.htm",
+      "t": "Translating Akkadian to English with neural machine translation",
+      "u": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10153418/",
       "k": "sci"
+     },
+     {
+      "t": "New AI translates 5,000-year-old cuneiform tablets instantly",
+      "u": "https://bigthink.com/the-future/ai-translates-cuneiform/",
+      "k": "sci"
+     },
+     {
+      "t": "Toledo School of Translators",
+      "u": "https://en.wikipedia.org/wiki/Toledo_School_of_Translators",
+      "k": "wiki"
      }
     ]
    },
    "alt": {
-    "title": "Lynx S10 becomes first four-legged robot to walk on Arctic ice floes",
-    "outlet": "Interesting Engineering",
-    "url": "https://interestingengineering.com/culture/lynxs10-first-quadruped-robot-to-walk-across-arctic",
+    "title": "The Perpetual Quest for a Truth Machine",
+    "outlet": "Nautilus",
+    "url": "https://nautil.us/the-perpetual-quest-for-a-truth-machine-702659",
     "year": 2026,
-    "summary": "A modified version of the Lynx S10, a robot dog from the Chinese company DEEP Robotics, became the first four-legged robot to walk on Arctic Ocean ice floes. Engineers gave it bear-like paws and AI-based navigation so it could cope with ice, snow and meltwater. The machine was still an early prototype, tested in real expedition conditions instead of a controlled demo. The article argues its main value is showing that small autonomous robots can handle unstable terrain that even experienced researchers treat with great caution.",
+    "summary": "This feature follows the long human dream of handing off thinking and language to a machine. It starts with the 13th-century philosopher Ramon Llull, who built paper wheels of basic concepts. He believed they could prove religious truths to doubters and end arguments. The story then follows later thinkers such as Leibniz, who admired the idea but found it lacking, and who wanted a precise language that could settle disputes by calculation. It reads as a prehistory of today's language-handling AI.",
     "facts": [
-     "The robot's standard wheels were replaced with paws inspired by polar bear feet.",
-     "It can move through slushy ice-and-water terrain because its enlarged limbs work a bit like paddles.",
-     "It weighs under 20 kilograms and uses AI for path planning and obstacle avoidance.",
-     "At one point it crossed what looked like solid ice but actually floated over hidden water."
+     "Llull's paper wheels were labeled with concepts such as goodness, eternity, understanding and love.",
+     "Llull claimed his machine could prove the existence of the Christian God even to a stubborn heretic.",
+     "His detailed examples ended up hiding how the machine actually worked, and he did not win the converts he hoped for.",
+     "Leibniz was inspired by Llull's system, and the idea of a universal language that reduces reasoning to calculation traces partly back to Llull."
     ],
     "questions": [
-     "Why is sea ice a harder challenge for a robot than a rocky or sandy surface?",
-     "How much should we trust the claim that a robot is 'autonomous' if humans still supervise parts of the trip?",
-     "What kinds of dangerous fieldwork would you hand over to a robot first, and why?"
+     "Why have people for so long wanted a machine that could settle arguments by working with language?",
+     "Is a universal language that removes misunderstanding possible, or would it lose something important about human speech?",
+     "How are today's language models similar to, and different from, Llull's paper wheels?"
     ],
     "related": [
      {
-      "t": "Legged robot",
-      "u": "https://en.wikipedia.org/wiki/Legged_robot",
+      "t": "Alphabet of human thought",
+      "u": "https://en.wikipedia.org/wiki/Alphabet_of_human_thought",
       "k": "wiki"
      },
      {
-      "t": "Quadrupedalism",
-      "u": "https://en.wikipedia.org/wiki/Quadruped_(Robotics)",
-      "k": "wiki"
-     },
-     {
-      "t": "Robotics in Snow and Ice",
-      "u": "https://arxiv.org/pdf/2208.05095",
+      "t": "Thinking Machines: Ramon Llull and the ars combinatoria (EPFL)",
+      "u": "https://www.epfl.ch/campus/art-culture/wp-content/uploads/2018/12/Thinking_Machines_Brochure_EN.pdf",
       "k": "sci"
      },
      {
-      "t": "Quadruped robots: What are robot dogs used for?",
-      "u": "https://howtorobot.com/expert-insight/quadruped-robots",
+      "t": "The Thinking Machine (CCCB exhibition)",
+      "u": "https://www.cccb.org/en/w/exhibitions/the-thinking-machine",
+      "k": "sci"
+     },
+     {
+      "t": "Ramon Llull (Computer Timeline)",
+      "u": "http://www.computer-timeline.com/timeline/ramon-llull/",
       "k": "sci"
      }
     ]
