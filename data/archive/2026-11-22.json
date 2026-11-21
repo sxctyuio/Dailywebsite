@@ -1,0 +1,329 @@
+{
+ "date": "2026-11-22",
+ "topics": [
+  {
+   "id": "astronomy",
+   "name": "Astronomy",
+   "desc": "Celestial objects, space and the universe",
+   "color": "#818cf8",
+   "article": {
+    "title": "Unlocking the mystery of comets",
+    "outlet": "Astronomy",
+    "url": "https://www.astronomy.com/science/unlocking-the-mystery-of-comets/",
+    "year": 2023,
+    "summary": "This feature looks at how the 1800s turned comets from feared omens into objects of real science. A run of bright comets between 1811 and 1882 arrived just as astronomers gained new tools such as better telescopes, photography and the spectroscope. The article follows milestones like the first comet photographs in 1858 and the first chemical analysis of a comet's light in 1864. It shows how each spectacular visitor taught observers something new about what comets are made of.",
+    "facts": [
+     "The Great Comet of 1811 stayed visible to the naked eye for nine months, a record not beaten until Hale-Bopp in 1996\u201397.",
+     "When Biela's Comet came back in 1846, its nucleus had split into two separate objects.",
+     "The first photograph of a comet, Donati's, was taken in 1858 by an English portrait artist, William Usherwood.",
+     "In 1864 Giovanni Donati put a comet's light through a spectroscope and found glowing diatomic carbon, a clue to its composition."
+    ],
+    "questions": [
+     "Why do you think new tools like photography and the spectroscope changed comet science so quickly in the 1800s?",
+     "How might it have felt to see a comet with a huge tail before electric light, and does that change how you think about fear and wonder?",
+     "What can the break-up of a comet like Biela's tell us about how fragile these objects are?"
+    ],
+    "related": [
+     {
+      "t": "Comet Donati (Wikipedia)",
+      "u": "https://en.wikipedia.org/wiki/Comet_Donati",
+      "k": "wiki"
+     },
+     {
+      "t": "Biela's Comet (Wikipedia)",
+      "u": "https://en.wikipedia.org/wiki/Biela's_Comet",
+      "k": "wiki"
+     },
+     {
+      "t": "ESA Science & Technology \u2013 A History of Comets, Part 3: On the origin of comets",
+      "u": "https://sci.esa.int/web/rosetta/-/54200-on-the-origin-of-comets",
+      "k": "sci"
+     },
+     {
+      "t": "The Bright-Comet Chronicles (International Comet Quarterly, Harvard)",
+      "u": "http://www.icq.eps.harvard.edu/bortle.html",
+      "k": "sci"
+     }
+    ]
+   },
+   "alt": {
+    "title": "Forgotten Women: The star-gazer who discovered eight comets",
+    "outlet": "Stylist",
+    "url": "https://www.stylist.co.uk/visible-women/forgotten-women-the-star-gazer-who-discovered-eight-comets/191317",
+    "year": 2018,
+    "summary": "This profile celebrates Caroline Herschel, who is often overshadowed by her brother William, the man who identified Uranus. She was the first woman to earn a living as a scientist. She independently found eight comets and many deep-sky objects. The piece describes how illness shaped her early life and how she became a respected star-gazer anyway. She lived until 1848, long enough to see the comet-hunting boom of the 1800s begin.",
+    "facts": [
+     "Caroline Herschel died in 1848 at age 97 after discovering eight comets on her own.",
+     "She also found 13 deep-sky objects.",
+     "As a child she survived smallpox, which scarred her, and typhus, which stunted her growth to about 4 ft 3 in.",
+     "William Herschel's discovery of Uranus brought him a knighthood and the post of King's Astronomer to George III."
+    ],
+    "questions": [
+     "Why do you think Caroline Herschel's achievements were overlooked while her brother's were celebrated?",
+     "What does it take to hunt for comets by eye, night after night, with no guarantee of success?",
+     "How might amateur and independent observers still contribute to astronomy today?"
+    ],
+    "related": [
+     {
+      "t": "Donald Machholz (Wikipedia)",
+      "u": "https://en.wikipedia.org/wiki/Donald_Machholz",
+      "k": "wiki"
+     },
+     {
+      "t": "Special Topic: Discoveries and Surveys (RocketSTEM)",
+      "u": "https://www.rocketstem.org/2020/07/18/ice-and-stone-special-topic-30/",
+      "k": "sci"
+     },
+     {
+      "t": "The Ferret of Comets (Charles Messier retrospective)",
+      "u": "https://www.stellar-journeys.org/The%20Ferret%20of%20Comets.pdf",
+      "k": "sci"
+     }
+    ]
+   }
+  },
+  {
+   "id": "linguistics",
+   "name": "Linguistics",
+   "desc": "Language and how it works",
+   "color": "#a78bfa",
+   "article": {
+    "title": "Fighting Off Extinction: The Story of Indigenous Mexican Languages",
+    "outlet": "ICT News (Indian Country Today)",
+    "url": "https://ictnews.org/archive/fighting-off-extinction-the-story-of-indigenous-mexican-languages/",
+    "year": 2014,
+    "summary": "Mexican scholars warned that 21 of the country's Native languages are in critical danger. Ayapaneco was among the most extreme cases, with just two adult speakers. This piece looks at a famous media story: that those two men were the last speakers and wouldn't talk to each other. Anthropologist Daniel Suslak says the story isn't true, because other speakers remain and the two men have been actively helping to document the language.",
+    "facts": [
+     "Mexican scholars said 21 of the country's 143 Native languages have fewer than 200 speakers and are critically endangered. Kiliwa in Baja California has 36 speakers.",
+     "Suslak says the best-known 'last two speakers who won't talk' tale is powerful, but it 'just happens to not be quite true.'",
+     "Several other Ayapaneco speakers are still alive, including siblings of one of the two men and a cousin of the other.",
+     "The two men helped make a book on Ayapaneco words for human anatomy, so Suslak jokes they are the language's 'first writers,' not its last speakers."
+    ],
+    "questions": [
+     "Why do stories about 'the last two speakers who won't talk' spread so easily, and what do they leave out about how languages actually decline?",
+     "When a misleading story brings attention and money to an endangered language, is that a net benefit or harm to the community?",
+     "How should journalists check claims about how many speakers a language has before publishing them?"
+    ],
+    "related": [
+     {
+      "t": "Ayapa Zoque (Wikipedia)",
+      "u": "https://en.wikipedia.org/wiki/Ayapa_Zoque",
+      "k": "wiki"
+     },
+     {
+      "t": "Language revitalization (Wikipedia)",
+      "u": "https://en.wikipedia.org/wiki/Language_revitalization",
+      "k": "wiki"
+     },
+     {
+      "t": "UBC Linguistics grad develops dictionary app to support Indigenous language revitalization",
+      "u": "https://www.arts.ubc.ca/news/ubc-linguistics-grad-develops-dictionary-app-to-support-indigenous-language-revitalization/",
+      "k": "sci"
+     }
+    ]
+   },
+   "alt": {
+    "title": "What does it take to revitalize a dying language?",
+    "outlet": "Global Voices",
+    "url": "https://globalvoices.org/2023/04/03/what-does-it-take-to-revitalize-a-dying-language/",
+    "year": 2023,
+    "summary": "This interview looks at efforts to bring back Kusunda, a language isolate from Nepal that has no known relatives anywhere. After a well-known fluent speaker died in 2020, the language was close to extinction. Instructor Uday Raj Aaley says short classes can't pass on a language, because it needs to be spoken daily. The Kusunda people still hope that government support can keep it alive.",
+    "facts": [
+     "Kusunda is a language isolate, so it isn't related to any other language in the world.",
+     "The Kusunda were once hunter-gatherers and call themselves 'kings of the forest' (ban rajas).",
+     "A sister of the well-known speaker lived in India for about 10 years. During that time the other sister was mistakenly assumed to be the last speaker.",
+     "The Endangered Languages Project notes conflicting reports about who the last Kusunda speaker was, and says the language was basically dormant for 50 to 60 years."
+    ],
+    "questions": [
+     "Can a language survive if it is taught in classes but not spoken at home or in daily life?",
+     "What does it mean for a language to be a 'language isolate,' and why might that make its loss especially costly?",
+     "Who should decide how a revived language is taught: governments, linguists, or the community itself?"
+    ],
+    "related": [
+     {
+      "t": "Kusunda language (Wikipedia)",
+      "u": "https://en.wikipedia.org/wiki/Kusunda_language",
+      "k": "wiki"
+     },
+     {
+      "t": "Gyani Maiya Sen-Kusunda (Wikipedia)",
+      "u": "https://en.wikipedia.org/wiki/Gyani_Maiya_Sen-Kusunda",
+      "k": "wiki"
+     },
+     {
+      "t": "Endangered Languages Project - Kusunda",
+      "u": "https://dhcp-128-171-46-84.its.hawaii.edu/lang/5873",
+      "k": "sci"
+     },
+     {
+      "t": "Archive Nepal launch Kusunda Literature Compilation (British Council)",
+      "u": "https://cultural-protection-fund.britishcouncil.org/stories/kusunda-literature-compilation",
+      "k": "sci"
+     }
+    ]
+   }
+  },
+  {
+   "id": "astrophysics",
+   "name": "Astrophysics",
+   "desc": "The physics of the universe",
+   "color": "#6366f1",
+   "article": {
+    "title": "This Star System Is So Strange that Astronomers Couldn't Recreate How it Formed In Hundreds of Thousands of Simulations",
+    "outlet": "Futurism",
+    "url": "https://futurism.com/space/star-system-strange-simulations",
+    "year": 2026,
+    "summary": "Astronomers found a binary system with a red giant and an unseen, extremely dense companion. The companion is probably a neutron star near the upper limit of what is thought possible. When the team ran 300,000 simulations, none could reproduce the companion's mass and its orbit. That failure suggests that our ideas about how such stars form are missing something.",
+    "facts": [
+     "None of the 300,000 simulations reproduced the system's conditions.",
+     "The orbit is wide and nearly circular. That is odd for a star left behind by a supernova explosion.",
+     "One idea is that two white dwarfs collided and merged to form the neutron star.",
+     "A more circular orbit could even be a hint that the hidden object is a black hole instead."
+    ],
+    "questions": [
+     "When a computer model fails to reproduce a real observation, how should scientists decide whether the model or the data is wrong?",
+     "Why might the line between the heaviest neutron stars and the lightest black holes be so hard to pin down?",
+     "What would it take to convince you that an object you can't see is a neutron star and not a black hole?"
+    ],
+    "related": [
+     {
+      "t": "None of 300,000 Simulations Could Recreate This Strange Star System Hiding a Possibly Record-Heavy Neutron Star",
+      "u": "https://www.natureworldnews.com/articles/73949/20261120/none-300000-simulations-could-recreate-this-strange-star-system-hiding-possibly-record-heavy.htm",
+      "k": "sci"
+     },
+     {
+      "t": "Neutron Star (disambiguation)",
+      "u": "https://en.wikipedia.org/wiki/Neutron_Star_(disambiguation)",
+      "k": "wiki"
+     },
+     {
+      "t": "A New Kind of Cosmic Glitch (McGill University)",
+      "u": "https://www.mcgill.ca/newsroom/channels/news/new-kind-cosmic-glitch-226934",
+      "k": "sci"
+     },
+     {
+      "t": "Supernova mystery solved: JWST reveals the fate of an iconic stellar explosion (Nature)",
+      "u": "https://www.nature.com/articles/d41586-024-00528-4",
+      "k": "sci"
+     }
+    ]
+   },
+   "alt": {
+    "title": "Mystery of dead stars' glitching 'heartbeats' could have a twisted solution",
+    "outlet": "Space.com",
+    "url": "https://www.space.com/neutron-stars-glitching-heartbeats-twisted-solution",
+    "year": 2024,
+    "summary": "Some neutron stars occasionally spin up suddenly. These events are called glitches, and their cause has never been settled. A research team studied 533 pulsar observations and proposed a 'twisted' model based on exotic superfluid behavior deep in the star's core. Their simulations came close to matching the energies of real glitches.",
+    "facts": [
+     "The team examined 533 observations of pulsars.",
+     "The two leading explanations for glitches are starquakes and 'avalanches' of tiny quantum vortices in the star's superfluid interior.",
+     "The new model says the inner core favors vortices with half-integer spin.",
+     "In the model, the superfluid core spins steadily while the ordinary matter around it drags on it."
+    ],
+    "questions": [
+     "Why might a glitch in a star's spin be a useful window into a place we can never visit?",
+     "How can neutron stars connect fields as different as astrophysics, nuclear physics and condensed matter?",
+     "What makes it hard to choose between competing explanations when you can only observe from far away?"
+    ],
+    "related": [
+     {
+      "t": "4U 0142+61",
+      "u": "https://en.wikipedia.org/wiki/4U_0142%2B61",
+      "k": "wiki"
+     },
+     {
+      "t": "Neutron Star 'Glitches' Are Clue to Mysterious Radio Bursts (Sky & Telescope)",
+      "u": "https://skyandtelescope.org/astronomy-news/neutron-star-glitches-key-mysterious-radio-bursts/",
+      "k": "sci"
+     },
+     {
+      "t": "Neutron star 'glitch' offers surprising look inside (Futurity)",
+      "u": "https://www.futurity.org/neutron-star-glitch-2133802/",
+      "k": "sci"
+     },
+     {
+      "t": "Neutron Star 'Glitch' Reveals Engine That Powers Rotation (Courthouse News)",
+      "u": "https://www.courthousenews.com/neutron-star-glitch-reveals-engine-that-powers-rotation/",
+      "k": "sci"
+     }
+    ]
+   }
+  },
+  {
+   "id": "ai",
+   "name": "Artificial Intelligence",
+   "desc": "Machines that learn and reason",
+   "color": "#a78bfa",
+   "article": {
+    "title": "Who owns India's textile traditions in age of AI-enabled mass production?",
+    "outlet": "Al Jazeera",
+    "url": "https://www.aljazeera.com/features/2026/10/21/who-owns-indias-textile-traditions-in-age-of-ai-enabled-mass-production",
+    "year": 2026,
+    "summary": "Indian software firm TCS has built an AI system that turns textile designs into loom-ready instructions. A pilot is running in Kanchipuram, a town in Tamil Nadu famous for its silk saris. Supporters say it helps weavers handle complex patterns with fewer mistakes. The article asks a harder question. If tools meant to preserve a craft can copy its look without the craftsperson, who owns that tradition?",
+    "facts": [
+     "At a New Delhi AI summit in February 2026, the loom was shown guiding weavers with LED lights that mark thread sequences.",
+     "Kanchipuram and Banarasi are names of places that these textiles helped shape, not just places they came from.",
+     "A third-generation Kanchipuram weaver says her business already competes with cheaper saris made on electronic looms.",
+     "The article describes a paradox. Tools built to preserve a craft can make its visual style easier to reproduce digitally without the artisan."
+    ],
+    "questions": [
+     "If an AI learns a community's traditional patterns, who should get credit or payment for what it produces?",
+     "Can a handwoven textile keep its value if machines can copy its look cheaply?",
+     "How could technology help a craft survive without pushing the artisans who made it aside?"
+    ],
+    "related": [
+     {
+      "t": "Kanchipuram silk sari",
+      "u": "https://en.wikipedia.org/wiki/Kanchipuram_silk_sari",
+      "k": "wiki"
+     },
+     {
+      "t": "City of Crafts and Folk Arts",
+      "u": "https://en.wikipedia.org/wiki/City_of_Crafts_and_Folk_Arts",
+      "k": "wiki"
+     },
+     {
+      "t": "Have a damaged painting? Restore it in just hours with an AI-generated mask",
+      "u": "https://news.mit.edu/2025/restoring-damaged-paintings-using-ai-generated-mask-0611",
+      "k": "sci"
+     }
+    ]
+   },
+   "alt": {
+    "title": "AI may have limitations when illustrating smaller, rural cities",
+    "outlet": "WVTF / Radio IQ",
+    "url": "https://www.wvtf.org/news/2026-07-06/ai-may-have-limitations-when-illustrating-smaller-rural-cities",
+    "year": 2026,
+    "summary": "A Virginia Tech geographer asked an AI image generator to draw his own town, Blacksburg. The pictures looked wrong. A study then found that these tools draw big cities more convincingly than small, rural towns. Local residents, who were asked to judge the images, agreed they were off. The concern is that city planners who use AI imagery could misrepresent smaller communities.",
+    "facts": [
+     "The researcher tried Blacksburg first, a town of about 44,000 people, and the AI pictures of it came out generic.",
+     "The same tool produced more recognizable images of Washington D.C., Richmond and Virginia Beach.",
+     "The researchers surveyed 129 people. Residents who had lived in Blacksburg for years judged the images more harshly than newcomers did.",
+     "The AI left out Hokie Stone, the local stone that defines Virginia Tech's buildings."
+    ],
+    "questions": [
+     "Why might AI image tools know big cities better than small towns, and what could fix that?",
+     "What could go wrong if a town's planning or promotional images are made by a tool that doesn't know the place?",
+     "How would you teach an AI what makes your own neighborhood look like itself?"
+    ],
+    "related": [
+     {
+      "t": "DALL-E",
+      "u": "https://en.wikipedia.org/wiki/DALL-E",
+      "k": "wiki"
+     },
+     {
+      "t": "When AI imagines cities, smaller communities can disappear",
+      "u": "https://news.vt.edu/articles/2026/05/cnre-research-AI-cities.html",
+      "k": "sci"
+     },
+     {
+      "t": "Small Towns Are Vanishing From AI's Imagination",
+      "u": "https://scienceblog.com/neuroedge/2026/05/25/small-towns-are-vanishing-from-ais-imagination/",
+      "k": "sci"
+     }
+    ]
+   }
+  }
+ ]
+}

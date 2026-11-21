@@ -1,249 +1,249 @@
 {
- "date": "2026-11-21",
+ "date": "2026-11-22",
  "topics": [
   {
-   "id": "zoology",
-   "name": "Zoology",
-   "desc": "Animals and animal behavior",
-   "color": "#eab308",
+   "id": "astronomy",
+   "name": "Astronomy",
+   "desc": "Celestial objects, space and the universe",
+   "color": "#818cf8",
    "article": {
-    "title": "As birds migrate south, there's an invisible danger: glass",
-    "outlet": "NPR",
-    "url": "https://www.npr.org/2025/10/07/nx-s1-5542409/as-birds-migrate-south-theres-an-invisible-danger-glass",
-    "year": 2025,
-    "summary": "Every migration season, huge numbers of birds die when they fly into glass buildings they can't see. The story follows volunteers who walk a set route through Washington, DC each morning to find fallen birds before they are lost. It also looks at a night in Chicago when a convention center's glass wall killed close to a thousand birds. Birding groups, government agencies and others are now joining forces to tackle the problem together.",
-    "facts": [
-     "Researchers estimate that at least a billion birds die from building collisions in the U.S. every year.",
-     "On one October night in 2023, nearly a thousand migrating birds were found dead at a single Chicago convention center.",
-     "Volunteers with Lights Out DC walk the same route every morning in migration season to find dead or injured birds before rats or custodians do.",
-     "Reflections in glass strongly attract birds, and some buildings funnel them toward a tall glass wall."
-    ],
-    "questions": [
-     "Why might a bird's migration instincts fail to prepare it for modern glass architecture?",
-     "How should cities balance attractive glass buildings against the toll on wildlife?",
-     "What small changes could you make at your own home or workplace to help migrating birds?"
-    ],
-    "related": [
-     {
-      "t": "Bird migration perils",
-      "u": "https://en.wikipedia.org/wiki/Bird_migration_perils",
-      "k": "wiki"
-     },
-     {
-      "t": "Bird fallout",
-      "u": "https://en.wikipedia.org/wiki/Bird_fallout",
-      "k": "wiki"
-     },
-     {
-      "t": "Crash land home for the holidays (Columbia Climate School, State of the Planet)",
-      "u": "https://news.climate.columbia.edu/2011/12/20/crash-land-home-for-the-holidays",
-      "k": "sci"
-     }
-    ]
-   },
-   "alt": {
-    "title": "New Tracking Technology Reveals Hidden Animal Migration Routes",
-    "outlet": "Smithsonian Magazine",
-    "url": "https://www.smithsonianmag.com/science-nature/technology-gps-collar-reveals-hidden-animal-migration-routes-180971185/",
-    "year": 2018,
-    "summary": "Decades of satellite-collar data on Wyoming's deer, elk and pronghorn are being used to map migration corridors across the state. Scientists capture animals from helicopters and fit them with collars that record where the herds go. The collars revealed an overlooked route that was rare within its herd and would have been blocked if a key property had been developed. A conservation fund bought the land and turned it into a wildlife habitat management area.",
-    "facts": [
-     "Migration routes can be hard to find because they may be used by only a small part of a herd.",
-     "Researchers rely on the fact that animals tend to return to the same habitats year after year.",
-     "Biologists capture deer from helicopters to fit them with tracking collars.",
-     "One newly mapped route was saved when conservationists raised money to buy the land along it."
-    ],
-    "questions": [
-     "If a migration route is used by only a few animals, how much protection does it deserve?",
-     "What are the trade-offs between collaring wild animals and the knowledge we gain from it?",
-     "How might a route you never knew existed change decisions about building roads or housing?"
-    ],
-    "related": [
-     {
-      "t": "Animal migration tracking",
-      "u": "https://en.wikipedia.org/wiki/Animal_migration_tracking",
-      "k": "wiki"
-     },
-     {
-      "t": "Animal migration",
-      "u": "https://en.wikipedia.org/wiki/Animal_migration",
-      "k": "wiki"
-     },
-     {
-      "t": "Astonishing Stories of Animal Migrations (Audubon)",
-      "u": "https://www.audubon.org/news/astonishing-stories-animal-migrations",
-      "k": "sci"
-     }
-    ]
-   }
-  },
-  {
-   "id": "anatomy",
-   "name": "Anatomy",
-   "desc": "The structures of living bodies",
-   "color": "#f87171",
-   "article": {
-    "title": "Experts uncover a truly bizarre prehistoric animal \u2013 with teeth like a seal, a platypus-like pelvis and the tail of an otter",
-    "outlet": "Discover Wildlife",
-    "url": "https://www.discoverwildlife.com/prehistoric-life/megacauda-sungei-china",
-    "year": 2026,
-    "summary": "Researchers have described Megacauda, a mammal-like animal that lived over 160 million years ago and combined traits now found in very different animals. Micro-CT scans let the team rebuild its skull and skeleton in detail. Small bony projections on the roof of its mouth and specialised throat bones suggest it already had parts of the machinery mammals use to suckle and swallow. The find pushes back the timeline for how a defining mammal feeding habit evolved.",
-    "facts": [
-     "Its cheek teeth were blade-like, much like a modern seal's.",
-     "Its pelvis resembled a platypus's, and its tail looked like an otter's.",
-     "Throat bones called hyoids help anchor the swallowing muscles of living mammals, and this animal had specialised ones.",
-     "Soft-tissue features like these are rarely preserved in fossils, so scientists had long struggled to date them."
-    ],
-    "questions": [
-     "Why might the ability to swallow milk safely have mattered so much for early mammal relatives?",
-     "How can scientists infer soft tissues like muscles from bones alone, and how reliable are those inferences?",
-     "What does a mix of seal, platypus and otter traits tell us about how evolution recombines body features?"
-    ],
-    "related": [
-     {
-      "t": "Mammals\u2019 weird way of swallowing is at least 165 million years old (NOVA)",
-      "u": "https://www.pbs.org/wgbh/nova/article/microdocodon-gracilis/",
-      "k": "sci"
-     },
-     {
-      "t": "A bone that aids chewing may have helped start the Age of Mammals (Science News)",
-      "u": "https://www.sciencenews.org/article/flexible-bone-helps-mammals-chew-dates-back-jurassic-period",
-      "k": "sci"
-     },
-     {
-      "t": "Megaconus",
-      "u": "https://en.wikipedia.org/wiki/Megaconus",
-      "k": "wiki"
-     },
-     {
-      "t": "Megazostrodon",
-      "u": "https://en.wikipedia.org/wiki/Megazostrodon",
-      "k": "wiki"
-     }
-    ]
-   },
-   "alt": {
-    "title": "6-Million-Year-Old Bizarre Whale Swam Ancient Oceans With Nostrils on One Side of Its Face",
-    "outlet": "Discover Magazine",
-    "url": "https://www.discovermagazine.com/6-million-year-old-bizarre-whale-swam-ancient-oceans-with-nostrils-on-one-side-of-its-face-49977",
-    "year": 2026,
-    "summary": "Scientists have described Scaphokogia huachafo, an extinct pygmy sperm whale whose skull was so crooked that both nostrils ended up on its left side. Lopsided skulls are normal in sperm whales because of their echolocation and sound-making organs, but this one goes much further. Its neck joints suggest it could tilt its head sharply downward. Together with dense bone and a downturned snout, that would have let it cruise just above the seabed and feed near the sediment.",
-    "facts": [
-     "Both of its nostrils sat on the left side of its face.",
-     "Its neck joints suggest it could bend its head down by as much as 55 degrees.",
-     "It lived off the coast of what is now Peru and Mexico in the Late Miocene, around six million years ago.",
-     "Dense skull bone helped it stay low over the seafloor while it fed."
-    ],
-    "questions": [
-     "Why might a lopsided skull be an advantage for an animal that hunts using sound?",
-     "How do scientists work out how an extinct animal moved or fed from its skull and neck bones?",
-     "What other living animals have asymmetric bodies, and what might drive that?"
-    ],
-    "related": [
-     {
-      "t": "Pygmy sperm whale",
-      "u": "https://en.wikipedia.org/wiki/Pygmy_sperm_whale",
-      "k": "wiki"
-     },
-     {
-      "t": "Kogiidae",
-      "u": "https://en.wikipedia.org/wiki/Kogiidae",
-      "k": "wiki"
-     },
-     {
-      "t": "Extreme cranial asymmetry in extinct benthic feeding sperm whales (Communications Biology)",
-      "u": "https://www.nature.com/articles/s42003-026-11074-2",
-      "k": "sci"
-     },
-     {
-      "t": "Scaphokogia huachafo - A Bizarre Late Miocene Toothed Whale",
-      "u": "https://blog.everythingdinosaur.com/blog/_archives/2026/11/16/scaphokogia-huachafo-bizarre-prehistoric-whale.html",
-      "k": "sci"
-     }
-    ]
-   }
-  },
-  {
-   "id": "genetics",
-   "name": "Genetics",
-   "desc": "Genes, heredity and variation",
-   "color": "#c084fc",
-   "article": {
-    "title": "Twins are a mirror to each other \u2013 and a window into the mysteries of genetics",
-    "outlet": "NPR",
-    "url": "https://www.npr.org/transcripts/1230111399",
-    "year": 2024,
-    "summary": "Psychologist Nancy Segal explains why twins are so useful to geneticists. Identical twins share all their genes, so comparing them with fraternal twins shows how much a trait is down to genes. The most revealing cases are identical twins raised apart. She describes studying two pairs of Colombian twins who were reunited as adults, and finding that their personalities lined up closely with their genetic twins rather than with the families who raised them.",
-    "facts": [
-     "Identical twins form when one fertilized egg divides within about the first 14 days after conception.",
-     "If identical twins raised apart are as alike as identical twins raised together, that is stronger evidence that genes matter.",
-     "Segal travelled to Bogot\u00e1 to study two sets of Colombian identical twins, one pair from the city and one from the countryside.",
-     "One of the Colombian pairs was outgoing and risk-taking, and the reunited twins' personalities matched almost perfectly with their genetic twins. Other coverage says the two pairs had been accidentally swapped at birth and raised as if they were fraternal twins."
-    ],
-    "questions": [
-     "If identical twins raised apart turn out strikingly alike, what does that say about how much of who we are is decided before birth?",
-     "What ethical rules should apply when researchers study twins who were separated, whether by accident or on purpose?",
-     "Why might it be misleading to treat coincidences between reunited twins as proof that genes control behaviour?"
-    ],
-    "related": [
-     {
-      "t": "Twin study",
-      "u": "https://en.wikipedia.org/wiki/Twin_study",
-      "k": "wiki"
-     },
-     {
-      "t": "Nancy Segal",
-      "u": "https://en.wikipedia.org/wiki/Nancy_Segal",
-      "k": "wiki"
-     },
-     {
-      "t": "Twin Studies Expert Nancy Segal Featured in Netflix Documentary 'The Accidental Twins' (Cal State Fullerton)",
-      "u": "https://news.fullerton.edu/press-release/twin-studies-expert-nancy-segal-featured-in-netflix-documentary-the-accidental-twins/",
-      "k": "sci"
-     },
-     {
-      "t": "A Tale of Mismatched Twins",
-      "u": "https://www.psychotherapynetworker.org/article/tale-mismatched-twins/",
-      "k": "sci"
-     }
-    ]
-   },
-   "alt": {
-    "title": "Unique twin study sheds new light on TBI and risk of cognitive decline",
-    "outlet": "MDedge",
-    "url": "https://www.mdedge.com/neurology/article/265593/alzheimers-cognition/unique-twin-study-sheds-new-light-tbi-and-risk",
+    "title": "Unlocking the mystery of comets",
+    "outlet": "Astronomy",
+    "url": "https://www.astronomy.com/science/unlocking-the-mystery-of-comets/",
     "year": 2023,
-    "summary": "Researchers used a registry of World War II veteran twins to ask whether a head injury in early adulthood affects thinking decades later. By comparing identical twins where only one had a traumatic brain injury, they could largely hold genes and upbringing constant. The injured twins tended to score lower on cognitive tests at about age 70. Outside experts called the twin design a real strength of the study.",
+    "summary": "This feature looks at how the 1800s turned comets from feared omens into objects of real science. A run of bright comets between 1811 and 1882 arrived just as astronomers gained new tools such as better telescopes, photography and the spectroscope. The article follows milestones like the first comet photographs in 1858 and the first chemical analysis of a comet's light in 1864. It shows how each spectacular visitor taught observers something new about what comets are made of.",
     "facts": [
-     "The study drew on 8,662 men born between 1917 and 1927 who were in a national twin registry.",
-     "It included 589 pairs of identical twins where only one twin had a brain injury.",
-     "Injuries that knocked someone unconscious, or that happened after age 24, were linked to a bigger drop in thinking skills.",
-     "An outside neurologist said this was one of the first, if not the first, studies of this question to use a twin design."
+     "The Great Comet of 1811 stayed visible to the naked eye for nine months, a record not beaten until Hale-Bopp in 1996\u201397.",
+     "When Biela's Comet came back in 1846, its nucleus had split into two separate objects.",
+     "The first photograph of a comet, Donati's, was taken in 1858 by an English portrait artist, William Usherwood.",
+     "In 1864 Giovanni Donati put a comet's light through a spectroscope and found glowing diatomic carbon, a clue to its composition."
     ],
     "questions": [
-     "How does comparing identical twins let researchers separate the effect of an accident from the effect of genes?",
-     "What might people who have 'fully recovered' from a concussion do differently if they knew about long-term risks?",
-     "What are the limits of relying on injuries that participants remember and report themselves?"
+     "Why do you think new tools like photography and the spectroscope changed comet science so quickly in the 1800s?",
+     "How might it have felt to see a comet with a huge tail before electric light, and does that change how you think about fear and wonder?",
+     "What can the break-up of a comet like Biela's tell us about how fragile these objects are?"
     ],
     "related": [
      {
-      "t": "Twin study",
-      "u": "https://en.wikipedia.org/wiki/Twin_study",
+      "t": "Comet Donati (Wikipedia)",
+      "u": "https://en.wikipedia.org/wiki/Comet_Donati",
       "k": "wiki"
      },
      {
-      "t": "Concussions Cause Greater Cognitive Declines in Later Life (Duke Psychiatry)",
-      "u": "https://psychiatry.duke.edu/news/concussions-cause-greater-cognitive-declines-later-life",
+      "t": "Biela's Comet (Wikipedia)",
+      "u": "https://en.wikipedia.org/wiki/Biela's_Comet",
+      "k": "wiki"
+     },
+     {
+      "t": "ESA Science & Technology \u2013 A History of Comets, Part 3: On the origin of comets",
+      "u": "https://sci.esa.int/web/rosetta/-/54200-on-the-origin-of-comets",
       "k": "sci"
      },
      {
-      "t": "Concussions Early in Life Tied to Late Life Cognitive Decline (American Academy of Neurology)",
-      "u": "https://www.aan.com/PressRoom/Home/PressRelease/5111",
+      "t": "The Bright-Comet Chronicles (International Comet Quarterly, Harvard)",
+      "u": "http://www.icq.eps.harvard.edu/bortle.html",
+      "k": "sci"
+     }
+    ]
+   },
+   "alt": {
+    "title": "Forgotten Women: The star-gazer who discovered eight comets",
+    "outlet": "Stylist",
+    "url": "https://www.stylist.co.uk/visible-women/forgotten-women-the-star-gazer-who-discovered-eight-comets/191317",
+    "year": 2018,
+    "summary": "This profile celebrates Caroline Herschel, who is often overshadowed by her brother William, the man who identified Uranus. She was the first woman to earn a living as a scientist. She independently found eight comets and many deep-sky objects. The piece describes how illness shaped her early life and how she became a respected star-gazer anyway. She lived until 1848, long enough to see the comet-hunting boom of the 1800s begin.",
+    "facts": [
+     "Caroline Herschel died in 1848 at age 97 after discovering eight comets on her own.",
+     "She also found 13 deep-sky objects.",
+     "As a child she survived smallpox, which scarred her, and typhus, which stunted her growth to about 4 ft 3 in.",
+     "William Herschel's discovery of Uranus brought him a knighthood and the post of King's Astronomer to George III."
+    ],
+    "questions": [
+     "Why do you think Caroline Herschel's achievements were overlooked while her brother's were celebrated?",
+     "What does it take to hunt for comets by eye, night after night, with no guarantee of success?",
+     "How might amateur and independent observers still contribute to astronomy today?"
+    ],
+    "related": [
+     {
+      "t": "Donald Machholz (Wikipedia)",
+      "u": "https://en.wikipedia.org/wiki/Donald_Machholz",
+      "k": "wiki"
+     },
+     {
+      "t": "Special Topic: Discoveries and Surveys (RocketSTEM)",
+      "u": "https://www.rocketstem.org/2020/07/18/ice-and-stone-special-topic-30/",
       "k": "sci"
      },
      {
-      "t": "Study of twins links early concussions to thinking, memory problems later (UPI)",
-      "u": "https://www.upi.com/Health_News/2023/09/07/twin-study-concussions-memory/9781694093568/",
+      "t": "The Ferret of Comets (Charles Messier retrospective)",
+      "u": "https://www.stellar-journeys.org/The%20Ferret%20of%20Comets.pdf",
+      "k": "sci"
+     }
+    ]
+   }
+  },
+  {
+   "id": "linguistics",
+   "name": "Linguistics",
+   "desc": "Language and how it works",
+   "color": "#a78bfa",
+   "article": {
+    "title": "Fighting Off Extinction: The Story of Indigenous Mexican Languages",
+    "outlet": "ICT News (Indian Country Today)",
+    "url": "https://ictnews.org/archive/fighting-off-extinction-the-story-of-indigenous-mexican-languages/",
+    "year": 2014,
+    "summary": "Mexican scholars warned that 21 of the country's Native languages are in critical danger. Ayapaneco was among the most extreme cases, with just two adult speakers. This piece looks at a famous media story: that those two men were the last speakers and wouldn't talk to each other. Anthropologist Daniel Suslak says the story isn't true, because other speakers remain and the two men have been actively helping to document the language.",
+    "facts": [
+     "Mexican scholars said 21 of the country's 143 Native languages have fewer than 200 speakers and are critically endangered. Kiliwa in Baja California has 36 speakers.",
+     "Suslak says the best-known 'last two speakers who won't talk' tale is powerful, but it 'just happens to not be quite true.'",
+     "Several other Ayapaneco speakers are still alive, including siblings of one of the two men and a cousin of the other.",
+     "The two men helped make a book on Ayapaneco words for human anatomy, so Suslak jokes they are the language's 'first writers,' not its last speakers."
+    ],
+    "questions": [
+     "Why do stories about 'the last two speakers who won't talk' spread so easily, and what do they leave out about how languages actually decline?",
+     "When a misleading story brings attention and money to an endangered language, is that a net benefit or harm to the community?",
+     "How should journalists check claims about how many speakers a language has before publishing them?"
+    ],
+    "related": [
+     {
+      "t": "Ayapa Zoque (Wikipedia)",
+      "u": "https://en.wikipedia.org/wiki/Ayapa_Zoque",
+      "k": "wiki"
+     },
+     {
+      "t": "Language revitalization (Wikipedia)",
+      "u": "https://en.wikipedia.org/wiki/Language_revitalization",
+      "k": "wiki"
+     },
+     {
+      "t": "UBC Linguistics grad develops dictionary app to support Indigenous language revitalization",
+      "u": "https://www.arts.ubc.ca/news/ubc-linguistics-grad-develops-dictionary-app-to-support-indigenous-language-revitalization/",
+      "k": "sci"
+     }
+    ]
+   },
+   "alt": {
+    "title": "What does it take to revitalize a dying language?",
+    "outlet": "Global Voices",
+    "url": "https://globalvoices.org/2023/04/03/what-does-it-take-to-revitalize-a-dying-language/",
+    "year": 2023,
+    "summary": "This interview looks at efforts to bring back Kusunda, a language isolate from Nepal that has no known relatives anywhere. After a well-known fluent speaker died in 2020, the language was close to extinction. Instructor Uday Raj Aaley says short classes can't pass on a language, because it needs to be spoken daily. The Kusunda people still hope that government support can keep it alive.",
+    "facts": [
+     "Kusunda is a language isolate, so it isn't related to any other language in the world.",
+     "The Kusunda were once hunter-gatherers and call themselves 'kings of the forest' (ban rajas).",
+     "A sister of the well-known speaker lived in India for about 10 years. During that time the other sister was mistakenly assumed to be the last speaker.",
+     "The Endangered Languages Project notes conflicting reports about who the last Kusunda speaker was, and says the language was basically dormant for 50 to 60 years."
+    ],
+    "questions": [
+     "Can a language survive if it is taught in classes but not spoken at home or in daily life?",
+     "What does it mean for a language to be a 'language isolate,' and why might that make its loss especially costly?",
+     "Who should decide how a revived language is taught: governments, linguists, or the community itself?"
+    ],
+    "related": [
+     {
+      "t": "Kusunda language (Wikipedia)",
+      "u": "https://en.wikipedia.org/wiki/Kusunda_language",
+      "k": "wiki"
+     },
+     {
+      "t": "Gyani Maiya Sen-Kusunda (Wikipedia)",
+      "u": "https://en.wikipedia.org/wiki/Gyani_Maiya_Sen-Kusunda",
+      "k": "wiki"
+     },
+     {
+      "t": "Endangered Languages Project - Kusunda",
+      "u": "https://dhcp-128-171-46-84.its.hawaii.edu/lang/5873",
+      "k": "sci"
+     },
+     {
+      "t": "Archive Nepal launch Kusunda Literature Compilation (British Council)",
+      "u": "https://cultural-protection-fund.britishcouncil.org/stories/kusunda-literature-compilation",
+      "k": "sci"
+     }
+    ]
+   }
+  },
+  {
+   "id": "astrophysics",
+   "name": "Astrophysics",
+   "desc": "The physics of the universe",
+   "color": "#6366f1",
+   "article": {
+    "title": "This Star System Is So Strange that Astronomers Couldn't Recreate How it Formed In Hundreds of Thousands of Simulations",
+    "outlet": "Futurism",
+    "url": "https://futurism.com/space/star-system-strange-simulations",
+    "year": 2026,
+    "summary": "Astronomers found a binary system with a red giant and an unseen, extremely dense companion. The companion is probably a neutron star near the upper limit of what is thought possible. When the team ran 300,000 simulations, none could reproduce the companion's mass and its orbit. That failure suggests that our ideas about how such stars form are missing something.",
+    "facts": [
+     "None of the 300,000 simulations reproduced the system's conditions.",
+     "The orbit is wide and nearly circular. That is odd for a star left behind by a supernova explosion.",
+     "One idea is that two white dwarfs collided and merged to form the neutron star.",
+     "A more circular orbit could even be a hint that the hidden object is a black hole instead."
+    ],
+    "questions": [
+     "When a computer model fails to reproduce a real observation, how should scientists decide whether the model or the data is wrong?",
+     "Why might the line between the heaviest neutron stars and the lightest black holes be so hard to pin down?",
+     "What would it take to convince you that an object you can't see is a neutron star and not a black hole?"
+    ],
+    "related": [
+     {
+      "t": "None of 300,000 Simulations Could Recreate This Strange Star System Hiding a Possibly Record-Heavy Neutron Star",
+      "u": "https://www.natureworldnews.com/articles/73949/20261120/none-300000-simulations-could-recreate-this-strange-star-system-hiding-possibly-record-heavy.htm",
+      "k": "sci"
+     },
+     {
+      "t": "Neutron Star (disambiguation)",
+      "u": "https://en.wikipedia.org/wiki/Neutron_Star_(disambiguation)",
+      "k": "wiki"
+     },
+     {
+      "t": "A New Kind of Cosmic Glitch (McGill University)",
+      "u": "https://www.mcgill.ca/newsroom/channels/news/new-kind-cosmic-glitch-226934",
+      "k": "sci"
+     },
+     {
+      "t": "Supernova mystery solved: JWST reveals the fate of an iconic stellar explosion (Nature)",
+      "u": "https://www.nature.com/articles/d41586-024-00528-4",
+      "k": "sci"
+     }
+    ]
+   },
+   "alt": {
+    "title": "Mystery of dead stars' glitching 'heartbeats' could have a twisted solution",
+    "outlet": "Space.com",
+    "url": "https://www.space.com/neutron-stars-glitching-heartbeats-twisted-solution",
+    "year": 2024,
+    "summary": "Some neutron stars occasionally spin up suddenly. These events are called glitches, and their cause has never been settled. A research team studied 533 pulsar observations and proposed a 'twisted' model based on exotic superfluid behavior deep in the star's core. Their simulations came close to matching the energies of real glitches.",
+    "facts": [
+     "The team examined 533 observations of pulsars.",
+     "The two leading explanations for glitches are starquakes and 'avalanches' of tiny quantum vortices in the star's superfluid interior.",
+     "The new model says the inner core favors vortices with half-integer spin.",
+     "In the model, the superfluid core spins steadily while the ordinary matter around it drags on it."
+    ],
+    "questions": [
+     "Why might a glitch in a star's spin be a useful window into a place we can never visit?",
+     "How can neutron stars connect fields as different as astrophysics, nuclear physics and condensed matter?",
+     "What makes it hard to choose between competing explanations when you can only observe from far away?"
+    ],
+    "related": [
+     {
+      "t": "4U 0142+61",
+      "u": "https://en.wikipedia.org/wiki/4U_0142%2B61",
+      "k": "wiki"
+     },
+     {
+      "t": "Neutron Star 'Glitches' Are Clue to Mysterious Radio Bursts (Sky & Telescope)",
+      "u": "https://skyandtelescope.org/astronomy-news/neutron-star-glitches-key-mysterious-radio-bursts/",
+      "k": "sci"
+     },
+     {
+      "t": "Neutron star 'glitch' offers surprising look inside (Futurity)",
+      "u": "https://www.futurity.org/neutron-star-glitch-2133802/",
+      "k": "sci"
+     },
+     {
+      "t": "Neutron Star 'Glitch' Reveals Engine That Powers Rotation (Courthouse News)",
+      "u": "https://www.courthousenews.com/neutron-star-glitch-reveals-engine-that-powers-rotation/",
       "k": "sci"
      }
     ]
@@ -255,81 +255,71 @@
    "desc": "Machines that learn and reason",
    "color": "#a78bfa",
    "article": {
-    "title": "7 Times A.I. Helped Unlock Ancient Secrets",
-    "outlet": "Artnet News",
-    "url": "https://news.artnet.com/art-world/ai-cracks-archaeology-secrets-2637925",
-    "year": 2025,
-    "summary": "This roundup looks at how artificial intelligence is helping scholars read texts from the ancient world. One case is a neural network that translates parts of Mesopotamian clay tablets from Akkadian into English. Others include AI help with piecing together the Epic of Gilgamesh and student contests to read carbonized Herculaneum scrolls. The article shows that machine translation can work on languages that disappeared thousands of years ago, not only on living ones.",
+    "title": "Who owns India's textile traditions in age of AI-enabled mass production?",
+    "outlet": "Al Jazeera",
+    "url": "https://www.aljazeera.com/features/2026/10/21/who-owns-indias-textile-traditions-in-age-of-ai-enabled-mass-production",
+    "year": 2026,
+    "summary": "Indian software firm TCS has built an AI system that turns textile designs into loom-ready instructions. A pilot is running in Kanchipuram, a town in Tamil Nadu famous for its silk saris. Supporters say it helps weavers handle complex patterns with fewer mistakes. The article asks a harder question. If tools meant to preserve a craft can copy its look without the craftsperson, who owns that tradition?",
     "facts": [
-     "In May 2023, researchers from two Israeli universities trained a neural network to translate parts of cuneiform tablets from Akkadian into English.",
-     "One sample line the system produced says that a man who keeps his clothes clean will have long days.",
-     "The researchers admit that ancient languages are hard to translate because only fragments of the texts survive.",
-     "They say future progress depends on digitizing more existing texts to use as training data."
+     "At a New Delhi AI summit in February 2026, the loom was shown guiding weavers with LED lights that mark thread sequences.",
+     "Kanchipuram and Banarasi are names of places that these textiles helped shape, not just places they came from.",
+     "A third-generation Kanchipuram weaver says her business already competes with cheaper saris made on electronic looms.",
+     "The article describes a paradox. Tools built to preserve a craft can make its visual style easier to reproduce digitally without the artisan."
     ],
     "questions": [
-     "What does a machine translator lose when the only texts it can learn from are fragments of a dead language?",
-     "Should AI translations of ancient texts be treated as a first draft for experts, or can they be trusted on their own?",
-     "How does translating a language no one has spoken for 2,000 years differ from translating a modern language like French?"
+     "If an AI learns a community's traditional patterns, who should get credit or payment for what it produces?",
+     "Can a handwoven textile keep its value if machines can copy its look cheaply?",
+     "How could technology help a craft survive without pushing the artisans who made it aside?"
     ],
     "related": [
      {
-      "t": "Timeline of machine translation",
-      "u": "https://en.wikipedia.org/wiki/Timeline_of_machine_translation",
+      "t": "Kanchipuram silk sari",
+      "u": "https://en.wikipedia.org/wiki/Kanchipuram_silk_sari",
       "k": "wiki"
      },
      {
-      "t": "Translating Akkadian to English with neural machine translation",
-      "u": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10153418/",
-      "k": "sci"
-     },
-     {
-      "t": "New AI translates 5,000-year-old cuneiform tablets instantly",
-      "u": "https://bigthink.com/the-future/ai-translates-cuneiform/",
-      "k": "sci"
-     },
-     {
-      "t": "Toledo School of Translators",
-      "u": "https://en.wikipedia.org/wiki/Toledo_School_of_Translators",
+      "t": "City of Crafts and Folk Arts",
+      "u": "https://en.wikipedia.org/wiki/City_of_Crafts_and_Folk_Arts",
       "k": "wiki"
+     },
+     {
+      "t": "Have a damaged painting? Restore it in just hours with an AI-generated mask",
+      "u": "https://news.mit.edu/2025/restoring-damaged-paintings-using-ai-generated-mask-0611",
+      "k": "sci"
      }
     ]
    },
    "alt": {
-    "title": "The Perpetual Quest for a Truth Machine",
-    "outlet": "Nautilus",
-    "url": "https://nautil.us/the-perpetual-quest-for-a-truth-machine-702659",
+    "title": "AI may have limitations when illustrating smaller, rural cities",
+    "outlet": "WVTF / Radio IQ",
+    "url": "https://www.wvtf.org/news/2026-07-06/ai-may-have-limitations-when-illustrating-smaller-rural-cities",
     "year": 2026,
-    "summary": "This feature follows the long human dream of handing off thinking and language to a machine. It starts with the 13th-century philosopher Ramon Llull, who built paper wheels of basic concepts. He believed they could prove religious truths to doubters and end arguments. The story then follows later thinkers such as Leibniz, who admired the idea but found it lacking, and who wanted a precise language that could settle disputes by calculation. It reads as a prehistory of today's language-handling AI.",
+    "summary": "A Virginia Tech geographer asked an AI image generator to draw his own town, Blacksburg. The pictures looked wrong. A study then found that these tools draw big cities more convincingly than small, rural towns. Local residents, who were asked to judge the images, agreed they were off. The concern is that city planners who use AI imagery could misrepresent smaller communities.",
     "facts": [
-     "Llull's paper wheels were labeled with concepts such as goodness, eternity, understanding and love.",
-     "Llull claimed his machine could prove the existence of the Christian God even to a stubborn heretic.",
-     "His detailed examples ended up hiding how the machine actually worked, and he did not win the converts he hoped for.",
-     "Leibniz was inspired by Llull's system, and the idea of a universal language that reduces reasoning to calculation traces partly back to Llull."
+     "The researcher tried Blacksburg first, a town of about 44,000 people, and the AI pictures of it came out generic.",
+     "The same tool produced more recognizable images of Washington D.C., Richmond and Virginia Beach.",
+     "The researchers surveyed 129 people. Residents who had lived in Blacksburg for years judged the images more harshly than newcomers did.",
+     "The AI left out Hokie Stone, the local stone that defines Virginia Tech's buildings."
     ],
     "questions": [
-     "Why have people for so long wanted a machine that could settle arguments by working with language?",
-     "Is a universal language that removes misunderstanding possible, or would it lose something important about human speech?",
-     "How are today's language models similar to, and different from, Llull's paper wheels?"
+     "Why might AI image tools know big cities better than small towns, and what could fix that?",
+     "What could go wrong if a town's planning or promotional images are made by a tool that doesn't know the place?",
+     "How would you teach an AI what makes your own neighborhood look like itself?"
     ],
     "related": [
      {
-      "t": "Alphabet of human thought",
-      "u": "https://en.wikipedia.org/wiki/Alphabet_of_human_thought",
+      "t": "DALL-E",
+      "u": "https://en.wikipedia.org/wiki/DALL-E",
       "k": "wiki"
      },
      {
-      "t": "Thinking Machines: Ramon Llull and the ars combinatoria (EPFL)",
-      "u": "https://www.epfl.ch/campus/art-culture/wp-content/uploads/2018/12/Thinking_Machines_Brochure_EN.pdf",
+      "t": "When AI imagines cities, smaller communities can disappear",
+      "u": "https://news.vt.edu/articles/2026/05/cnre-research-AI-cities.html",
       "k": "sci"
      },
      {
-      "t": "The Thinking Machine (CCCB exhibition)",
-      "u": "https://www.cccb.org/en/w/exhibitions/the-thinking-machine",
-      "k": "sci"
-     },
-     {
-      "t": "Ramon Llull (Computer Timeline)",
-      "u": "http://www.computer-timeline.com/timeline/ramon-llull/",
+      "t": "Small Towns Are Vanishing From AI's Imagination",
+      "u": "https://scienceblog.com/neuroedge/2026/05/25/small-towns-are-vanishing-from-ais-imagination/",
       "k": "sci"
      }
     ]
