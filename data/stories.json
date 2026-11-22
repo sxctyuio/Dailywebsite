@@ -1,250 +1,250 @@
 {
- "date": "2026-11-22",
+ "date": "2026-11-23",
  "topics": [
   {
-   "id": "astronomy",
-   "name": "Astronomy",
-   "desc": "Celestial objects, space and the universe",
-   "color": "#818cf8",
+   "id": "math",
+   "name": "Mathematics",
+   "desc": "Numbers, shapes and logical patterns",
+   "color": "#facc15",
    "article": {
-    "title": "Unlocking the mystery of comets",
-    "outlet": "Astronomy",
-    "url": "https://www.astronomy.com/science/unlocking-the-mystery-of-comets/",
-    "year": 2023,
-    "summary": "This feature looks at how the 1800s turned comets from feared omens into objects of real science. A run of bright comets between 1811 and 1882 arrived just as astronomers gained new tools such as better telescopes, photography and the spectroscope. The article follows milestones like the first comet photographs in 1858 and the first chemical analysis of a comet's light in 1864. It shows how each spectacular visitor taught observers something new about what comets are made of.",
+    "title": "These Stunning Fractals Are Made of Snow",
+    "outlet": "Smithsonian Magazine",
+    "url": "https://www.smithsonianmag.com/smart-news/these-stunning-fractals-are-made-snow-180958012/",
+    "year": 2016,
+    "summary": "Simon Beck treats big stretches of untouched snow as a blank canvas. He plans each design on paper, then walks it out in snowshoes, using a compass and counted paces to keep the geometry accurate. His favorite subjects are fractals, which are patterns that repeat at smaller and smaller scales, such as Koch snowflakes and Sierpinski triangles. The piece shows how a cold, empty landscape can hold very precise mathematics.",
     "facts": [
-     "The Great Comet of 1811 stayed visible to the naked eye for nine months, a record not beaten until Hale-Bopp in 1996\u201397.",
-     "When Biela's Comet came back in 1846, its nucleus had split into two separate objects.",
-     "The first photograph of a comet, Donati's, was taken in 1858 by an English portrait artist, William Usherwood.",
-     "In 1864 Giovanni Donati put a comet's light through a spectroscope and found glowing diatomic carbon, a clue to its composition."
+     "Beck makes his designs on foot, so every line is a trail of snowshoe prints.",
+     "He gets from sketch to snow using only a compass and pace counting, drawing on a background in engineering and orienteering.",
+     "One of his designs is a snow version of the Sierpinski triangle, a fractal described in 1915. Similar patterns show up in artwork centuries older.",
+     "Beck has said he started adding fractals after reading James Gleick's book about chaos theory."
     ],
     "questions": [
-     "Why do you think new tools like photography and the spectroscope changed comet science so quickly in the 1800s?",
-     "How might it have felt to see a comet with a huge tail before electric light, and does that change how you think about fear and wonder?",
-     "What can the break-up of a comet like Biela's tell us about how fragile these objects are?"
+     "Why might a vast, empty snowfield be a better place for mathematical art than a gallery wall?",
+     "If an artwork will vanish with the next snowfall, what is the value of making it precisely?",
+     "Where else in nature do you see patterns that repeat at smaller scales, and could you recreate one with just your feet and a compass?"
     ],
     "related": [
      {
-      "t": "Comet Donati (Wikipedia)",
-      "u": "https://en.wikipedia.org/wiki/Comet_Donati",
+      "t": "Kenneth M. Golden",
+      "u": "https://en.wikipedia.org/wiki/Kenneth_M._Golden",
       "k": "wiki"
      },
      {
-      "t": "Biela's Comet (Wikipedia)",
-      "u": "https://en.wikipedia.org/wiki/Biela's_Comet",
+      "t": "The Icebergs",
+      "u": "https://en.wikipedia.org/wiki/The_Icebergs",
       "k": "wiki"
      },
      {
-      "t": "ESA Science & Technology \u2013 A History of Comets, Part 3: On the origin of comets",
-      "u": "https://sci.esa.int/web/rosetta/-/54200-on-the-origin-of-comets",
-      "k": "sci"
-     },
-     {
-      "t": "The Bright-Comet Chronicles (International Comet Quarterly, Harvard)",
-      "u": "http://www.icq.eps.harvard.edu/bortle.html",
+      "t": "Association of Polar Early Career Scientists - Polar Art",
+      "u": "https://www.apecs.is/outreach-archive/polar-weeks-archive/polar-week-march-2017/polar-art.html",
       "k": "sci"
      }
     ]
    },
    "alt": {
-    "title": "Forgotten Women: The star-gazer who discovered eight comets",
-    "outlet": "Stylist",
-    "url": "https://www.stylist.co.uk/visible-women/forgotten-women-the-star-gazer-who-discovered-eight-comets/191317",
-    "year": 2018,
-    "summary": "This profile celebrates Caroline Herschel, who is often overshadowed by her brother William, the man who identified Uranus. She was the first woman to earn a living as a scientist. She independently found eight comets and many deep-sky objects. The piece describes how illness shaped her early life and how she became a respected star-gazer anyway. She lived until 1848, long enough to see the comet-hunting boom of the 1800s begin.",
+    "title": "Crafty Geometry",
+    "outlet": "Science News",
+    "url": "https://www.sciencenews.org/article/crafty-geometry",
+    "year": 2004,
+    "summary": "Mathematicians are using knitting and crochet to make physical models of surfaces that are very hard to picture. Crocheted versions of the hyperbolic plane, a counterintuitive curved shape, let students and researchers handle and explore its odd properties. The article also looks at wider craft math, including patterns for M\u00f6bius scarves and Klein bottle hats. Yarn turns out to be a good way to see ideas that mathematicians already know.",
     "facts": [
-     "Caroline Herschel died in 1848 at age 97 after discovering eight comets on her own.",
-     "She also found 13 deep-sky objects.",
-     "As a child she survived smallpox, which scarred her, and typhus, which stunted her growth to about 4 ft 3 in.",
-     "William Herschel's discovery of Uranus brought him a knighthood and the post of King's Astronomer to George III."
+     "In 1901, David Hilbert proved that a smooth model of the hyperbolic plane can't be built, because the surface buckles.",
+     "One mathematician looked at a crocheted hyperbolic plane and exclaimed that this is what they really look like.",
+     "A mathematician at Mercer University says knitting and crocheting help her see familiar math in a different light.",
+     "The article suggests swapping the holiday sweater for a M\u00f6bius scarf, a Klein bottle hat or hyperbolic ornaments."
     ],
     "questions": [
-     "Why do you think Caroline Herschel's achievements were overlooked while her brother's were celebrated?",
-     "What does it take to hunt for comets by eye, night after night, with no guarantee of success?",
-     "How might amateur and independent observers still contribute to astronomy today?"
+     "Why might a handmade model teach something that equations and drawings can't?",
+     "What other crafts you know of, such as weaving, quilting or origami, might hide serious mathematics?",
+     "If a shape can't be built smoothly, what does it mean to say it exists?"
     ],
     "related": [
      {
-      "t": "Donald Machholz (Wikipedia)",
-      "u": "https://en.wikipedia.org/wiki/Donald_Machholz",
+      "t": "Mathematics and fiber arts",
+      "u": "https://en.wikipedia.org/wiki/Mathematics_and_fiber_arts",
       "k": "wiki"
      },
      {
-      "t": "Special Topic: Discoveries and Surveys (RocketSTEM)",
-      "u": "https://www.rocketstem.org/2020/07/18/ice-and-stone-special-topic-30/",
-      "k": "sci"
+      "t": "List of mathematical artists",
+      "u": "https://en.wikipedia.org/wiki/List_of_mathematical_artists",
+      "k": "wiki"
      },
      {
-      "t": "The Ferret of Comets (Charles Messier retrospective)",
-      "u": "https://www.stellar-journeys.org/The%20Ferret%20of%20Comets.pdf",
+      "t": "Composite Gallery (National Museum of Mathematics)",
+      "u": "https://momath.org/composite-gallery/",
       "k": "sci"
      }
     ]
    }
   },
   {
-   "id": "linguistics",
-   "name": "Linguistics",
-   "desc": "Language and how it works",
-   "color": "#a78bfa",
+   "id": "oceanography",
+   "name": "Oceanography",
+   "desc": "Oceans and marine ecosystems",
+   "color": "#06b6d4",
    "article": {
-    "title": "Fighting Off Extinction: The Story of Indigenous Mexican Languages",
-    "outlet": "ICT News (Indian Country Today)",
-    "url": "https://ictnews.org/archive/fighting-off-extinction-the-story-of-indigenous-mexican-languages/",
-    "year": 2014,
-    "summary": "Mexican scholars warned that 21 of the country's Native languages are in critical danger. Ayapaneco was among the most extreme cases, with just two adult speakers. This piece looks at a famous media story: that those two men were the last speakers and wouldn't talk to each other. Anthropologist Daniel Suslak says the story isn't true, because other speakers remain and the two men have been actively helping to document the language.",
-    "facts": [
-     "Mexican scholars said 21 of the country's 143 Native languages have fewer than 200 speakers and are critically endangered. Kiliwa in Baja California has 36 speakers.",
-     "Suslak says the best-known 'last two speakers who won't talk' tale is powerful, but it 'just happens to not be quite true.'",
-     "Several other Ayapaneco speakers are still alive, including siblings of one of the two men and a cousin of the other.",
-     "The two men helped make a book on Ayapaneco words for human anatomy, so Suslak jokes they are the language's 'first writers,' not its last speakers."
-    ],
-    "questions": [
-     "Why do stories about 'the last two speakers who won't talk' spread so easily, and what do they leave out about how languages actually decline?",
-     "When a misleading story brings attention and money to an endangered language, is that a net benefit or harm to the community?",
-     "How should journalists check claims about how many speakers a language has before publishing them?"
-    ],
-    "related": [
-     {
-      "t": "Ayapa Zoque (Wikipedia)",
-      "u": "https://en.wikipedia.org/wiki/Ayapa_Zoque",
-      "k": "wiki"
-     },
-     {
-      "t": "Language revitalization (Wikipedia)",
-      "u": "https://en.wikipedia.org/wiki/Language_revitalization",
-      "k": "wiki"
-     },
-     {
-      "t": "UBC Linguistics grad develops dictionary app to support Indigenous language revitalization",
-      "u": "https://www.arts.ubc.ca/news/ubc-linguistics-grad-develops-dictionary-app-to-support-indigenous-language-revitalization/",
-      "k": "sci"
-     }
-    ]
-   },
-   "alt": {
-    "title": "What does it take to revitalize a dying language?",
-    "outlet": "Global Voices",
-    "url": "https://globalvoices.org/2023/04/03/what-does-it-take-to-revitalize-a-dying-language/",
-    "year": 2023,
-    "summary": "This interview looks at efforts to bring back Kusunda, a language isolate from Nepal that has no known relatives anywhere. After a well-known fluent speaker died in 2020, the language was close to extinction. Instructor Uday Raj Aaley says short classes can't pass on a language, because it needs to be spoken daily. The Kusunda people still hope that government support can keep it alive.",
-    "facts": [
-     "Kusunda is a language isolate, so it isn't related to any other language in the world.",
-     "The Kusunda were once hunter-gatherers and call themselves 'kings of the forest' (ban rajas).",
-     "A sister of the well-known speaker lived in India for about 10 years. During that time the other sister was mistakenly assumed to be the last speaker.",
-     "The Endangered Languages Project notes conflicting reports about who the last Kusunda speaker was, and says the language was basically dormant for 50 to 60 years."
-    ],
-    "questions": [
-     "Can a language survive if it is taught in classes but not spoken at home or in daily life?",
-     "What does it mean for a language to be a 'language isolate,' and why might that make its loss especially costly?",
-     "Who should decide how a revived language is taught: governments, linguists, or the community itself?"
-    ],
-    "related": [
-     {
-      "t": "Kusunda language (Wikipedia)",
-      "u": "https://en.wikipedia.org/wiki/Kusunda_language",
-      "k": "wiki"
-     },
-     {
-      "t": "Gyani Maiya Sen-Kusunda (Wikipedia)",
-      "u": "https://en.wikipedia.org/wiki/Gyani_Maiya_Sen-Kusunda",
-      "k": "wiki"
-     },
-     {
-      "t": "Endangered Languages Project - Kusunda",
-      "u": "https://dhcp-128-171-46-84.its.hawaii.edu/lang/5873",
-      "k": "sci"
-     },
-     {
-      "t": "Archive Nepal launch Kusunda Literature Compilation (British Council)",
-      "u": "https://cultural-protection-fund.britishcouncil.org/stories/kusunda-literature-compilation",
-      "k": "sci"
-     }
-    ]
-   }
-  },
-  {
-   "id": "astrophysics",
-   "name": "Astrophysics",
-   "desc": "The physics of the universe",
-   "color": "#6366f1",
-   "article": {
-    "title": "This Star System Is So Strange that Astronomers Couldn't Recreate How it Formed In Hundreds of Thousands of Simulations",
-    "outlet": "Futurism",
-    "url": "https://futurism.com/space/star-system-strange-simulations",
+    "title": "Coral in crisis: Stories from the front line",
+    "outlet": "Eco-Business",
+    "url": "https://www.eco-business.com/news/coral-in-crisis-stories-from-the-front-line/",
     "year": 2026,
-    "summary": "Astronomers found a binary system with a red giant and an unseen, extremely dense companion. The companion is probably a neutron star near the upper limit of what is thought possible. When the team ran 300,000 simulations, none could reproduce the companion's mass and its orbit. That failure suggests that our ideas about how such stars form are missing something.",
+    "summary": "This feature visits four communities whose livelihoods depend on reefs that are getting more fragile. It opens in Shenzhen, China, where one conservationist has spent about two decades building underwater coral nurseries to stitch broken corals back together. It then moves to Bali, which sits inside the Coral Triangle, and on to Africa and the Americas. The stories show how warming seas and local pressures reach ordinary people who depend on reefs for tourism and food.",
     "facts": [
-     "None of the 300,000 simulations reproduced the system's conditions.",
-     "The orbit is wide and nearly circular. That is odd for a star left behind by a supernova explosion.",
-     "One idea is that two white dwarfs collided and merged to form the neutron star.",
-     "A more circular orbit could even be a hint that the hidden object is a black hole instead."
+     "Coral covered about 70% of Shenzhen's Dapeng Bay in the 1980s, before decades of damage.",
+     "A 30-hectare protected zone there was set up after the 1996 El Ni\u00f1o to rebuild fish stocks and heal the reef.",
+     "The Coral Triangle spans six nations and holds about 76% of the world's coral species.",
+     "Bali's reefs draw divers hoping to see mola mola (ocean sunfish) and manta rays."
     ],
     "questions": [
-     "When a computer model fails to reproduce a real observation, how should scientists decide whether the model or the data is wrong?",
-     "Why might the line between the heaviest neutron stars and the lightest black holes be so hard to pin down?",
-     "What would it take to convince you that an object you can't see is a neutron star and not a black hole?"
+     "If a coral nursery can take two decades to make a difference, how should we judge whether restoration is working?",
+     "How do tourism income and reef protection help or harm each other in places like Bali?",
+     "What can communities far from the ocean do about a problem that is driven by global heat?"
     ],
     "related": [
      {
-      "t": "None of 300,000 Simulations Could Recreate This Strange Star System Hiding a Possibly Record-Heavy Neutron Star",
-      "u": "https://www.natureworldnews.com/articles/73949/20261120/none-300000-simulations-could-recreate-this-strange-star-system-hiding-possibly-record-heavy.htm",
-      "k": "sci"
-     },
-     {
-      "t": "Neutron Star (disambiguation)",
-      "u": "https://en.wikipedia.org/wiki/Neutron_Star_(disambiguation)",
+      "t": "Southeast Asian coral reefs",
+      "u": "https://en.wikipedia.org/wiki/Southeast_Asian_coral_reefs",
       "k": "wiki"
      },
      {
-      "t": "A New Kind of Cosmic Glitch (McGill University)",
-      "u": "https://www.mcgill.ca/newsroom/channels/news/new-kind-cosmic-glitch-226934",
+      "t": "Why the Coral Triangle is the most important part of the ocean",
+      "u": "https://www.nhm.ac.uk/discover/news/2018/march/why-the-coral-triangle-is-the-most-important-part-of-the-ocean.html",
       "k": "sci"
      },
      {
-      "t": "Supernova mystery solved: JWST reveals the fate of an iconic stellar explosion (Nature)",
-      "u": "https://www.nature.com/articles/d41586-024-00528-4",
+      "t": "Island-building and overfishing wreak destruction of South China Sea reefs",
+      "u": "https://news.mongabay.com/2024/04/island-building-and-overfishing-wreak-destruction-of-south-china-sea-reefs/",
+      "k": "sci"
+     },
+     {
+      "t": "The Forested Coral Reef of the Hengchun Peninsula",
+      "u": "https://english.cw.com.tw/article/article.action?id=4107",
       "k": "sci"
      }
     ]
    },
    "alt": {
-    "title": "Mystery of dead stars' glitching 'heartbeats' could have a twisted solution",
-    "outlet": "Space.com",
-    "url": "https://www.space.com/neutron-stars-glitching-heartbeats-twisted-solution",
-    "year": 2024,
-    "summary": "Some neutron stars occasionally spin up suddenly. These events are called glitches, and their cause has never been settled. A research team studied 533 pulsar observations and proposed a 'twisted' model based on exotic superfluid behavior deep in the star's core. Their simulations came close to matching the energies of real glitches.",
+    "title": "Two decades of research show Indonesia's coral reefs are heat-tolerant \u2014 but only up to a point",
+    "outlet": "The Conversation",
+    "url": "https://theconversation.com/two-decades-of-research-show-indonesias-coral-reefs-are-heat-tolerant-but-only-up-to-a-point-281134",
+    "year": 2026,
+    "summary": "Researchers pooled long-term coral monitoring records from across Indonesia, home to the world's largest and most biodiverse reef system. They found that live coral cover held steady under low to moderate heat stress. It then fell sharply once accumulated heat passed a clear threshold. The authors argue that Indonesia needs a more coordinated national system to track reef condition and bleaching.",
     "facts": [
-     "The team examined 533 observations of pulsars.",
-     "The two leading explanations for glitches are starquakes and 'avalanches' of tiny quantum vortices in the star's superfluid interior.",
-     "The new model says the inner core favors vortices with half-integer spin.",
-     "In the model, the superfluid core spins steadily while the ordinary matter around it drags on it."
+     "Indonesia's reefs cover more than 32,000 square kilometres across the archipelago.",
+     "Coral cover dropped sharply once heat stress passed about 12 degree-heating weeks.",
+     "Degree-heating weeks work like a running 'heat dose', combining how much warmer the water is than usual and how long it stays that way.",
+     "Stable total coral cover can hide losses, such as fewer branching or old corals and less complex reef structure."
     ],
     "questions": [
-     "Why might a glitch in a star's spin be a useful window into a place we can never visit?",
-     "How can neutron stars connect fields as different as astrophysics, nuclear physics and condensed matter?",
-     "What makes it hard to choose between competing explanations when you can only observe from far away?"
+     "Why might a reef look healthy by one measure while quietly losing its structure and diversity?",
+     "What would a good national coral-monitoring system look like in a country with thousands of islands?",
+     "If there's a heat threshold beyond which reefs collapse, how should that change conservation priorities?"
     ],
     "related": [
      {
-      "t": "4U 0142+61",
-      "u": "https://en.wikipedia.org/wiki/4U_0142%2B61",
+      "t": "Coral bleaching",
+      "u": "https://en.wikipedia.org/wiki/Coral_bleaching",
       "k": "wiki"
      },
      {
-      "t": "Neutron Star 'Glitches' Are Clue to Mysterious Radio Bursts (Sky & Telescope)",
-      "u": "https://skyandtelescope.org/astronomy-news/neutron-star-glitches-key-mysterious-radio-bursts/",
+      "t": "An Exciting Discovery for Tropical Pacific Corals (NOAA/AOML)",
+      "u": "https://www.aoml.noaa.gov/an-exciting-discovery-for-tropical-pacific-corals/",
       "k": "sci"
      },
      {
-      "t": "Neutron star 'glitch' offers surprising look inside (Futurity)",
-      "u": "https://www.futurity.org/neutron-star-glitch-2133802/",
+      "t": "Unlocking the secrets of heat-resistant corals (University of Miami)",
+      "u": "https://news.miami.edu/as/stories/2026/02/unlocking-the-secrets-of-heat-resistant-corals.html",
       "k": "sci"
      },
      {
-      "t": "Neutron Star 'Glitch' Reveals Engine That Powers Rotation (Courthouse News)",
-      "u": "https://www.courthousenews.com/neutron-star-glitch-reveals-engine-that-powers-rotation/",
+      "t": "2023\u20132025 global coral bleaching event",
+      "u": "https://en.wikipedia.org/wiki/2023%E2%80%932025_global_coral_bleaching_event",
+      "k": "wiki"
+     }
+    ]
+   }
+  },
+  {
+   "id": "ecology",
+   "name": "Ecology",
+   "desc": "Organisms and their environment",
+   "color": "#34d399",
+   "article": {
+    "title": "De-Ratting Rat Island Brought Silent Ecosystem Back to Life",
+    "outlet": "Scientific American",
+    "url": "https://www.scientificamerican.com/article/de-ratting-rat-island-brought-silent-ecosystem-back-to-life/",
+    "year": 2024,
+    "summary": "Rats escaped from a shipwreck in the 1780s onto a remote Aleutian island and wiped out its seabird colonies. The island was eventually cleared of rats using bait dropped by conservation teams. Roughly a decade later, researchers found the seabirds back and the whole shoreline ecosystem recovering. The shore now looks like nearby islands that rats never reached. It shows that some damaged ecosystems can bounce back surprisingly fast.",
+    "facts": [
+     "The rats arrived by accident. They were stowaways on a shipwreck in the 1780s.",
+     "The rats' effects reached far past the birds. They disrupted the food chain all the way down to algae.",
+     "Surveys five and 11 years after the rats were removed showed steady recovery. The shoreline now has more kelp and fewer marine invertebrates.",
+     "The island was renamed Hawadax, which restores its original Aleut name."
+    ],
+    "questions": [
+     "Why can a single accidental arrival, like stowaway rats, change an entire island ecosystem so completely?",
+     "Rat removal helped the kelp as well as the birds. What does that say about how connected land and sea ecosystems are?",
+     "If an island can recover in about a decade, how should we decide which invasive-species problems are worth the cost and risk of eradication?"
+    ],
+    "related": [
+     {
+      "t": "Island tameness",
+      "u": "https://en.wikipedia.org/wiki/Island_tameness",
+      "k": "wiki"
+     },
+     {
+      "t": "'Island of Rats' Recovers - UC San Diego Today",
+      "u": "https://today.ucsd.edu/story/island-of-rats-recovers",
       "k": "sci"
+     },
+     {
+      "t": "New Seabird Life at Hawadax Island Alaska - The Nature Conservancy",
+      "u": "https://www.nature.org/en-us/about-us/where-we-work/united-states/alaska/stories-in-alaska/removing-rats-to-restore-seabirds-in-the-aleutian-islands/",
+      "k": "sci"
+     },
+     {
+      "t": "Rat Island is officially rat-free! - Island Conservation",
+      "u": "https://www.islandconservation.org/rat-island-is-officially-rat-free/",
+      "k": "sci"
+     }
+    ]
+   },
+   "alt": {
+    "title": "How a tiny wasp could save Christmas Island's spectacular red crabs from crazy ants",
+    "outlet": "ABC News (Australia)",
+    "url": "https://www.abc.net.au/news/2016-12-03/tiny-wasp-could-save-christmas-islands-spectacular-red-crabs/8087458",
+    "year": 2016,
+    "summary": "On Christmas Island, invasive yellow crazy ants are a major threat to the famous red crabs. The ants' giant colonies depend on honeydew from another invasive species, the yellow lac scale insect. Parks Australia planned to release a tiny wasp that attacks the scale insects, which would cut off the ants' food supply. Researchers also tested whether the wasps would still attack scale insects that ants were tending, and they did.",
+    "facts": [
+     "The wasp is only about 2 millimetres long.",
+     "Crazy ant supercolonies need a steady food source. Another invasive species, the scale insect, supplies it.",
+     "Parks Australia had already tried many methods against the ants, including aerial and hand baiting.",
+     "Tests showed the wasps still attack scale insects that ants are guarding."
+    ],
+    "questions": [
+     "What are the risks of fighting one invasive species by releasing another organism, and how could scientists reduce them?",
+     "Why do the red crabs matter so much to the island's forests?",
+     "How might several invasive species end up helping each other, and what does that mean for how we manage them?"
+    ],
+    "related": [
+     {
+      "t": "Christmas Island red crab",
+      "u": "https://en.wikipedia.org/wiki/Christmas_Island_red_crab",
+      "k": "wiki"
+     },
+     {
+      "t": "Christmas Island crab migration",
+      "u": "https://en.wikipedia.org/wiki/Christmas_Island_crab_migration",
+      "k": "wiki"
+     },
+     {
+      "t": "Christmas Island Yellow Crazy Ant Control Program (Australian Government)",
+      "u": "https://www.dcceew.gov.au/sites/default/files/env/resources/898583db-b929-491a-8448-73fb652bca66/files/brochure-detail-crazy-ant-control-options.pdf",
+      "k": "sci"
+     },
+     {
+      "t": "Wildlife of Christmas Island",
+      "u": "https://en.wikipedia.org/wiki/Wildlife_of_Christmas_Island",
+      "k": "wiki"
      }
     ]
    }
@@ -255,71 +255,81 @@
    "desc": "Machines that learn and reason",
    "color": "#a78bfa",
    "article": {
-    "title": "Who owns India's textile traditions in age of AI-enabled mass production?",
-    "outlet": "Al Jazeera",
-    "url": "https://www.aljazeera.com/features/2026/10/21/who-owns-indias-textile-traditions-in-age-of-ai-enabled-mass-production",
-    "year": 2026,
-    "summary": "Indian software firm TCS has built an AI system that turns textile designs into loom-ready instructions. A pilot is running in Kanchipuram, a town in Tamil Nadu famous for its silk saris. Supporters say it helps weavers handle complex patterns with fewer mistakes. The article asks a harder question. If tools meant to preserve a craft can copy its look without the craftsperson, who owns that tradition?",
+    "title": "Researchers Are Using Artificial Intelligence to Reconstruct Ancient Games",
+    "outlet": "Atlas Obscura",
+    "url": "https://www.atlasobscura.com/articles/ancient-games-artificial-intelligence",
+    "year": 2019,
+    "summary": "A team of software engineers, game historians and archaeologists at Maastricht University is trying to work out how long-lost ancient board games were really played. Their Digital Ludeme Project breaks each game into basic building blocks, a bit like genes. AI then plays thousands of candidate rule sets against itself to find the ones that actually work. The goal is to trace how games changed across time and places, like a game of telephone.",
     "facts": [
-     "At a New Delhi AI summit in February 2026, the loom was shown guiding weavers with LED lights that mark thread sequences.",
-     "Kanchipuram and Banarasi are names of places that these textiles helped shape, not just places they came from.",
-     "A third-generation Kanchipuram weaver says her business already competes with cheaper saris made on electronic looms.",
-     "The article describes a paradox. Tools built to preserve a craft can make its visual style easier to reproduce digitally without the artisan."
+     "Tutankhamun's tomb held four senet sets, an Egyptian game tied to the journey to the afterlife.",
+     "The project calls the basic building blocks of games 'ludemes', which are essentially game genes.",
+     "Once games are mapped this way, researchers can count the steps needed for one game to evolve into another, called 'ludemic distance'.",
+     "Testing rules means playing the game many, many times to find spots where it breaks down, becomes unfair, or can't be won."
     ],
     "questions": [
-     "If an AI learns a community's traditional patterns, who should get credit or payment for what it produces?",
-     "Can a handwoven textile keep its value if machines can copy its look cheaply?",
-     "How could technology help a craft survive without pushing the artisans who made it aside?"
+     "If nobody wrote down the rules of a game, how confident can we ever be that a reconstruction matches what ancient players did?",
+     "What might the way games spread and mutate tell us about how ideas and cultures moved around the ancient world?",
+     "Is a rule set that an AI finds balanced and fun necessarily the same one that people played thousands of years ago?"
     ],
     "related": [
      {
-      "t": "Kanchipuram silk sari",
-      "u": "https://en.wikipedia.org/wiki/Kanchipuram_silk_sari",
+      "t": "Senet and Twenty Squares: Two Board Games Played by Ancient Egyptians",
+      "u": "https://www.metmuseum.org/perspectives/ancient-egypt-board-games",
+      "k": "sci"
+     },
+     {
+      "t": "Royal Game of Ur",
+      "u": "https://en.wikipedia.org/wiki/Royal_Game_of_Ur",
       "k": "wiki"
      },
      {
-      "t": "City of Crafts and Folk Arts",
-      "u": "https://en.wikipedia.org/wiki/City_of_Crafts_and_Folk_Arts",
+      "t": "Tafl games",
+      "u": "https://en.wikipedia.org/wiki/Tafl_games",
       "k": "wiki"
      },
      {
-      "t": "Have a damaged painting? Restore it in just hours with an AI-generated mask",
-      "u": "https://news.mit.edu/2025/restoring-damaged-paintings-using-ai-generated-mask-0611",
+      "t": "AI for Ancient Games (Report on the Digital Ludeme Project)",
+      "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7194251",
       "k": "sci"
      }
     ]
    },
    "alt": {
-    "title": "AI may have limitations when illustrating smaller, rural cities",
-    "outlet": "WVTF / Radio IQ",
-    "url": "https://www.wvtf.org/news/2026-07-06/ai-may-have-limitations-when-illustrating-smaller-rural-cities",
+    "title": "Mystery stone is actually ancient Roman board game",
+    "outlet": "Popular Science",
+    "url": "https://www.popsci.com/science/ancient-roman-board-game-mystery/",
     "year": 2026,
-    "summary": "A Virginia Tech geographer asked an AI image generator to draw his own town, Blacksburg. The pictures looked wrong. A study then found that these tools draw big cities more convincingly than small, rural towns. Local residents, who were asked to judge the images, agreed they were off. The concern is that city planners who use AI imagery could misrepresent smaller communities.",
+    "summary": "A carved stone from a Roman-era site in the Dutch city of Heerlen puzzled archaeologists for decades because nobody knew whether it was a game board or something else. Researchers worked with AI programmers at Maastricht University to build a system that learned from the rules of about 100 ancient games from the region. The system, called Ludii, produced many possible rule sets, played them against itself, and picked out variants that people would enjoy. The team named the game Ludus Coriovalli.",
     "facts": [
-     "The researcher tried Blacksburg first, a town of about 44,000 people, and the AI pictures of it came out generic.",
-     "The same tool produced more recognizable images of Washington D.C., Richmond and Virginia Beach.",
-     "The researchers surveyed 129 people. Residents who had lived in Blacksburg for years judged the images more harshly than newcomers did.",
-     "The AI left out Hokie Stone, the local stone that defines Virginia Tech's buildings."
+     "The AI program's name, Ludii, is a play on the Latin word for games.",
+     "Two AI agents played 1,000 games for each rule set, and the team tested 130 combinations of starting, movement and ending rules.",
+     "The results suggest a blocking game, which pushes the earliest evidence for that type of game in Europe back by several centuries, from the medieval period to Roman times.",
+     "The researchers compared the wear patterns the AI games produced with the real scuffs on the stone to judge which rules fit."
     ],
     "questions": [
-     "Why might AI image tools know big cities better than small towns, and what could fix that?",
-     "What could go wrong if a town's planning or promotional images are made by a tool that doesn't know the place?",
-     "How would you teach an AI what makes your own neighborhood look like itself?"
+     "What counts as good evidence that an object was a game rather than, say, an architectural sketch?",
+     "How could AI-simulated play help archaeologists with other mystery objects?",
+     "If the AI picks rules that humans find fun, are we discovering the past or inventing a new game?"
     ],
     "related": [
      {
-      "t": "DALL-E",
-      "u": "https://en.wikipedia.org/wiki/DALL-E",
-      "k": "wiki"
-     },
-     {
-      "t": "When AI imagines cities, smaller communities can disappear",
-      "u": "https://news.vt.edu/articles/2026/05/cnre-research-AI-cities.html",
+      "t": "Researchers crack the rules of unknown board game from the Roman period (Leiden University)",
+      "u": "https://www.universiteitleiden.nl/en/news/2026/02/researchers-crack-the-rules-of-unknown-board-game-from-the-roman-period",
       "k": "sci"
      },
      {
-      "t": "Small Towns Are Vanishing From AI's Imagination",
-      "u": "https://scienceblog.com/neuroedge/2026/05/25/small-towns-are-vanishing-from-ais-imagination/",
+      "t": "Ludus Coriovalli",
+      "u": "https://en.wikipedia.org/wiki/Ludus_Coriovalli",
+      "k": "wiki"
+     },
+     {
+      "t": "Ludus latrunculorum",
+      "u": "https://en.wikipedia.org/wiki/Ludus_latrunculorum",
+      "k": "wiki"
+     },
+     {
+      "t": "AI simulation helps calculate the rules of an unknown Roman board game (Antiquity)",
+      "u": "https://antiquity.ac.uk/news/2026/ai-simulation-helps-calculate-rules-unknown-roman-board-game",
       "k": "sci"
      }
     ]
