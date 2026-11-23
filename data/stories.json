@@ -1,249 +1,259 @@
 {
- "date": "2026-11-23",
+ "date": "2026-11-24",
  "topics": [
   {
-   "id": "math",
-   "name": "Mathematics",
-   "desc": "Numbers, shapes and logical patterns",
-   "color": "#facc15",
+   "id": "linguistics",
+   "name": "Linguistics",
+   "desc": "Language and how it works",
+   "color": "#a78bfa",
    "article": {
-    "title": "These Stunning Fractals Are Made of Snow",
+    "title": "Studying an emerging sign language won't kill it \u2013 so what are linguists scared of?",
+    "outlet": "Aeon (republished by the World Economic Forum)",
+    "url": "https://www.weforum.org/stories/2019/03/studying-an-emerging-sign-language-won-t-kill-it-so-what-are-linguists-scared-of-7c34b543d7/",
+    "year": 2019,
+    "summary": "Michael Erard looks at 'village sign languages', which are new languages that appear in small, isolated communities with many deaf members. The piece is about a debate among linguists. Some worry that studying these young languages could harm them. Others think they should be treated as full languages and compared with other sign languages straight away. Along the way it visits places such as a Turkish village, a Japanese island and a Mexican community.",
+    "facts": [
+     "Researcher Connie de Vos has deaf relatives in a Turkish village. They invented a sign language that everyone around them used to communicate with them.",
+     "Some 'universals' of sign languages turned out not to be universal once village sign languages were studied.",
+     "On an island in Japan, a signer says the locals think little about their own Miyakubo Sign Language.",
+     "Researchers in Oaxaca, Mexico, found that a signer who knew ASL accidentally brought some ASL features into her Chatino signing."
+    ],
+    "questions": [
+     "If studying a young language could change it, how should researchers balance curiosity against protecting it?",
+     "Why might the way a language is passed on, through a family or through a school, change how it develops?",
+     "What would count as proof that a feature of language is truly universal?"
+    ],
+    "related": [
+     {
+      "t": "Deaf-community sign language",
+      "u": "https://en.wikipedia.org/wiki/Deaf-community_sign_language",
+      "k": "wiki"
+     },
+     {
+      "t": "New sign languages hint at how all languages evolve",
+      "u": "https://sciencemag.org/news/2016/04/new-sign-languages-hint-how-all-languages-evolve",
+      "k": "sci"
+     },
+     {
+      "t": "Deaf Arab villagers create new language",
+      "u": "https://www.seattletimes.com/nation-world/deaf-arab-villagers-create-new-language/",
+      "k": "sci"
+     },
+     {
+      "t": "Kata Kolok",
+      "u": "https://en.wikipedia.org/wiki/Kata_Kolok",
+      "k": "wiki"
+     }
+    ]
+   },
+   "alt": {
+    "title": "Bali's remarkable deaf village",
+    "outlet": "Daily Trust",
+    "url": "https://dailytrust.com/balis-remarkable-deaf-village/",
+    "year": 2020,
+    "summary": "This feature visits Bengkala, a Balinese village with a high rate of hereditary deafness. There, a local sign language called Kata Kolok is the main way a small number of deaf people communicate. Many hearing villagers have learned it too, so deaf people take part fully in village life. The language has grown naturally and has little in common with other sign languages.",
+    "facts": [
+     "Kata Kolok means 'deaf talk', and the article says it is the main language for only 44 people.",
+     "More than half of the hearing people in the village have learned it so they can talk with deaf relatives and friends.",
+     "The sign for 'male' is a stiff pointing index finger. 'Father' uses the same finger curved over the upper lip like a moustache.",
+     "A researcher who is fluent in it says it has very little influence from Indonesian, Balinese or outside sign languages."
+    ],
+    "questions": [
+     "What does it say about a community when hearing people learn the language of their deaf neighbours?",
+     "Why might a language used by so few people still count as rich and complete?",
+     "What could be lost if a village sign language gives way to a national one?"
+    ],
+    "related": [
+     {
+      "t": "Kata Kolok",
+      "u": "https://en.wikipedia.org/wiki/Kata_Kolok",
+      "k": "wiki"
+     },
+     {
+      "t": "Longitudinal Documentation of Sign Language Acquisition in a Deaf Village in Bali",
+      "u": "https://www.elararchive.org/dk0124",
+      "k": "sci"
+     },
+     {
+      "t": "The Emergence of Language in Social Interaction (CORDIS project report)",
+      "u": "https://cordis.europa.eu/project/id/852352/reporting",
+      "k": "sci"
+     },
+     {
+      "t": "Vital Signs: In Bali's 'deaf village,' a unique language gives hope to a new generation",
+      "u": "https://coconuts.co/bali/features/vital-signs-balis-deaf-village-unique-language-gives-hope-new-generation/",
+      "k": "sci"
+     }
+    ]
+   }
+  },
+  {
+   "id": "politics",
+   "name": "Politics & Civics",
+   "desc": "How governments and laws work",
+   "color": "#94a3b8",
+   "article": {
+    "title": "Ancient Greeks Voted to Kick Politicians Out of Athens if Enough People Didn't Like Them",
     "outlet": "Smithsonian Magazine",
-    "url": "https://www.smithsonianmag.com/smart-news/these-stunning-fractals-are-made-snow-180958012/",
-    "year": 2016,
-    "summary": "Simon Beck treats big stretches of untouched snow as a blank canvas. He plans each design on paper, then walks it out in snowshoes, using a compass and counted paces to keep the geometry accurate. His favorite subjects are fractals, which are patterns that repeat at smaller and smaller scales, such as Koch snowflakes and Sierpinski triangles. The piece shows how a cold, empty landscape can hold very precise mathematics.",
+    "url": "https://www.smithsonianmag.com/history/ancient-athenians-voted-kick-politicians-out-if-enough-people-didnt-them-180976138/",
+    "year": 2020,
+    "summary": "In Athens, citizens could vote to send a powerful figure into exile without a trial. They did it by scratching a name onto a broken piece of pottery called an ostrakon. The article explains how thousands of these ballots, found by archaeologists, show how voters behaved and fill gaps left by ancient writers. The ballots also show that some exiled politicians came back and were ostracized again.",
     "facts": [
-     "Beck makes his designs on foot, so every line is a trail of snowshoe prints.",
-     "He gets from sketch to snow using only a compass and pace counting, drawing on a background in engineering and orienteering.",
-     "One of his designs is a snow version of the Sierpinski triangle, a fractal described in 1915. Similar patterns show up in artwork centuries older.",
-     "Beck has said he started adding fractals after reading James Gleick's book about chaos theory."
+     "Ostracism ran from about 487 to 416 B.C., and it let citizens banish someone without a trial.",
+     "The first ostrakon was identified in 1853, and only about 1,600 had been counted over the next century.",
+     "A German team started finding thousands more in Athens' Kerameikos pottery district in 1966.",
+     "Evidence from the ballots led archaeologists to conclude that Megakles returned to Athens and was ostracized again in 471 B.C."
     ],
     "questions": [
-     "Why might a vast, empty snowfield be a better place for mathematical art than a gallery wall?",
-     "If an artwork will vanish with the next snowfall, what is the value of making it precisely?",
-     "Where else in nature do you see patterns that repeat at smaller scales, and could you recreate one with just your feet and a compass?"
+     "Is voting someone out without a trial a useful check on power, or a risky tool? Why?",
+     "What can discarded everyday objects like pottery scraps tell us about how ordinary voters behaved that official histories leave out?",
+     "Which modern procedures, such as recalls or impeachments, do something similar to ostracism, and how do they differ?"
     ],
     "related": [
      {
-      "t": "Kenneth M. Golden",
-      "u": "https://en.wikipedia.org/wiki/Kenneth_M._Golden",
+      "t": "Ostracism (Wikipedia)",
+      "u": "https://en.wikipedia.org/wiki/Ostracism",
       "k": "wiki"
      },
      {
-      "t": "The Icebergs",
-      "u": "https://en.wikipedia.org/wiki/The_Icebergs",
+      "t": "Ostracon (Wikipedia)",
+      "u": "https://en.wikipedia.org/wiki/Ostracon",
       "k": "wiki"
      },
      {
-      "t": "Association of Polar Early Career Scientists - Polar Art",
-      "u": "https://www.apecs.is/outreach-archive/polar-weeks-archive/polar-week-march-2017/polar-art.html",
+      "t": "Ostracism: Political Exclusion in Ancient Athens (World History Encyclopedia)",
+      "u": "https://www.worldhistory.org/Ostracism/",
+      "k": "sci"
+     },
+     {
+      "t": "Ostracism: 'Cancel culture' Ancient Greek-style (History Hit / History.co.uk)",
+      "u": "https://www.history.co.uk/articles/ostracism-cancel-culture-ancient-greek-style",
       "k": "sci"
      }
     ]
    },
    "alt": {
-    "title": "Crafty Geometry",
-    "outlet": "Science News",
-    "url": "https://www.sciencenews.org/article/crafty-geometry",
-    "year": 2004,
-    "summary": "Mathematicians are using knitting and crochet to make physical models of surfaces that are very hard to picture. Crocheted versions of the hyperbolic plane, a counterintuitive curved shape, let students and researchers handle and explore its odd properties. The article also looks at wider craft math, including patterns for M\u00f6bius scarves and Klein bottle hats. Yarn turns out to be a good way to see ideas that mathematicians already know.",
+    "title": "The Dogal Elections Edition",
+    "outlet": "Why Is This Interesting? (Substack newsletter)",
+    "url": "https://whyisthisinteresting.substack.com/p/the-dogal-elections-edition",
+    "year": null,
+    "summary": "Venice chose its head of state, the doge, with rules adopted in 1268 that stayed almost unchanged until the last election in 1789. The process used repeated rounds of drawing lots and then voting. It shrank a large pool of nobles down to 41 electors, who needed 25 votes to elect the doge. The newsletter asks why the system was so convoluted and why it lasted so long. It suggests that combining chance with an isolated electoral college makes manipulation harder and encourages careful deliberation.",
     "facts": [
-     "In 1901, David Hilbert proved that a smooth model of the hyperbolic plane can't be built, because the surface buckles.",
-     "One mathematician looked at a crocheted hyperbolic plane and exclaimed that this is what they really look like.",
-     "A mathematician at Mercer University says knitting and crocheting help her see familiar math in a different light.",
-     "The article suggests swapping the holiday sweater for a M\u00f6bius scarf, a Klein bottle hat or hyperbolic ornaments."
+     "Venice used its doge-election rules from 1268 until the Republic fell in 1797, and the process had ten rounds that alternated lot and vote.",
+     "The odd number 41 came from a failed election in 1229. A tie in a college of forty was settled by drawing lots, and the rules were then changed to make the final college odd.",
+     "Before 1268, seven of 43 doges came from the previous doge's family, and in six of those cases the office passed from father to son.",
+     "Because the doge served for life and was usually elected at an advanced age, the office was kept from becoming too powerful."
     ],
     "questions": [
-     "Why might a handmade model teach something that equations and drawings can't?",
-     "What other crafts you know of, such as weaving, quilting or origami, might hide serious mathematics?",
-     "If a shape can't be built smoothly, what does it mean to say it exists?"
+     "Why might a deliberately complicated voting process make an election more trusted instead of less?",
+     "What are the trade-offs of picking decision-makers partly by chance rather than purely by votes?",
+     "Which modern institutions use lotteries or multi-stage selection, and would you want to see more of them?"
     ],
     "related": [
      {
-      "t": "Mathematics and fiber arts",
-      "u": "https://en.wikipedia.org/wiki/Mathematics_and_fiber_arts",
+      "t": "Doge of Venice (Wikipedia)",
+      "u": "https://en.wikipedia.org/wiki/Doge_of_Venice",
       "k": "wiki"
      },
      {
-      "t": "List of mathematical artists",
-      "u": "https://en.wikipedia.org/wiki/List_of_mathematical_artists",
+      "t": "Great Council of Venice (Wikipedia)",
+      "u": "https://en.wikipedia.org/wiki/Great_Council_of_Venice",
       "k": "wiki"
      },
      {
-      "t": "Composite Gallery (National Museum of Mathematics)",
-      "u": "https://momath.org/composite-gallery/",
+      "t": "The Early History of Approval Voting (Center for Election Science)",
+      "u": "https://electionscience.org/education/early-history",
+      "k": "sci"
+     },
+     {
+      "t": "How the Republic of Venice chose its Doge: lot-based elections and supermajority rule (Constitutional Political Economy, Springer)",
+      "u": "https://link.springer.com/article/10.1007/s10602-019-09290-6",
       "k": "sci"
      }
     ]
    }
   },
   {
-   "id": "oceanography",
-   "name": "Oceanography",
-   "desc": "Oceans and marine ecosystems",
-   "color": "#06b6d4",
+   "id": "envsci",
+   "name": "Environmental Science",
+   "desc": "Physical, chemical and biological interactions",
+   "color": "#4ade80",
    "article": {
-    "title": "Coral in crisis: Stories from the front line",
-    "outlet": "Eco-Business",
-    "url": "https://www.eco-business.com/news/coral-in-crisis-stories-from-the-front-line/",
-    "year": 2026,
-    "summary": "This feature visits four communities whose livelihoods depend on reefs that are getting more fragile. It opens in Shenzhen, China, where one conservationist has spent about two decades building underwater coral nurseries to stitch broken corals back together. It then moves to Bali, which sits inside the Coral Triangle, and on to Africa and the Americas. The stories show how warming seas and local pressures reach ordinary people who depend on reefs for tourism and food.",
+    "title": "A Mysterious Wasteland",
+    "outlet": "TIME",
+    "url": "https://time.com/archive/6706164/a-mysterious-wasteland/",
+    "year": 1986,
+    "summary": "In 1960 a Soviet scientist driving through the southern Urals found a huge stretch of empty, contaminated land. The article follows the detective work that tried to explain it. An exiled biologist combed open Soviet scientific journals for clues, and Western experts first doubted his claim that buried nuclear waste had overheated and erupted. Later surveys confirmed a devastated zone, but people kept arguing over what caused it.",
     "facts": [
-     "Coral covered about 70% of Shenzhen's Dapeng Bay in the 1980s, before decades of damage.",
-     "A 30-hectare protected zone there was set up after the 1996 El Ni\u00f1o to rebuild fish stocks and heal the reef.",
-     "The Coral Triangle spans six nations and holds about 76% of the world's coral species.",
-     "Bali's reefs draw divers hoping to see mola mola (ocean sunfish) and manta rays."
+     "The traveler, Lev Tumerman, passed a road sign telling drivers not to stop for the next 20 miles and to go as fast as possible.",
+     "The contamination was traced to the winter of 1957-58, around Kyshtym, which was believed to be a center of Soviet plutonium production.",
+     "The exiled biologist Zhores Medvedev proposed that stored radioactive waste overheated as it built up and then blew up like a volcano.",
+     "Authorities reportedly sent prisoners to cover the contaminated soil with sand, and later evacuated farmers, destroyed their houses and fenced the area off."
     ],
     "questions": [
-     "If a coral nursery can take two decades to make a difference, how should we judge whether restoration is working?",
-     "How do tourism income and reef protection help or harm each other in places like Bali?",
-     "What can communities far from the ocean do about a problem that is driven by global heat?"
+     "How can scientists reconstruct a hidden pollution event from indirect evidence, such as open journals and a single eyewitness?",
+     "Why might governments hide environmental disasters, and what is lost when they do?",
+     "What does this case suggest about how much we should trust a surprising claim when the official data is missing?"
     ],
     "related": [
      {
-      "t": "Southeast Asian coral reefs",
-      "u": "https://en.wikipedia.org/wiki/Southeast_Asian_coral_reefs",
+      "t": "Kyshtym disaster (Wikipedia)",
+      "u": "https://en.wikipedia.org/wiki/Kyshtym_disaster",
       "k": "wiki"
      },
      {
-      "t": "Why the Coral Triangle is the most important part of the ocean",
-      "u": "https://www.nhm.ac.uk/discover/news/2018/march/why-the-coral-triangle-is-the-most-important-part-of-the-ocean.html",
+      "t": "Zhores Medvedev (Wikipedia)",
+      "u": "https://en.wikipedia.org/wiki/Zhores_Medvedev",
+      "k": "wiki"
+     },
+     {
+      "t": "LA-9217-MS: An analysis of the Kyshtym claims (Los Alamos report)",
+      "u": "http://large.stanford.edu/courses/2016/ph241/lee1/docs/la-9217-ms.pdf",
       "k": "sci"
      },
      {
-      "t": "Island-building and overfishing wreak destruction of South China Sea reefs",
-      "u": "https://news.mongabay.com/2024/04/island-building-and-overfishing-wreak-destruction-of-south-china-sea-reefs/",
-      "k": "sci"
-     },
-     {
-      "t": "The Forested Coral Reef of the Hengchun Peninsula",
-      "u": "https://english.cw.com.tw/article/article.action?id=4107",
+      "t": "The Kyshtym Disaster (SciHi)",
+      "u": "http://scihi.org/kyshtim-disaster/",
       "k": "sci"
      }
     ]
    },
    "alt": {
-    "title": "Two decades of research show Indonesia's coral reefs are heat-tolerant \u2014 but only up to a point",
-    "outlet": "The Conversation",
-    "url": "https://theconversation.com/two-decades-of-research-show-indonesias-coral-reefs-are-heat-tolerant-but-only-up-to-a-point-281134",
+    "title": "Chemists are uncovering a hidden world of pollution",
+    "outlet": "Science (news)",
+    "url": "https://www.science.org/content/article/chemists-are-uncovering-hidden-world-pollution",
     "year": 2026,
-    "summary": "Researchers pooled long-term coral monitoring records from across Indonesia, home to the world's largest and most biodiverse reef system. They found that live coral cover held steady under low to moderate heat stress. It then fell sharply once accumulated heat passed a clear threshold. The authors argue that Indonesia needs a more coordinated national system to track reef condition and bleaching.",
+    "summary": "Salmon were dying and no one knew what was killing them. The article shows how chemists solved that puzzle and why the same method is now revealing many more pollutants. Modern high-resolution instruments paired with computer analysis can pick out thousands of compounds in one sample, including ones nobody thought to look for. The salmon case ended with the discovery of a tire-derived chemical, which set off a continuing legal and regulatory fight.",
     "facts": [
-     "Indonesia's reefs cover more than 32,000 square kilometres across the archipelago.",
-     "Coral cover dropped sharply once heat stress passed about 12 degree-heating weeks.",
-     "Degree-heating weeks work like a running 'heat dose', combining how much warmer the water is than usual and how long it stays that way.",
-     "Stable total coral cover can hide losses, such as fewer branching or old corals and less complex reef structure."
+     "The unknown compound was matched to an obscure 1983 paper about a related tire additive called 6PPD.",
+     "When researchers exposed 6PPD to ozone, as happens to tire debris on roads, they made the mystery compound, which they named 6PPD-quinone.",
+     "For decades, scientists mostly measured only the contaminants they already knew to look for, by comparing samples with reference standards.",
+     "In 2023, two fishing industry groups sued 13 tire manufacturers over the chemical."
     ],
     "questions": [
-     "Why might a reef look healthy by one measure while quietly losing its structure and diversity?",
-     "What would a good national coral-monitoring system look like in a country with thousands of islands?",
-     "If there's a heat threshold beyond which reefs collapse, how should that change conservation priorities?"
+     "If we can only find the pollutants we think to look for, how many others might be affecting ecosystems right now?",
+     "Who should pay for harm caused by a chemical that was added to a product for a good reason, such as keeping tires from cracking?",
+     "How does a chemical change once it leaves the factory and meets sunlight, air and roads?"
     ],
     "related": [
      {
-      "t": "Coral bleaching",
-      "u": "https://en.wikipedia.org/wiki/Coral_bleaching",
+      "t": "Fish kill (Wikipedia)",
+      "u": "https://en.wikipedia.org/wiki/Fish_kill",
       "k": "wiki"
      },
      {
-      "t": "An Exciting Discovery for Tropical Pacific Corals (NOAA/AOML)",
-      "u": "https://www.aoml.noaa.gov/an-exciting-discovery-for-tropical-pacific-corals/",
+      "t": "Fish Kill - an overview (ScienceDirect Topics)",
+      "u": "https://www.sciencedirect.com/topics/veterinary-science-and-veterinary-medicine/fish-kill",
       "k": "sci"
      },
      {
-      "t": "Unlocking the secrets of heat-resistant corals (University of Miami)",
-      "u": "https://news.miami.edu/as/stories/2026/02/unlocking-the-secrets-of-heat-resistant-corals.html",
+      "t": "A Fish Kill Mystery (Woods Hole Oceanographic Institution archive)",
+      "u": "https://www.whoi.edu/science/B/redtide/notedevents/FLApfiesteria/Stuart/FLAfishkill3-19.html",
       "k": "sci"
      },
      {
-      "t": "2023\u20132025 global coral bleaching event",
-      "u": "https://en.wikipedia.org/wiki/2023%E2%80%932025_global_coral_bleaching_event",
-      "k": "wiki"
-     }
-    ]
-   }
-  },
-  {
-   "id": "ecology",
-   "name": "Ecology",
-   "desc": "Organisms and their environment",
-   "color": "#34d399",
-   "article": {
-    "title": "De-Ratting Rat Island Brought Silent Ecosystem Back to Life",
-    "outlet": "Scientific American",
-    "url": "https://www.scientificamerican.com/article/de-ratting-rat-island-brought-silent-ecosystem-back-to-life/",
-    "year": 2024,
-    "summary": "Rats escaped from a shipwreck in the 1780s onto a remote Aleutian island and wiped out its seabird colonies. The island was eventually cleared of rats using bait dropped by conservation teams. Roughly a decade later, researchers found the seabirds back and the whole shoreline ecosystem recovering. The shore now looks like nearby islands that rats never reached. It shows that some damaged ecosystems can bounce back surprisingly fast.",
-    "facts": [
-     "The rats arrived by accident. They were stowaways on a shipwreck in the 1780s.",
-     "The rats' effects reached far past the birds. They disrupted the food chain all the way down to algae.",
-     "Surveys five and 11 years after the rats were removed showed steady recovery. The shoreline now has more kelp and fewer marine invertebrates.",
-     "The island was renamed Hawadax, which restores its original Aleut name."
-    ],
-    "questions": [
-     "Why can a single accidental arrival, like stowaway rats, change an entire island ecosystem so completely?",
-     "Rat removal helped the kelp as well as the birds. What does that say about how connected land and sea ecosystems are?",
-     "If an island can recover in about a decade, how should we decide which invasive-species problems are worth the cost and risk of eradication?"
-    ],
-    "related": [
-     {
-      "t": "Island tameness",
-      "u": "https://en.wikipedia.org/wiki/Island_tameness",
-      "k": "wiki"
-     },
-     {
-      "t": "'Island of Rats' Recovers - UC San Diego Today",
-      "u": "https://today.ucsd.edu/story/island-of-rats-recovers",
-      "k": "sci"
-     },
-     {
-      "t": "New Seabird Life at Hawadax Island Alaska - The Nature Conservancy",
-      "u": "https://www.nature.org/en-us/about-us/where-we-work/united-states/alaska/stories-in-alaska/removing-rats-to-restore-seabirds-in-the-aleutian-islands/",
-      "k": "sci"
-     },
-     {
-      "t": "Rat Island is officially rat-free! - Island Conservation",
-      "u": "https://www.islandconservation.org/rat-island-is-officially-rat-free/",
-      "k": "sci"
-     }
-    ]
-   },
-   "alt": {
-    "title": "How a tiny wasp could save Christmas Island's spectacular red crabs from crazy ants",
-    "outlet": "ABC News (Australia)",
-    "url": "https://www.abc.net.au/news/2016-12-03/tiny-wasp-could-save-christmas-islands-spectacular-red-crabs/8087458",
-    "year": 2016,
-    "summary": "On Christmas Island, invasive yellow crazy ants are a major threat to the famous red crabs. The ants' giant colonies depend on honeydew from another invasive species, the yellow lac scale insect. Parks Australia planned to release a tiny wasp that attacks the scale insects, which would cut off the ants' food supply. Researchers also tested whether the wasps would still attack scale insects that ants were tending, and they did.",
-    "facts": [
-     "The wasp is only about 2 millimetres long.",
-     "Crazy ant supercolonies need a steady food source. Another invasive species, the scale insect, supplies it.",
-     "Parks Australia had already tried many methods against the ants, including aerial and hand baiting.",
-     "Tests showed the wasps still attack scale insects that ants are guarding."
-    ],
-    "questions": [
-     "What are the risks of fighting one invasive species by releasing another organism, and how could scientists reduce them?",
-     "Why do the red crabs matter so much to the island's forests?",
-     "How might several invasive species end up helping each other, and what does that mean for how we manage them?"
-    ],
-    "related": [
-     {
-      "t": "Christmas Island red crab",
-      "u": "https://en.wikipedia.org/wiki/Christmas_Island_red_crab",
-      "k": "wiki"
-     },
-     {
-      "t": "Christmas Island crab migration",
-      "u": "https://en.wikipedia.org/wiki/Christmas_Island_crab_migration",
-      "k": "wiki"
-     },
-     {
-      "t": "Christmas Island Yellow Crazy Ant Control Program (Australian Government)",
-      "u": "https://www.dcceew.gov.au/sites/default/files/env/resources/898583db-b929-491a-8448-73fb652bca66/files/brochure-detail-crazy-ant-control-options.pdf",
-      "k": "sci"
-     },
-     {
-      "t": "Wildlife of Christmas Island",
-      "u": "https://en.wikipedia.org/wiki/Wildlife_of_Christmas_Island",
+      "t": "Four Big Pollution Diseases of Japan (Wikipedia)",
+      "u": "https://en.wikipedia.org/wiki/Four_Big_Pollution_Diseases_of_Japan",
       "k": "wiki"
      }
     ]
@@ -255,81 +265,81 @@
    "desc": "Machines that learn and reason",
    "color": "#a78bfa",
    "article": {
-    "title": "Researchers Are Using Artificial Intelligence to Reconstruct Ancient Games",
-    "outlet": "Atlas Obscura",
-    "url": "https://www.atlasobscura.com/articles/ancient-games-artificial-intelligence",
-    "year": 2019,
-    "summary": "A team of software engineers, game historians and archaeologists at Maastricht University is trying to work out how long-lost ancient board games were really played. Their Digital Ludeme Project breaks each game into basic building blocks, a bit like genes. AI then plays thousands of candidate rule sets against itself to find the ones that actually work. The goal is to trace how games changed across time and places, like a game of telephone.",
+    "title": "AI before AI: The forgotten Soviet programme (1/3)",
+    "outlet": "France 24",
+    "url": "https://www.france24.com/en/technology/20260730-ai-before-ai-forgotten-soviet-programme",
+    "year": 2026,
+    "summary": "Silicon Valley dominates the usual story of artificial intelligence. This piece looks at the Soviet effort that began in the 1950s, which gets far less attention. Researchers behind the Iron Curtain first approached the idea through cybernetics, and AI itself was treated with suspicion at the start. The article follows how the field grew into an organised research community, and how one Soviet-born idea later found its way into a company and a connection to Apple.",
     "facts": [
-     "Tutankhamun's tomb held four senet sets, an Egyptian game tied to the journey to the afterlife.",
-     "The project calls the basic building blocks of games 'ludemes', which are essentially game genes.",
-     "Once games are mapped this way, researchers can count the steps needed for one game to evolve into another, called 'ludemic distance'.",
-     "Testing rules means playing the game many, many times to find spots where it breaks down, becomes unfair, or can't be won."
+     "In the early 1950s, Soviet authorities viewed the ideas behind AI with suspicion, and the field was not yet called AI.",
+     "Soviet researchers came to machine intelligence through cybernetics, the study of how humans and machines, or machines and other machines, behave.",
+     "A Russian Association for Artificial Intelligence was founded in 1989 after years of lobbying and community-building.",
+     "A solution by a Soviet researcher named Guberman was picked up by entrepreneur Stepan Pachikov for his company Paragraph."
     ],
     "questions": [
-     "If nobody wrote down the rules of a game, how confident can we ever be that a reconstruction matches what ancient players did?",
-     "What might the way games spread and mutate tell us about how ideas and cultures moved around the ancient world?",
-     "Is a rule set that an AI finds balanced and fun necessarily the same one that people played thousands of years ago?"
+     "Why might a political system distrust a new field of science at first, and then later embrace it?",
+     "How does the story of AI change if we count work done outside the United States and Britain?",
+     "What other 'forgotten' technology stories might be hiding behind national borders or political divides?"
     ],
     "related": [
      {
-      "t": "Senet and Twenty Squares: Two Board Games Played by Ancient Egyptians",
-      "u": "https://www.metmuseum.org/perspectives/ancient-egypt-board-games",
+      "t": "Kaissa",
+      "u": "https://en.wikipedia.org/wiki/Kaissa",
+      "k": "wiki"
+     },
+     {
+      "t": "History of artificial intelligence",
+      "u": "https://en.wikipedia.org/wiki/History_of_artificial_intelligence",
+      "k": "wiki"
+     },
+     {
+      "t": "The birth of Artificial Intelligence (AI) research",
+      "u": "https://st.llnl.gov/news/look-back/birth-artificial-intelligence-ai-research",
       "k": "sci"
      },
      {
-      "t": "Royal Game of Ur",
-      "u": "https://en.wikipedia.org/wiki/Royal_Game_of_Ur",
-      "k": "wiki"
-     },
-     {
-      "t": "Tafl games",
-      "u": "https://en.wikipedia.org/wiki/Tafl_games",
-      "k": "wiki"
-     },
-     {
-      "t": "AI for Ancient Games (Report on the Digital Ludeme Project)",
-      "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7194251",
+      "t": "Chatbots Decoded: Exploring AI",
+      "u": "https://computerhistory.org/stories/chatbots-decoded/",
       "k": "sci"
      }
     ]
    },
    "alt": {
-    "title": "Mystery stone is actually ancient Roman board game",
-    "outlet": "Popular Science",
-    "url": "https://www.popsci.com/science/ancient-roman-board-game-mystery/",
-    "year": 2026,
-    "summary": "A carved stone from a Roman-era site in the Dutch city of Heerlen puzzled archaeologists for decades because nobody knew whether it was a game board or something else. Researchers worked with AI programmers at Maastricht University to build a system that learned from the rules of about 100 ancient games from the region. The system, called Ludii, produced many possible rule sets, played them against itself, and picked out variants that people would enjoy. The team named the game Ludus Coriovalli.",
+    "title": "Science: The Thinking Machine",
+    "outlet": "TIME",
+    "url": "https://time.com/archive/6796057/science-the-thinking-machine-2/",
+    "year": 1950,
+    "summary": "This is a TIME magazine piece from January 1950, written when the idea of a 'thinking machine' was brand new. It introduces Harvard's early computers, including a glass-sided veteran nicknamed Bessie, and describes how they answer hard technical questions. It contrasts these machines with a plain adding machine, and with the human brain, whose memory they can't yet match. It is a snapshot of how the press talked about machine intelligence before the term 'artificial intelligence' existed.",
     "facts": [
-     "The AI program's name, Ludii, is a play on the Latin word for games.",
-     "Two AI agents played 1,000 games for each rule set, and the team tested 130 combinations of starting, movement and ending rules.",
-     "The results suggest a blocking game, which pushes the earliest evidence for that type of game in Europe back by several centuries, from the medieval period to Roman times.",
-     "The researchers compared the wear patterns the AI games produced with the real scuffs on the stone to judge which rules fit."
+     "Bessie, a machine with 760,000 parts, had been working since 1944.",
+     "Harvard's Mark III stored its memory on fast-spinning aluminum cylinders coated with magnetic material.",
+     "The Mark III was meant for ambitious jobs such as long-range weather forecasting, and the Navy was due to receive it.",
+     "The article calls Bessie a sort of 'mechanical Eve' for later machines, even though she was far from the brightest."
     ],
     "questions": [
-     "What counts as good evidence that an object was a game rather than, say, an architectural sketch?",
-     "How could AI-simulated play help archaeologists with other mystery objects?",
-     "If the AI picks rules that humans find fun, are we discovering the past or inventing a new game?"
+     "What did people in 1950 mean by a 'thinking machine', and how does that differ from what we mean by AI today?",
+     "Why do you think early writers kept describing computers in human or animal terms, like giving them names and genders?",
+     "If machines in 1950 could already forecast weather in theory, what might they have been missing that made true 'thinking' hard?"
     ],
     "related": [
      {
-      "t": "Researchers crack the rules of unknown board game from the Roman period (Leiden University)",
-      "u": "https://www.universiteitleiden.nl/en/news/2026/02/researchers-crack-the-rules-of-unknown-board-game-from-the-roman-period",
+      "t": "AI winter",
+      "u": "https://en.wikipedia.org/wiki/AI_winter",
+      "k": "wiki"
+     },
+     {
+      "t": "Chatbots Decoded: Exploring AI",
+      "u": "https://computerhistory.org/stories/chatbots-decoded/",
       "k": "sci"
      },
      {
-      "t": "Ludus Coriovalli",
-      "u": "https://en.wikipedia.org/wiki/Ludus_Coriovalli",
-      "k": "wiki"
+      "t": "Thinking Machine, Astounding Science Fiction cover",
+      "u": "https://www.computerhistory.org/chess/stl-431e1a07e3020/",
+      "k": "sci"
      },
      {
-      "t": "Ludus latrunculorum",
-      "u": "https://en.wikipedia.org/wiki/Ludus_latrunculorum",
-      "k": "wiki"
-     },
-     {
-      "t": "AI simulation helps calculate the rules of an unknown Roman board game (Antiquity)",
-      "u": "https://antiquity.ac.uk/news/2026/ai-simulation-helps-calculate-rules-unknown-roman-board-game",
+      "t": "The birth of Artificial Intelligence (AI) research",
+      "u": "https://st.llnl.gov/news/look-back/birth-artificial-intelligence-ai-research",
       "k": "sci"
      }
     ]
