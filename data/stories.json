@@ -1,255 +1,255 @@
 {
- "date": "2026-11-25",
+ "date": "2026-11-26",
  "topics": [
   {
-   "id": "engineering",
-   "name": "Engineering",
-   "desc": "How things are designed and built",
-   "color": "#fb7185",
+   "id": "archaeology",
+   "name": "Archaeology",
+   "desc": "Uncovering the human past",
+   "color": "#d97706",
    "article": {
-    "title": "Town to regain covered span lost to Irene",
-    "outlet": "The Boston Globe",
-    "url": "https://www.bostonglobe.com/metro/2012/09/30/covered-bridge-being-rebuilt-after-irene/2ni776CKYm6qmEwKFPqONL/story.html",
-    "year": 2012,
-    "summary": "The Bartonsville covered bridge in Rockingham, Vermont, became a symbol of Tropical Storm Irene's damage after a video showed it being swept down the Williams River. About a year later, the town was rebuilding it by hand, one beam at a time, using methods the original 1870 builders would have recognized. Residents had refused a modern steel-and-concrete replacement almost as soon as the old bridge was gone. The story shows how a small community's attachment to an old engineering design shaped how a failure was repaired.",
-    "facts": [
-     "The old bridge was 152 feet long. The replacement was made longer, at 168 feet.",
-     "The 1870 bridge was built from timber cut in local forests, but the new bridge's wood came from the Pacific Northwest.",
-     "The video of the bridge washing away was shot by a Bartonsville native, Susan Hammond. Within hours, locals were already talking about rebuilding it.",
-     "The new span was assembled beside the river and moved into place afterward. A temporary bridge carried traffic in the meantime, and the crossing was to close for only about 45 days."
-    ],
-    "questions": [
-     "When a beloved old structure fails, should it be replaced with the same design or with a modern one? What would you weigh?",
-     "Why might traditional timber-framing methods still be a good engineering choice today?",
-     "How does a small town's identity get tied up with a single piece of infrastructure?"
-    ],
-    "related": [
-     {
-      "t": "Lattice truss bridge",
-      "u": "https://en.wikipedia.org/wiki/Lattice_truss_bridge",
-      "k": "wiki"
-     },
-     {
-      "t": "Ithiel Town",
-      "u": "https://en.wikipedia.org/wiki/Ithiel_Town",
-      "k": "wiki"
-     },
-     {
-      "t": "Mars Hill/Lowell Observatory Truss Bridge: Bridge Technology (Northern Arizona University)",
-      "u": "https://sce.nau.edu/capstone/projects/CENE/2011/TrussBridge/BridgeTechnology.html",
-      "k": "sci"
-     },
-     {
-      "t": "History of a Truss Bridge (Tennessee DOT)",
-      "u": "https://www.tn.gov/tdot/structures-/historic-bridges/history-of-a-truss-bridge.html",
-      "k": "sci"
-     }
-    ]
-   },
-   "alt": {
-    "title": "Vulcan Bridge in Vulcan",
-    "outlet": "Atlas Obscura",
-    "url": "https://www.atlasobscura.com/places/vulcan-bridge",
+    "title": "Undeciphered script from Easter Island may predate European colonization",
+    "outlet": "Live Science",
+    "url": "https://www.livescience.com/archaeology/undeciphered-script-from-easter-island-may-predate-european-colonization",
     "year": 2024,
-    "summary": "Vulcan, West Virginia, had one way in and out: a rickety swinging bridge. When the bridge rotted and collapsed, the town was cut off from the outside world. Local resident John Robinette named himself mayor and, after the state ignored him, asked the Soviet Union and East Germany for foreign aid to build a new one. The embarrassment of that request got the state to act, and the bridge was finally built with American money.",
+    "summary": "A wooden tablet carved with Rapa Nui's rongorongo script has been dated to the 15th century, well before Europeans reached the island. That makes it more likely that the islanders invented their own writing system rather than borrowing the idea. Only 27 inscribed objects survive, and no one has managed to decipher the script. It remains one of the few possible cases of writing invented independently.",
     "facts": [
-     "Residents used a railroad maintenance path after the collapse. The railroad threatened to prosecute anyone it caught trespassing there.",
-     "Bomb threats were reportedly made against any bridge built with communist help.",
-     "A Soviet reporter, Iona Andronov, traveled to Vulcan to meet the mayor and look at the bridge site.",
-     "The replacement took about two years to finish, and it has only one lane. The mayor christened it with two bottles of Russian vodka."
+     "Only 27 tablets with rongorongo are known to survive. Together they hold about 15,000 characters.",
+     "The script uses more than 400 different glyphs.",
+     "One tablet's wood was probably driftwood from a tree species that doesn't grow on the island. A related study identified it as a species native to southeastern Africa.",
+     "Rongorongo is described as the only known pre-20th-century writing system in Oceania."
     ],
     "questions": [
-     "Why did a request to a rival superpower get action when ordinary appeals to officials did not?",
-     "Who decides which small-town infrastructure is worth building and maintaining, and how should the cost be weighed against the benefit?",
-     "What does a bridge failure cost a community beyond the structure itself?"
+     "What would count as proof that a set of marks is real writing and not just symbols or memory aids?",
+     "Why might a script invented in isolation be especially hard to decipher?",
+     "How does dating the wood of an object help us understand a script we can't read?"
     ],
     "related": [
      {
-      "t": "Vulcan Bridge",
-      "u": "https://en.wikipedia.org/wiki/Vulcan_Bridge",
+      "t": "Rongorongo",
+      "u": "https://en.wikipedia.org/wiki/Rongorongo",
       "k": "wiki"
      },
      {
-      "t": "Vulcan, West Virginia",
-      "u": "https://en.wikipedia.org/wiki/Vulcan,_West_Virginia",
+      "t": "Decipherment of rongorongo",
+      "u": "https://en.wikipedia.org/wiki/Decipherment_of_rongorongo",
       "k": "wiki"
      },
      {
-      "t": "Vulcan Bridge (e-WV: The West Virginia Encyclopedia)",
-      "u": "https://www.wvencyclopedia.org/articles/2433",
+      "t": "The invention of writing on Rapa Nui (Easter Island): New radiocarbon dates on the Rongorongo script",
+      "u": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10837134/",
       "k": "sci"
      },
      {
-      "t": "The time a WV town asked for Soviet funding (WBOY)",
-      "u": "https://www.wboy.com/news/west-virginia/the-time-a-wv-town-asked-for-soviet-funding/",
-      "k": "sci"
-     }
-    ]
-   }
-  },
-  {
-   "id": "botany",
-   "name": "Botany",
-   "desc": "Plants",
-   "color": "#84cc16",
-   "article": {
-    "title": "China's Flowers, 1922-1949",
-    "outlet": "The Scientist",
-    "url": "https://www.the-scientist.com/chinas-flowers-1922-1949-64267",
-    "year": 2018,
-    "summary": "Austrian-American botanist Joseph Rock spent 27 years in China collecting thousands of plant samples before the Communist takeover pushed him out. The article describes his expeditions through Yunnan and nearby borderlands, including a 1925 ambush by bandits. It also shows that he was far more than a plant collector. He documented the languages, cultures and faces of the people he met, and his specimens are still used by botanists today.",
-    "facts": [
-     "Rock and his entourage were ambushed by bandits while on a botanical expedition in Yunnan in 1925.",
-     "He wrote a 1,094-page Naxi\u2013English dictionary, as well as two histories of the Naxi people.",
-     "National Geographic published many of his travel diaries between 1922 and 1935.",
-     "Researchers are now using his old specimens to work out what could be restored in the landscape today."
-    ],
-    "questions": [
-     "Rock is remembered as a botanist, but he also documented languages and cultures. Is it fair to call him just a 'plant hunter'?",
-     "What can century-old herbarium specimens tell scientists today that new collecting trips could not?",
-     "How should we weigh the scientific value of early 20th-century expeditions against the political and colonial contexts they operated in?"
-    ],
-    "related": [
-     {
-      "t": "Joseph Rock (Wikipedia)",
-      "u": "https://en.wikipedia.org/wiki/Joseph_Rock",
-      "k": "wiki"
-     },
-     {
-      "t": "Joseph Rock (Library of Congress)",
-      "u": "https://www.loc.gov/collections/naxi-manuscripts/articles-and-essays/joseph-rock/",
-      "k": "sci"
-     },
-     {
-      "t": "Joseph F. Rock Collection (Harvard Library)",
-      "u": "https://library.harvard.edu/collections/joseph-f-rock-collection",
-      "k": "sci"
-     },
-     {
-      "t": "William Purdom: The Forgotten Arnold Plant Hunter (Arnold Arboretum)",
-      "u": "https://arboretum.harvard.edu/stories/william-purdom-the-forgotten-arnold-plant-hunter",
+      "t": "Language at the End of the World",
+      "u": "https://www.cabinetmagazine.org/issues/64/mikanowski.php",
       "k": "sci"
      }
     ]
    },
    "alt": {
-    "title": "A Man, a Plan, a Lemon, China: The Ballad of Frank Meyer",
-    "outlet": "Taste",
-    "url": "https://tastecooking.com/a-man-a-plan-a-lemon-china/",
-    "year": 2022,
-    "summary": "This profile follows Frank Meyer, a USDA agricultural explorer who trekked across China's interior in the early 1900s. He was a newspaper celebrity in his day. Today he is remembered mostly for the Meyer lemon, which the piece argues is an ironic way to remember him. His life ended abruptly in 1918, when he vanished from a ship heading to Shanghai.",
+    "title": "Ancient 'unknown' script finally deciphered 70 years after first being discovered",
+    "outlet": "Live Science",
+    "url": "https://www.livescience.com/archaeology/ancient-unknown-script-finally-deciphered-70-years-after-first-being-discovered",
+    "year": 2023,
+    "summary": "Linguists at the University of Cologne have partially deciphered the \"Kushan script\", a mystery writing system known since the 1950s. They compared it with parallel inscriptions in Bactrian, a known ancient language, and decoded more than half of its characters. They concluded that it recorded a previously unknown Middle Iranian language. The method is the same one that cracked other ancient scripts, which relied on texts written in more than one script.",
     "facts": [
-     "Newspapers of his day printed dashing portraits of Meyer in his sheepskin coat, hunting boots and walking stick.",
-     "He noticed the small potted lemon plant in 1908 because it fruited heavily for its size.",
-     "When Meyer first landed in China in 1905, fewer than a dozen soybean varieties were in cultivation, according to the USDA.",
-     "He disappeared from a ship bound for Shanghai in 1918 at age 42."
+     "The Kushan script has only about 25 to 30 signs, and more than half have now been decoded.",
+     "The breakthrough came from a bilingual inscription found in Tajikistan in 2022.",
+     "Many texts in the script did not survive, which is part of why it stayed a mystery so long.",
+     "A later study, per Wikipedia, suggests the language was Bactrian after all, so the picture is still changing."
     ],
     "questions": [
-     "Why might a plant hunter's best-known find be a minor one, like a houseplant lemon, rather than the work he considered most important?",
-     "What does it say about the era that a government agency sent lone explorers to search the world for useful crops?",
-     "How might the mystery around Meyer's death have shaped the way he is remembered?"
+     "Why are inscriptions that repeat the same text in several scripts so valuable to decipherers?",
+     "What can a newly read script tell us that coins and monuments in better-known languages can't?",
+     "How should we treat a decipherment that is only partial and may be revised later?"
     ],
     "related": [
      {
-      "t": "Frank Nicholas Meyer (Wikipedia)",
-      "u": "https://en.wikipedia.org/wiki/Frank_Nicholas_Meyer",
+      "t": "Kushan script",
+      "u": "https://en.wikipedia.org/wiki/Kushan_script",
       "k": "wiki"
      },
      {
-      "t": "Frank Nicholas Meyer Collection (USDA National Agricultural Library)",
-      "u": "https://archivesspace.nal.usda.gov/repositories/4/resources/761",
+      "t": "Bactrian language",
+      "u": "https://en.wikipedia.org/wiki/Bactrian_language",
+      "k": "wiki"
+     },
+     {
+      "t": "The Kushan Empire and its languages (Language Log, University of Pennsylvania)",
+      "u": "https://languagelog.ldc.upenn.edu/nll/?p=68588",
       "k": "sci"
      },
      {
-      "t": "Botanical expedition (Wikipedia)",
-      "u": "https://en.wikipedia.org/wiki/Botanical_expedition",
+      "t": "Kushan Empire",
+      "u": "https://en.wikipedia.org/wiki/Kushan_Empire",
       "k": "wiki"
      }
     ]
    }
   },
   {
-   "id": "psychology",
-   "name": "Psychology",
-   "desc": "Mind and behavior",
-   "color": "#f472b6",
+   "id": "linguistics",
+   "name": "Linguistics",
+   "desc": "Language and how it works",
+   "color": "#a78bfa",
    "article": {
-    "title": "Why the wiggle in a crowd's walk can put a wobble in a bridge",
-    "outlet": "Science News",
-    "url": "https://www.sciencenews.org/article/why-wiggle-crowds-walk-can-put-wobble-bridge",
-    "year": 2017,
-    "summary": "When London's Millennium Bridge opened to crowds in 2000, it swayed alarmingly. Mathematicians have since built better simulations of how people walk to explain why. Walkers on a swaying bridge tend to slip into step with it, because that is easier than resisting it. The result is a feedback loop that makes the swings bigger. The new model predicts the crowd size at which the wobble starts suddenly.",
+    "title": "Reviving Ahom Legacy: Assam Institute Preserves 400-Year-Old Manuscripts And Muga Silk",
+    "outlet": "ETV Bharat",
+    "url": "https://www.etvbharat.com/en/!offbeat/reviving-ahom-legacy-assam-institute-preserves-400-year-old-manuscripts-and-muga-silk-enn25061402612",
+    "year": 2025,
+    "summary": "An institute in Moran, Assam, is collecting and protecting records left by the Ahom dynasty, whose rule lasted roughly 600 years. It is digitizing manuscripts written in the Tai language. The materials include handmade paper, bamboo strips and Muga silk cloth, and they come from many districts of Upper Assam. The institute also plans to translate the Tai-language books into Assamese so younger people can read them.",
     "facts": [
-     "Tests on the Millennium Bridge found the lurching only began once roughly 165 people were on it.",
-     "Pedestrians drift into lockstep with a swinging bridge because going with the sway takes less effort than fighting it.",
-     "The study was led by a Georgia State University mathematician and was reported in Science Advances.",
-     "A later study from the same group challenged the lockstep explanation, saying people were simply trying not to fall over."
+     "The Ahom language was once the court language of a kingdom, but it was gradually replaced by Assamese. Everyday use had stopped by the early 19th century.",
+     "Its tone system is entirely lost, because the Ahom script doesn't mark tones.",
+     "One bark manuscript dictionary has nearly 3,000 entries and may be the oldest surviving dictionary of any Tai-Kadai language.",
+     "Some of the language's records were written on bamboo strips and cloth, not only on paper."
     ],
     "questions": [
-     "Why might it feel natural to match your steps to a moving surface, even when you don't mean to?",
-     "How should engineers and event planners account for crowds that act as one even though no one has coordinated them?",
-     "What other everyday situations might make a crowd move in unison without anyone deciding to?"
+     "Can a language still count as alive if it survives only in ritual chants and old manuscripts?",
+     "What is lost when the tones of a language can't be recovered from its writing?",
+     "Who should decide how a revived language is pronounced when no native speakers are left to ask?"
     ],
     "related": [
      {
-      "t": "Synchronous lateral excitation",
-      "u": "https://en.wikipedia.org/wiki/Synchronous_lateral_excitation",
+      "t": "Ahom language",
+      "u": "https://en.wikipedia.org/wiki/Ahom_language",
       "k": "wiki"
      },
      {
-      "t": "Crowd motion experiment reveals why crowds synchronise footsteps (City University of Hong Kong)",
-      "u": "https://www.cityu.edu.hk/research/stories/2021/02/04/crowd-motion-experiment-reveals-why-crowds-synchronise-footsteps",
+      "t": "Ahom script",
+      "u": "https://en.wikipedia.org/wiki/Ahom_script",
+      "k": "wiki"
+     },
+     {
+      "t": "Ahom Dictionary Resources (CRCL project)",
+      "u": "http://sealang.net/archives/ahom/",
       "k": "sci"
      },
      {
-      "t": "Why do some bridges wobble? Blame the way pedestrians walk on them (Science)",
-      "u": "https://www.science.org/content/article/why-do-some-bridges-wobble-blame-way-pedestrians-walk-them",
+      "t": "Buranji",
+      "u": "https://en.wikipedia.org/wiki/Buranji",
+      "k": "wiki"
+     }
+    ]
+   },
+   "alt": {
+    "title": "'We have a strange destiny': a conversation with the Livonian poet Valts Ern\u0161treits: Part I",
+    "outlet": "Global Voices",
+    "url": "https://globalvoices.org/2020/10/06/we-have-a-strange-destiny-a-conversation-with-the-livonian-poet-valts-ernstreits-part-i/",
+    "year": 2020,
+    "summary": "Livonian is a Finnic language related to Finnish and Estonian. Centuries ago it was spoken across much of Latvia, but its speakers gradually assimilated into the wider population. By the 20th century it survived mainly in a few remote fishing villages. This interview with the poet and scholar Valts Ern\u0161treits covers the language's past and how he is working to give it a future.",
+    "facts": [
+     "Livonian is thought to have lost its last native speaker in 2013. She died in Canada, where she had settled after leaving Latvia in 1944.",
+     "Only around 250 Livonians remain in Latvia today, and many live far from the coast that bears their name.",
+     "Since Latvia regained independence in 1991, a small revival has grown among people with Livonian heritage or an interest in the culture.",
+     "Ern\u0161treits directs the Livonian Institute, founded in 2018 at the University of Latvia in Riga."
+    ],
+    "questions": [
+     "Does a language need native speakers to have a real future?",
+     "How do poetry and music help keep a language going when daily use has faded?",
+     "Why do small communities often keep their language in only a few remote villages?"
+    ],
+    "related": [
+     {
+      "t": "Livonian language revival",
+      "u": "https://en.wikipedia.org/wiki/Livonian_language_revival",
+      "k": "wiki"
+     },
+     {
+      "t": "Livonian \u2013 Endangered Language Alliance Toronto",
+      "u": "https://elalliance.com/livonian/",
       "k": "sci"
      },
      {
-      "t": "Why too many walkers cause bridges to wobble and sway (Futurity)",
-      "u": "https://www.futurity.org/pedestrian-bridges-mass-synchronization-engineering-2671762/",
+      "t": "Endangered language",
+      "u": "https://en.wikipedia.org/wiki/Endangered_language",
+      "k": "wiki"
+     },
+     {
+      "t": "Language revitalization",
+      "u": "https://en.wikipedia.org/wiki/Language_revitalization",
+      "k": "wiki"
+     }
+    ]
+   }
+  },
+  {
+   "id": "astrophysics",
+   "name": "Astrophysics",
+   "desc": "The physics of the universe",
+   "color": "#6366f1",
+   "article": {
+    "title": "Novel Experiments Expand the Hunt for 'Ultralight' Dark Matter",
+    "outlet": "Quanta Magazine",
+    "url": "https://www.quantamagazine.org/novel-experiments-expand-the-hunt-for-ultralight-dark-matter-20261125/",
+    "year": 2026,
+    "summary": "For years, physicists have been shifting from hunting heavy WIMP particles to looking for much lighter candidates. These lighter candidates are so wispy that they would act more like giant waves rolling through space. The axion is the favorite among them. The article covers new experiments for finding them, including an upgraded 300-meter 'light shining through a wall' setup in Germany and a levitation-based experiment at Leiden University in the Netherlands.",
+    "facts": [
+     "Some dark matter candidates are so light that they would behave like huge waves instead of individual particles.",
+     "In Germany, a 300-meter-long apparatus at DESY is being upgraded to try to shine light through a wall.",
+     "One search found 65 electromagnetic signals that match what ultralight dark matter might produce.",
+     "The Leiden University experiment is the first to look for dark matter's effects using magnetic levitation."
+    ],
+    "questions": [
+     "Why might scientists be moving away from WIMPs, and what would convince you that the shift is justified?",
+     "Why would a dark matter signal need data from around the world before anyone could trust it?",
+     "What are the advantages of Europe's mix of accelerators, labs and universities for hunting particles that cannot be seen?"
+    ],
+    "related": [
+     {
+      "t": "Axion Dark Matter Experiment (ADMX)",
+      "u": "https://en.wikipedia.org/wiki/Axion_Dark_Matter_Experiment",
+      "k": "wiki"
+     },
+     {
+      "t": "MADMAX: Searching for axion dark matter (Max Planck Institute for Physics)",
+      "u": "https://www.mpp.mpg.de/en/research/madmax",
+      "k": "sci"
+     },
+     {
+      "t": "Quantum Technologies for Axion Dark Matter Search (CORDIS, EU)",
+      "u": "https://cordis.europa.eu/project/id/101118911",
       "k": "sci"
      }
     ]
    },
    "alt": {
-    "title": "What to do if you're in a crowd of panicking people",
-    "outlet": "Popular Science",
-    "url": "https://www.popsci.com/what-to-do-crowd-crush-panic/",
-    "year": 2019,
-    "summary": "Researchers who study crowds, partly to design safer public spaces, explain how people move when something frightens them. Normally we constantly track the speed and direction of the people around us and try to avoid collisions. Under threat, people grow more aggressive, fill the free space ahead, and then move chaotically as they search for more room. A crowd-science professor advises trying to calm down and assess the situation instead of running without thinking.",
+    "title": "Gran Sasso: A tale of physics in the mountains",
+    "outlet": "Symmetry Magazine",
+    "url": "https://www.symmetrymagazine.org/article/february-2010/gran-sasso-tale-physics-mountains?language_content_entity=und",
+    "year": 2010,
+    "summary": "This feature tells the story of Italy's Gran Sasso laboratory, built inside a mountain, where physicists study dark matter, nuclear astrophysics and neutrinos. The rock above shields the experiments from cosmic bombardment. The piece describes it as a kind of scientific paradise for the hundreds of researchers who work there, while making clear it has had real troubles. One of them was the motorway tunnel that shares the site.",
     "facts": [
-     "In normal walking, people are constantly estimating how fast others nearby are moving and where they are heading.",
-     "Under panic, people stop minding bumping into others.",
-     "After the free space in their chosen direction fills up, movement turns chaotic as people hunt for gaps.",
-     "One expert's advice is to assess the situation rather than react, since running blindly has caused many serious injuries."
+     "You can drive into Gran Sasso instead of taking an elevator, which is unusual for an underground lab.",
+     "Canfranc and Modane are two other underground labs with drive-in access.",
+     "The lab has more than 750 scientific users from 24 countries.",
+     "A special exit from the A24 motorway tunnel leads scientists to the underground galleries, and the motorway counts as the lab's other tenant."
     ],
     "questions": [
-     "Why do researchers hesitate to give fixed survival advice for crowd emergencies?",
-     "How might the layout of a public space change the way a frightened crowd behaves?",
-     "What is the difference between a crowd acting irrationally and a crowd that is trapped by its surroundings?"
+     "Why do dark matter experiments need to be put under a mountain, and what else might be shielded this way?",
+     "How does sharing a site with a motorway tunnel complicate sensitive physics?",
+     "What makes an international lab with users from dozens of countries a good model for big science?"
     ],
     "related": [
      {
-      "t": "Crowd collapses and crushes",
-      "u": "https://en.wikipedia.org/wiki/Crowd_collapses_and_crushes",
+      "t": "XENON",
+      "u": "https://en.wikipedia.org/wiki/XENON",
       "k": "wiki"
      },
      {
-      "t": "Behaviour and Mechanics of Crowd Crush Disasters (Risk Frontiers)",
-      "u": "https://riskfrontiers.com/insights/behaviour-and-mechanics-of-crowd-crush-disasters/",
+      "t": "Boulby extends the search for dark matter (CERN Courier)",
+      "u": "https://cerncourier.com/a/boulby-extends-the-search-for-dark-matter/",
       "k": "sci"
      },
      {
-      "t": "Evacuation Dynamics: Empirical Results, Modeling and Applications",
-      "u": "https://arxiv.org/pdf/0802.1620",
+      "t": "Underground experiment casts doubt on controversial dark matter claim (Science news)",
+      "u": "https://www.science.org/content/article/underground-experiment-casts-doubt-controversial-dark-matter-claim",
       "k": "sci"
      },
      {
-      "t": "What to Do if You're Trapped in a Surging Crowd (Scientific American)",
-      "u": "https://www.scientificamerican.com/article/what-to-do-if-youre-trapped-in-a-surging-crowd/",
-      "k": "sci"
+      "t": "EDELWEISS",
+      "u": "https://en.wikipedia.org/wiki/EDELWEISS",
+      "k": "wiki"
      }
     ]
    }
@@ -260,81 +260,76 @@
    "desc": "Machines that learn and reason",
    "color": "#a78bfa",
    "article": {
-    "title": "Brazen Heads: The Curious Legend Behind Fortune-Telling Automata",
-    "outlet": "Mental Floss",
-    "url": "https://www.mentalfloss.com/article/502537/brazen-heads-curious-legend-behind-fortune-telling-automata",
-    "year": 2017,
-    "summary": "Long before computers, medieval and Renaissance storytellers imagined brass heads that could answer any question put to them. The tales were pinned on famous scholars such as Roger Bacon, Robert Grosseteste and Albertus Magnus. They look like an early daydream of a chatbot oracle, but they appeared centuries after the men's deaths. The article follows how the legend was used for wonder, for prophecy, and later for politics.",
+    "title": "What the History of Autonomous Vehicles Can Teach About Our Transportation Future",
+    "outlet": "Streetsblog USA",
+    "url": "https://usa.streetsblog.org/2021/01/25/what-the-history-of-autonomous-vehicles-can-teach-about-our-transportation-future",
+    "year": 2021,
+    "summary": "Transportation reporter Alex Davies talks about how old the dream of the self-driving car really is. He argues that the wish for an autonomous vehicle arose alongside the car itself. The conversation runs from the horse-and-carriage era through military-driven research like the DARPA challenge to small, slow shuttles for places like retirement communities. He declines to guess when fully driverless cars will arrive.",
     "facts": [
-     "Stories of Roger Bacon's brass head only show up centuries after he died, and there is no record he ever built one.",
-     "Bacon was fascinated by early astronomical clocks, which were also made of brass and also gave information about the cosmos.",
-     "Albertus Magnus was said to have spent 30 years building a brass man that could answer anything, but in one version it was so chatty that his student Thomas Aquinas smashed it.",
-     "Robert Grosseteste was said to have made a head using 'astral science' to predict the future."
+     "The interview says a horse and carriage was a kind of semi-autonomous vehicle, because a horse won't walk into a wall even if the driver isn't paying attention.",
+     "Car crashes started almost as soon as horseless carriages appeared, and people immediately began asking how to remove crashes while keeping the new technology.",
+     "When the DARPA challenge began, few people were seriously talking about street safety or civilian uses for self-driving vehicles.",
+     "Some companies now aim low-speed autonomous shuttles at senior living communities, where residents may not be able to drive but still need to reach the doctor or the pool."
     ],
     "questions": [
-     "Why might people in the Middle Ages have imagined an answer-giving machine as a talking head rather than as, say, a book?",
-     "The legends were attached to real scholars who were also suspected of being wizards. What does that say about how societies react to new knowledge and technology?",
-     "If Aquinas really did smash a head for talking too much, what would be the modern equivalent of a chatbot that talks too much?"
+     "If a horse-drawn carriage counts as 'semi-autonomous', where would you draw the line between a helpful animal or tool and a machine that actually drives?",
+     "Why might the push for self-driving cars have started with military research and not with safety on city streets?",
+     "Would you trust a slow, limited autonomous shuttle more than a car that claims to drive anywhere? Why or why not?"
     ],
     "related": [
      {
-      "t": "Brazen head",
-      "u": "https://en.wikipedia.org/wiki/Brazen_head",
+      "t": "Horseless carriage",
+      "u": "https://en.wikipedia.org/wiki/Horseless_carriage",
       "k": "wiki"
      },
      {
-      "t": "Roger Bacon",
-      "u": "https://en.wikipedia.org/wiki/Roger_Bacon",
+      "t": "History of steam road vehicles",
+      "u": "https://en.wikipedia.org/wiki/History_of_steam_road_vehicles",
       "k": "wiki"
      },
      {
-      "t": "Chatbots Decoded: Exploring AI (Computer History Museum)",
-      "u": "https://computerhistory.org/stories/chatbots-decoded/",
+      "t": "PBS: Tesla - Master of Lightning: Race of Robots",
+      "u": "https://www.pbs.org/tesla/ll/ll_robots.html",
       "k": "sci"
-     },
-     {
-      "t": "Friar Bacon and Friar Bungay",
-      "u": "https://en.wikipedia.org/wiki/Friar_Bacon_and_Friar_Bungay",
-      "k": "wiki"
      }
     ]
    },
    "alt": {
-    "title": "A Team of Researchers Brought the World's First Chatbot Back to Life After 60 Years",
-    "outlet": "ZME Science",
-    "url": "https://www.zmescience.com/science/eliza-first-chatbot-reborn/",
-    "year": 2025,
-    "summary": "ELIZA, the 1960s program that made people feel heard by a computer, spread across early networks until the original version dropped out of sight. A group of researchers called Team ELIZA dug through MIT's archives and found a 1965 printout of the source code. They got it running again on an emulated old time-sharing system. The code also held a surprise: a hidden mode that let users change the program's rules while it ran.",
+    "title": "The Surprisingly Long History of Driverless Cars",
+    "outlet": "History.com",
+    "url": "https://www.history.com/articles/driverless-cars-self-driving-car-history",
+    "year": 2026,
+    "summary": "This article traces driverless cars back nearly a century, well before Silicon Valley. It starts with a radio-controlled 'ghost car' on Broadway in 1925. It then moves through a 1957 highway test in Nebraska, Stanford's Shakey robot, and a 1977 Japanese car that followed painted lines. It finishes with Carnegie Mellon's cross-country 'No Hands Across America' trip in the 1990s.",
     "facts": [
-     "Weizenbaum's own secretary was so drawn to ELIZA that she once asked to be left alone with it.",
-     "A BASIC version of ELIZA appeared in Creative Computing magazine in 1977, just as home computers were arriving.",
-     "The rediscovered code had a hidden 'teacher mode', switched on by typing a plus sign.",
-     "That mode let users add, remove and change rules on the fly, a feature barely mentioned in Weizenbaum's published work."
+     "In 1925 an army engineer named Francis Houdina drove a radio-controlled car down Broadway in New York, with its operators following close behind.",
+     "The 1957 'Nebraska test' used a 400-foot strip of highway outside Lincoln.",
+     "Shakey the Robot, built at Stanford Research Institute in the 1960s, has been called the great-grandfather of self-driving cars.",
+     "In 1977 a Japanese lab built a car that read painted white lines and cruised autonomously at about 20 miles per hour."
     ],
     "questions": [
-     "Why do you think a copy of the program became more famous than the original?",
-     "What does it mean that a chatbot could be reprogrammed live by its users? Is that closer to learning than we usually give ELIZA credit for?",
-     "What other pieces of early computing history might be quietly lost, and who should be responsible for saving them?"
+     "Why do you think radio-controlled cars were a dead end, even though they looked impressive to crowds at the time?",
+     "What does it mean for a machine to 'drive itself' if a human is still steering from a distance, and has that definition changed?",
+     "Which of these early experiments feels closest to today's self-driving cars, and why?"
     ],
     "related": [
      {
-      "t": "ELIZA",
-      "u": "https://en.wikipedia.org/wiki/ELIZA",
+      "t": "Self-driving car",
+      "u": "https://en.wikipedia.org/wiki/Self-driving_car",
       "k": "wiki"
      },
      {
-      "t": "PARRY",
-      "u": "https://en.wikipedia.org/wiki/PARRY",
+      "t": "Teleoperation",
+      "u": "https://en.wikipedia.org/wiki/Teleoperation",
       "k": "wiki"
      },
      {
-      "t": "Chatbots Decoded: Exploring AI (Computer History Museum)",
-      "u": "https://computerhistory.org/stories/chatbots-decoded/",
+      "t": "graphsearch.epfl.ch: Self-driving car",
+      "u": "https://graphsearch.epfl.ch/en/concept/245926",
       "k": "sci"
      },
      {
-      "t": "ELIZA Archaeology - About",
-      "u": "https://sites.google.com/view/elizaarchaeology/about",
+      "t": "Self-driving boats: The next tech transportation race",
+      "u": "https://phys.org/news/2017-09-self-driving-boats-tech.html",
       "k": "sci"
      }
     ]

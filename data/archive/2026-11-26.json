@@ -1,0 +1,339 @@
+{
+ "date": "2026-11-26",
+ "topics": [
+  {
+   "id": "archaeology",
+   "name": "Archaeology",
+   "desc": "Uncovering the human past",
+   "color": "#d97706",
+   "article": {
+    "title": "Undeciphered script from Easter Island may predate European colonization",
+    "outlet": "Live Science",
+    "url": "https://www.livescience.com/archaeology/undeciphered-script-from-easter-island-may-predate-european-colonization",
+    "year": 2024,
+    "summary": "A wooden tablet carved with Rapa Nui's rongorongo script has been dated to the 15th century, well before Europeans reached the island. That makes it more likely that the islanders invented their own writing system rather than borrowing the idea. Only 27 inscribed objects survive, and no one has managed to decipher the script. It remains one of the few possible cases of writing invented independently.",
+    "facts": [
+     "Only 27 tablets with rongorongo are known to survive. Together they hold about 15,000 characters.",
+     "The script uses more than 400 different glyphs.",
+     "One tablet's wood was probably driftwood from a tree species that doesn't grow on the island. A related study identified it as a species native to southeastern Africa.",
+     "Rongorongo is described as the only known pre-20th-century writing system in Oceania."
+    ],
+    "questions": [
+     "What would count as proof that a set of marks is real writing and not just symbols or memory aids?",
+     "Why might a script invented in isolation be especially hard to decipher?",
+     "How does dating the wood of an object help us understand a script we can't read?"
+    ],
+    "related": [
+     {
+      "t": "Rongorongo",
+      "u": "https://en.wikipedia.org/wiki/Rongorongo",
+      "k": "wiki"
+     },
+     {
+      "t": "Decipherment of rongorongo",
+      "u": "https://en.wikipedia.org/wiki/Decipherment_of_rongorongo",
+      "k": "wiki"
+     },
+     {
+      "t": "The invention of writing on Rapa Nui (Easter Island): New radiocarbon dates on the Rongorongo script",
+      "u": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10837134/",
+      "k": "sci"
+     },
+     {
+      "t": "Language at the End of the World",
+      "u": "https://www.cabinetmagazine.org/issues/64/mikanowski.php",
+      "k": "sci"
+     }
+    ]
+   },
+   "alt": {
+    "title": "Ancient 'unknown' script finally deciphered 70 years after first being discovered",
+    "outlet": "Live Science",
+    "url": "https://www.livescience.com/archaeology/ancient-unknown-script-finally-deciphered-70-years-after-first-being-discovered",
+    "year": 2023,
+    "summary": "Linguists at the University of Cologne have partially deciphered the \"Kushan script\", a mystery writing system known since the 1950s. They compared it with parallel inscriptions in Bactrian, a known ancient language, and decoded more than half of its characters. They concluded that it recorded a previously unknown Middle Iranian language. The method is the same one that cracked other ancient scripts, which relied on texts written in more than one script.",
+    "facts": [
+     "The Kushan script has only about 25 to 30 signs, and more than half have now been decoded.",
+     "The breakthrough came from a bilingual inscription found in Tajikistan in 2022.",
+     "Many texts in the script did not survive, which is part of why it stayed a mystery so long.",
+     "A later study, per Wikipedia, suggests the language was Bactrian after all, so the picture is still changing."
+    ],
+    "questions": [
+     "Why are inscriptions that repeat the same text in several scripts so valuable to decipherers?",
+     "What can a newly read script tell us that coins and monuments in better-known languages can't?",
+     "How should we treat a decipherment that is only partial and may be revised later?"
+    ],
+    "related": [
+     {
+      "t": "Kushan script",
+      "u": "https://en.wikipedia.org/wiki/Kushan_script",
+      "k": "wiki"
+     },
+     {
+      "t": "Bactrian language",
+      "u": "https://en.wikipedia.org/wiki/Bactrian_language",
+      "k": "wiki"
+     },
+     {
+      "t": "The Kushan Empire and its languages (Language Log, University of Pennsylvania)",
+      "u": "https://languagelog.ldc.upenn.edu/nll/?p=68588",
+      "k": "sci"
+     },
+     {
+      "t": "Kushan Empire",
+      "u": "https://en.wikipedia.org/wiki/Kushan_Empire",
+      "k": "wiki"
+     }
+    ]
+   }
+  },
+  {
+   "id": "linguistics",
+   "name": "Linguistics",
+   "desc": "Language and how it works",
+   "color": "#a78bfa",
+   "article": {
+    "title": "Reviving Ahom Legacy: Assam Institute Preserves 400-Year-Old Manuscripts And Muga Silk",
+    "outlet": "ETV Bharat",
+    "url": "https://www.etvbharat.com/en/!offbeat/reviving-ahom-legacy-assam-institute-preserves-400-year-old-manuscripts-and-muga-silk-enn25061402612",
+    "year": 2025,
+    "summary": "An institute in Moran, Assam, is collecting and protecting records left by the Ahom dynasty, whose rule lasted roughly 600 years. It is digitizing manuscripts written in the Tai language. The materials include handmade paper, bamboo strips and Muga silk cloth, and they come from many districts of Upper Assam. The institute also plans to translate the Tai-language books into Assamese so younger people can read them.",
+    "facts": [
+     "The Ahom language was once the court language of a kingdom, but it was gradually replaced by Assamese. Everyday use had stopped by the early 19th century.",
+     "Its tone system is entirely lost, because the Ahom script doesn't mark tones.",
+     "One bark manuscript dictionary has nearly 3,000 entries and may be the oldest surviving dictionary of any Tai-Kadai language.",
+     "Some of the language's records were written on bamboo strips and cloth, not only on paper."
+    ],
+    "questions": [
+     "Can a language still count as alive if it survives only in ritual chants and old manuscripts?",
+     "What is lost when the tones of a language can't be recovered from its writing?",
+     "Who should decide how a revived language is pronounced when no native speakers are left to ask?"
+    ],
+    "related": [
+     {
+      "t": "Ahom language",
+      "u": "https://en.wikipedia.org/wiki/Ahom_language",
+      "k": "wiki"
+     },
+     {
+      "t": "Ahom script",
+      "u": "https://en.wikipedia.org/wiki/Ahom_script",
+      "k": "wiki"
+     },
+     {
+      "t": "Ahom Dictionary Resources (CRCL project)",
+      "u": "http://sealang.net/archives/ahom/",
+      "k": "sci"
+     },
+     {
+      "t": "Buranji",
+      "u": "https://en.wikipedia.org/wiki/Buranji",
+      "k": "wiki"
+     }
+    ]
+   },
+   "alt": {
+    "title": "'We have a strange destiny': a conversation with the Livonian poet Valts Ern\u0161treits: Part I",
+    "outlet": "Global Voices",
+    "url": "https://globalvoices.org/2020/10/06/we-have-a-strange-destiny-a-conversation-with-the-livonian-poet-valts-ernstreits-part-i/",
+    "year": 2020,
+    "summary": "Livonian is a Finnic language related to Finnish and Estonian. Centuries ago it was spoken across much of Latvia, but its speakers gradually assimilated into the wider population. By the 20th century it survived mainly in a few remote fishing villages. This interview with the poet and scholar Valts Ern\u0161treits covers the language's past and how he is working to give it a future.",
+    "facts": [
+     "Livonian is thought to have lost its last native speaker in 2013. She died in Canada, where she had settled after leaving Latvia in 1944.",
+     "Only around 250 Livonians remain in Latvia today, and many live far from the coast that bears their name.",
+     "Since Latvia regained independence in 1991, a small revival has grown among people with Livonian heritage or an interest in the culture.",
+     "Ern\u0161treits directs the Livonian Institute, founded in 2018 at the University of Latvia in Riga."
+    ],
+    "questions": [
+     "Does a language need native speakers to have a real future?",
+     "How do poetry and music help keep a language going when daily use has faded?",
+     "Why do small communities often keep their language in only a few remote villages?"
+    ],
+    "related": [
+     {
+      "t": "Livonian language revival",
+      "u": "https://en.wikipedia.org/wiki/Livonian_language_revival",
+      "k": "wiki"
+     },
+     {
+      "t": "Livonian \u2013 Endangered Language Alliance Toronto",
+      "u": "https://elalliance.com/livonian/",
+      "k": "sci"
+     },
+     {
+      "t": "Endangered language",
+      "u": "https://en.wikipedia.org/wiki/Endangered_language",
+      "k": "wiki"
+     },
+     {
+      "t": "Language revitalization",
+      "u": "https://en.wikipedia.org/wiki/Language_revitalization",
+      "k": "wiki"
+     }
+    ]
+   }
+  },
+  {
+   "id": "astrophysics",
+   "name": "Astrophysics",
+   "desc": "The physics of the universe",
+   "color": "#6366f1",
+   "article": {
+    "title": "Novel Experiments Expand the Hunt for 'Ultralight' Dark Matter",
+    "outlet": "Quanta Magazine",
+    "url": "https://www.quantamagazine.org/novel-experiments-expand-the-hunt-for-ultralight-dark-matter-20261125/",
+    "year": 2026,
+    "summary": "For years, physicists have been shifting from hunting heavy WIMP particles to looking for much lighter candidates. These lighter candidates are so wispy that they would act more like giant waves rolling through space. The axion is the favorite among them. The article covers new experiments for finding them, including an upgraded 300-meter 'light shining through a wall' setup in Germany and a levitation-based experiment at Leiden University in the Netherlands.",
+    "facts": [
+     "Some dark matter candidates are so light that they would behave like huge waves instead of individual particles.",
+     "In Germany, a 300-meter-long apparatus at DESY is being upgraded to try to shine light through a wall.",
+     "One search found 65 electromagnetic signals that match what ultralight dark matter might produce.",
+     "The Leiden University experiment is the first to look for dark matter's effects using magnetic levitation."
+    ],
+    "questions": [
+     "Why might scientists be moving away from WIMPs, and what would convince you that the shift is justified?",
+     "Why would a dark matter signal need data from around the world before anyone could trust it?",
+     "What are the advantages of Europe's mix of accelerators, labs and universities for hunting particles that cannot be seen?"
+    ],
+    "related": [
+     {
+      "t": "Axion Dark Matter Experiment (ADMX)",
+      "u": "https://en.wikipedia.org/wiki/Axion_Dark_Matter_Experiment",
+      "k": "wiki"
+     },
+     {
+      "t": "MADMAX: Searching for axion dark matter (Max Planck Institute for Physics)",
+      "u": "https://www.mpp.mpg.de/en/research/madmax",
+      "k": "sci"
+     },
+     {
+      "t": "Quantum Technologies for Axion Dark Matter Search (CORDIS, EU)",
+      "u": "https://cordis.europa.eu/project/id/101118911",
+      "k": "sci"
+     }
+    ]
+   },
+   "alt": {
+    "title": "Gran Sasso: A tale of physics in the mountains",
+    "outlet": "Symmetry Magazine",
+    "url": "https://www.symmetrymagazine.org/article/february-2010/gran-sasso-tale-physics-mountains?language_content_entity=und",
+    "year": 2010,
+    "summary": "This feature tells the story of Italy's Gran Sasso laboratory, built inside a mountain, where physicists study dark matter, nuclear astrophysics and neutrinos. The rock above shields the experiments from cosmic bombardment. The piece describes it as a kind of scientific paradise for the hundreds of researchers who work there, while making clear it has had real troubles. One of them was the motorway tunnel that shares the site.",
+    "facts": [
+     "You can drive into Gran Sasso instead of taking an elevator, which is unusual for an underground lab.",
+     "Canfranc and Modane are two other underground labs with drive-in access.",
+     "The lab has more than 750 scientific users from 24 countries.",
+     "A special exit from the A24 motorway tunnel leads scientists to the underground galleries, and the motorway counts as the lab's other tenant."
+    ],
+    "questions": [
+     "Why do dark matter experiments need to be put under a mountain, and what else might be shielded this way?",
+     "How does sharing a site with a motorway tunnel complicate sensitive physics?",
+     "What makes an international lab with users from dozens of countries a good model for big science?"
+    ],
+    "related": [
+     {
+      "t": "XENON",
+      "u": "https://en.wikipedia.org/wiki/XENON",
+      "k": "wiki"
+     },
+     {
+      "t": "Boulby extends the search for dark matter (CERN Courier)",
+      "u": "https://cerncourier.com/a/boulby-extends-the-search-for-dark-matter/",
+      "k": "sci"
+     },
+     {
+      "t": "Underground experiment casts doubt on controversial dark matter claim (Science news)",
+      "u": "https://www.science.org/content/article/underground-experiment-casts-doubt-controversial-dark-matter-claim",
+      "k": "sci"
+     },
+     {
+      "t": "EDELWEISS",
+      "u": "https://en.wikipedia.org/wiki/EDELWEISS",
+      "k": "wiki"
+     }
+    ]
+   }
+  },
+  {
+   "id": "ai",
+   "name": "Artificial Intelligence",
+   "desc": "Machines that learn and reason",
+   "color": "#a78bfa",
+   "article": {
+    "title": "What the History of Autonomous Vehicles Can Teach About Our Transportation Future",
+    "outlet": "Streetsblog USA",
+    "url": "https://usa.streetsblog.org/2021/01/25/what-the-history-of-autonomous-vehicles-can-teach-about-our-transportation-future",
+    "year": 2021,
+    "summary": "Transportation reporter Alex Davies talks about how old the dream of the self-driving car really is. He argues that the wish for an autonomous vehicle arose alongside the car itself. The conversation runs from the horse-and-carriage era through military-driven research like the DARPA challenge to small, slow shuttles for places like retirement communities. He declines to guess when fully driverless cars will arrive.",
+    "facts": [
+     "The interview says a horse and carriage was a kind of semi-autonomous vehicle, because a horse won't walk into a wall even if the driver isn't paying attention.",
+     "Car crashes started almost as soon as horseless carriages appeared, and people immediately began asking how to remove crashes while keeping the new technology.",
+     "When the DARPA challenge began, few people were seriously talking about street safety or civilian uses for self-driving vehicles.",
+     "Some companies now aim low-speed autonomous shuttles at senior living communities, where residents may not be able to drive but still need to reach the doctor or the pool."
+    ],
+    "questions": [
+     "If a horse-drawn carriage counts as 'semi-autonomous', where would you draw the line between a helpful animal or tool and a machine that actually drives?",
+     "Why might the push for self-driving cars have started with military research and not with safety on city streets?",
+     "Would you trust a slow, limited autonomous shuttle more than a car that claims to drive anywhere? Why or why not?"
+    ],
+    "related": [
+     {
+      "t": "Horseless carriage",
+      "u": "https://en.wikipedia.org/wiki/Horseless_carriage",
+      "k": "wiki"
+     },
+     {
+      "t": "History of steam road vehicles",
+      "u": "https://en.wikipedia.org/wiki/History_of_steam_road_vehicles",
+      "k": "wiki"
+     },
+     {
+      "t": "PBS: Tesla - Master of Lightning: Race of Robots",
+      "u": "https://www.pbs.org/tesla/ll/ll_robots.html",
+      "k": "sci"
+     }
+    ]
+   },
+   "alt": {
+    "title": "The Surprisingly Long History of Driverless Cars",
+    "outlet": "History.com",
+    "url": "https://www.history.com/articles/driverless-cars-self-driving-car-history",
+    "year": 2026,
+    "summary": "This article traces driverless cars back nearly a century, well before Silicon Valley. It starts with a radio-controlled 'ghost car' on Broadway in 1925. It then moves through a 1957 highway test in Nebraska, Stanford's Shakey robot, and a 1977 Japanese car that followed painted lines. It finishes with Carnegie Mellon's cross-country 'No Hands Across America' trip in the 1990s.",
+    "facts": [
+     "In 1925 an army engineer named Francis Houdina drove a radio-controlled car down Broadway in New York, with its operators following close behind.",
+     "The 1957 'Nebraska test' used a 400-foot strip of highway outside Lincoln.",
+     "Shakey the Robot, built at Stanford Research Institute in the 1960s, has been called the great-grandfather of self-driving cars.",
+     "In 1977 a Japanese lab built a car that read painted white lines and cruised autonomously at about 20 miles per hour."
+    ],
+    "questions": [
+     "Why do you think radio-controlled cars were a dead end, even though they looked impressive to crowds at the time?",
+     "What does it mean for a machine to 'drive itself' if a human is still steering from a distance, and has that definition changed?",
+     "Which of these early experiments feels closest to today's self-driving cars, and why?"
+    ],
+    "related": [
+     {
+      "t": "Self-driving car",
+      "u": "https://en.wikipedia.org/wiki/Self-driving_car",
+      "k": "wiki"
+     },
+     {
+      "t": "Teleoperation",
+      "u": "https://en.wikipedia.org/wiki/Teleoperation",
+      "k": "wiki"
+     },
+     {
+      "t": "graphsearch.epfl.ch: Self-driving car",
+      "u": "https://graphsearch.epfl.ch/en/concept/245926",
+      "k": "sci"
+     },
+     {
+      "t": "Self-driving boats: The next tech transportation race",
+      "u": "https://phys.org/news/2017-09-self-driving-boats-tech.html",
+      "k": "sci"
+     }
+    ]
+   }
+  }
+ ]
+}
