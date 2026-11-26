@@ -1,254 +1,259 @@
 {
- "date": "2026-11-26",
+ "date": "2026-11-27",
  "topics": [
   {
-   "id": "archaeology",
-   "name": "Archaeology",
-   "desc": "Uncovering the human past",
-   "color": "#d97706",
+   "id": "meteorology",
+   "name": "Meteorology",
+   "desc": "The atmosphere, weather and forecasting",
+   "color": "#60a5fa",
    "article": {
-    "title": "Undeciphered script from Easter Island may predate European colonization",
+    "title": "Ultra-rare 'rainbow clouds' light up the Arctic Circle like auroras in stunning new photos",
     "outlet": "Live Science",
-    "url": "https://www.livescience.com/archaeology/undeciphered-script-from-easter-island-may-predate-european-colonization",
-    "year": 2024,
-    "summary": "A wooden tablet carved with Rapa Nui's rongorongo script has been dated to the 15th century, well before Europeans reached the island. That makes it more likely that the islanders invented their own writing system rather than borrowing the idea. Only 27 inscribed objects survive, and no one has managed to decipher the script. It remains one of the few possible cases of writing invented independently.",
-    "facts": [
-     "Only 27 tablets with rongorongo are known to survive. Together they hold about 15,000 characters.",
-     "The script uses more than 400 different glyphs.",
-     "One tablet's wood was probably driftwood from a tree species that doesn't grow on the island. A related study identified it as a species native to southeastern Africa.",
-     "Rongorongo is described as the only known pre-20th-century writing system in Oceania."
-    ],
-    "questions": [
-     "What would count as proof that a set of marks is real writing and not just symbols or memory aids?",
-     "Why might a script invented in isolation be especially hard to decipher?",
-     "How does dating the wood of an object help us understand a script we can't read?"
-    ],
-    "related": [
-     {
-      "t": "Rongorongo",
-      "u": "https://en.wikipedia.org/wiki/Rongorongo",
-      "k": "wiki"
-     },
-     {
-      "t": "Decipherment of rongorongo",
-      "u": "https://en.wikipedia.org/wiki/Decipherment_of_rongorongo",
-      "k": "wiki"
-     },
-     {
-      "t": "The invention of writing on Rapa Nui (Easter Island): New radiocarbon dates on the Rongorongo script",
-      "u": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10837134/",
-      "k": "sci"
-     },
-     {
-      "t": "Language at the End of the World",
-      "u": "https://www.cabinetmagazine.org/issues/64/mikanowski.php",
-      "k": "sci"
-     }
-    ]
-   },
-   "alt": {
-    "title": "Ancient 'unknown' script finally deciphered 70 years after first being discovered",
-    "outlet": "Live Science",
-    "url": "https://www.livescience.com/archaeology/ancient-unknown-script-finally-deciphered-70-years-after-first-being-discovered",
+    "url": "https://www.livescience.com/polar-stratospheric-clouds-arctic",
     "year": 2023,
-    "summary": "Linguists at the University of Cologne have partially deciphered the \"Kushan script\", a mystery writing system known since the 1950s. They compared it with parallel inscriptions in Bactrian, a known ancient language, and decoded more than half of its characters. They concluded that it recorded a previously unknown Middle Iranian language. The method is the same one that cracked other ancient scripts, which relied on texts written in more than one script.",
+    "summary": "Shimmering, multicolored clouds recently appeared in the dark skies over the Arctic Circle. They looked a bit like the northern lights, but they were actually polar stratospheric clouds. These clouds are made of tiny ice crystals that float higher in the atmosphere than ordinary clouds, and they only form in extreme cold. Experts say they may become more common as the climate changes.",
     "facts": [
-     "The Kushan script has only about 25 to 30 signs, and more than half have now been decoded.",
-     "The breakthrough came from a bilingual inscription found in Tajikistan in 2022.",
-     "Many texts in the script did not survive, which is part of why it stayed a mystery so long.",
-     "A later study, per Wikipedia, suggests the language was Bactrian after all, so the picture is still changing."
+     "Polar stratospheric clouds form only when the lower stratosphere falls below about minus 81\u00b0C (minus 114\u00b0F).",
+     "The brightest and most colorful type is called 'nacreous', after the mother-of-pearl lining of some mollusk shells.",
+     "Because these clouds sit so high, they can catch sunlight even after the sun has dropped below the horizon for observers on the ground.",
+     "Their rainbow glow is often mistaken for the aurora, but the aurora comes from energetic particles sent out by the sun."
     ],
     "questions": [
-     "Why are inscriptions that repeat the same text in several scripts so valuable to decipherers?",
-     "What can a newly read script tell us that coins and monuments in better-known languages can't?",
-     "How should we treat a decipherment that is only partial and may be revised later?"
+     "Why might a cloud that looks beautiful also be a warning sign for the ozone layer?",
+     "How would you tell a nacreous cloud from an aurora if you were standing outside in the Arctic night?",
+     "What does it tell us about the atmosphere that some clouds form far above the layer where weather normally happens?"
     ],
     "related": [
      {
-      "t": "Kushan script",
-      "u": "https://en.wikipedia.org/wiki/Kushan_script",
+      "t": "Polar stratospheric cloud",
+      "u": "https://en.wikipedia.org/wiki/Polar_stratospheric_cloud",
       "k": "wiki"
      },
      {
-      "t": "Bactrian language",
-      "u": "https://en.wikipedia.org/wiki/Bactrian_language",
-      "k": "wiki"
-     },
-     {
-      "t": "The Kushan Empire and its languages (Language Log, University of Pennsylvania)",
-      "u": "https://languagelog.ldc.upenn.edu/nll/?p=68588",
+      "t": "Polar Stratospheric Clouds (NASA Natural Hazards)",
+      "u": "https://www.naturalhazards.nasa.gov/images/622/polar-stratospheric-clouds",
       "k": "sci"
      },
      {
-      "t": "Kushan Empire",
-      "u": "https://en.wikipedia.org/wiki/Kushan_Empire",
+      "t": "NASA Knows: The Ozone Hole",
+      "u": "https://science.nasa.gov/earth/explore/nasa-knows-the-ozone-hole/",
+      "k": "sci"
+     },
+     {
+      "t": "Discovering the Culprits Causing Ozone Holes (UCAR)",
+      "u": "https://scied.ucar.edu/learning-zone/atmosphere/discovering-culprits-causing-ozone-holes",
+      "k": "sci"
+     }
+    ]
+   },
+   "alt": {
+    "title": "Cloud Atlas Adds First New \"Species\" in Almost 70 Years",
+    "outlet": "Smithsonian Magazine",
+    "url": "https://www.smithsonianmag.com/smart-news/cloud-atlas-adds-first-new-species-almost-70-years-180962654/",
+    "year": 2017,
+    "summary": "The World Meteorological Organization updated its International Cloud Atlas with a dozen new cloud-related terms. The headline addition is 'volutus', a long, low, tube-shaped roll cloud. The update also adds 'asperitas', a wavy cloud base that looks like a rough sea seen from below. Asperitas was pushed forward by amateur cloud-watchers, who campaigned for about ten years before it was officially recognized.",
+    "facts": [
+     "The 2017 update was the first to add anything since 1951.",
+     "A volutus roll cloud forms when sinking cold air shoves warm air upward.",
+     "Asperitas was first recorded in Iowa in 2006 and was championed by the Cloud Appreciation Society.",
+     "Researchers at the University of Reading studied the photos and concluded asperitas is a low-level cloud shaped by waves in the atmosphere."
+    ],
+    "questions": [
+     "Why is it useful for meteorologists everywhere to share one official set of cloud names?",
+     "What does it mean for citizen scientists to help 'discover' a cloud type, and what else could amateurs spot in the sky?",
+     "If cloud names hint at the weather to come, which clouds would you most want to learn to read?"
+    ],
+    "related": [
+     {
+      "t": "International Cloud Atlas",
+      "u": "https://en.wikipedia.org/wiki/International_Cloud_Atlas",
       "k": "wiki"
+     },
+     {
+      "t": "Asperitas (cloud)",
+      "u": "https://en.wikipedia.org/wiki/Asperitas_(cloud)",
+      "k": "wiki"
+     },
+     {
+      "t": "International Cloud Atlas and new cloud classifications (Royal Meteorological Society)",
+      "u": "https://www.rmets.org/metmatters/international-cloud-atlas-and-new-cloud-classifications",
+      "k": "sci"
+     },
+     {
+      "t": "New clouds named in WMO Cloud Atlas (Met Office)",
+      "u": "https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/corporate-news/2017/new-clouds-named-in-wmo-cloud-atlas",
+      "k": "sci"
      }
     ]
    }
   },
   {
-   "id": "linguistics",
-   "name": "Linguistics",
-   "desc": "Language and how it works",
-   "color": "#a78bfa",
+   "id": "paleontology",
+   "name": "Paleontology",
+   "desc": "Life in deep time",
+   "color": "#b45309",
    "article": {
-    "title": "Reviving Ahom Legacy: Assam Institute Preserves 400-Year-Old Manuscripts And Muga Silk",
-    "outlet": "ETV Bharat",
-    "url": "https://www.etvbharat.com/en/!offbeat/reviving-ahom-legacy-assam-institute-preserves-400-year-old-manuscripts-and-muga-silk-enn25061402612",
+    "title": "Fossil Study Detects Another Mass Extinction in the Deep Past",
+    "outlet": "KQED Science",
+    "url": "https://www.kqed.org/science/29262/fossil-study-detects-another-mass-extinction-in-the-deep-past",
+    "year": 2015,
+    "summary": "Geologists have long known about a die-off in the Middle Permian, about 262 million years ago. It was mostly documented in tropical China, so it was unclear whether it was a truly global crisis. A team led by David Bond of the University of Hull checked ancient limestone in Spitsbergen, an Arctic island. They found similar extinction patterns there, and also in Greenland and Arctic Canada. They argue that the cause may have been ocean acidification triggered by huge volcanic eruptions near China.",
+    "facts": [
+     "In the Capitanian Age, Spitsbergen was a cold-water coastal sea at about the latitude of Maine, not a frozen island.",
+     "The team built a chemical 'fingerprint' of the ancient environment from carbon and strontium isotopes, magnetic reversals, trace metals and pyrite crystals.",
+     "Some Arctic rocks in Greenland and Canada held tiny conodont fossils that match ones from tropical China.",
+     "The study suggested this event deserves to be counted as a sixth major mass extinction."
+    ],
+    "questions": [
+     "What counts as a 'mass extinction', and how much evidence from far-apart places should we need before adding one to the list?",
+     "Why might ocean acidification and volcanic eruptions be so deadly for marine life, and how does that compare with what we see today?",
+     "How does it change our picture of deep time to know the Arctic was once a temperate sea that recorded global crises?"
+    ],
+    "related": [
+     {
+      "t": "Capitanian mass extinction event (Wikipedia)",
+      "u": "https://en.wikipedia.org/wiki/Capitanian_mass_extinction_event",
+      "k": "wiki"
+     },
+     {
+      "t": "Permian\u2013Triassic extinction event (Wikipedia)",
+      "u": "https://en.wikipedia.org/wiki/Permian%E2%80%93Triassic_extinction_event",
+      "k": "wiki"
+     },
+     {
+      "t": "Brachiopod die-off signaled mid-Permian mass extinction (EARTH Magazine)",
+      "u": "https://www.earthmagazine.org/article/brachiopod-die-signaled-mid-permian-mass-extinction/",
+      "k": "sci"
+     },
+     {
+      "t": "The Capitanian Age (Palaeos)",
+      "u": "http://palaeos.com/paleozoic/permian/capitanian.html",
+      "k": "sci"
+     }
+    ]
+   },
+   "alt": {
+    "title": "249 million-year-old fossils prove ocean life bounced back fast after 'The Great Dying'",
+    "outlet": "Interesting Engineering",
+    "url": "https://interestingengineering.com/science/30000-fossils-of-marine-creatures-identified",
     "year": 2025,
-    "summary": "An institute in Moran, Assam, is collecting and protecting records left by the Ahom dynasty, whose rule lasted roughly 600 years. It is digitizing manuscripts written in the Tai language. The materials include handmade paper, bamboo strips and Muga silk cloth, and they come from many districts of Upper Assam. The institute also plans to translate the Tai-language books into Assamese so younger people can read them.",
+    "summary": "A fossil bonebed on Spitsbergen in Norway's Svalbard archipelago holds the remains of an ocean community from about 249 million years ago. It shows that marine ecosystems recovered from the end-Permian mass extinction much faster than scientists expected. Complex food chains with many predatory marine reptiles and amphibians were already in place about three million years after the disaster. The finding challenges the idea of a slow, gradual rebuilding of life in the oceans.",
     "facts": [
-     "The Ahom language was once the court language of a kingdom, but it was gradually replaced by Assamese. Everyday use had stopped by the early 19th century.",
-     "Its tone system is entirely lost, because the Ahom script doesn't mark tones.",
-     "One bark manuscript dictionary has nearly 3,000 entries and may be the oldest surviving dictionary of any Tai-Kadai language.",
-     "Some of the language's records were written on bamboo strips and cloth, not only on paper."
+     "The end-Permian extinction killed over 90% of marine species about 252 million years ago.",
+     "The bonebed holds more than 30,000 fossilized teeth, bones and other remains.",
+     "The fossils show a surprising diversity of fully aquatic reptiles, including early ichthyosaur relatives.",
+     "Fossil sites in China had suggested a gradual recovery over about eight million years, but Svalbard tells a different story."
     ],
     "questions": [
-     "Can a language still count as alive if it survives only in ritual chants and old manuscripts?",
-     "What is lost when the tones of a language can't be recovered from its writing?",
-     "Who should decide how a revived language is pronounced when no native speakers are left to ask?"
+     "If ecosystems can rebound in about three million years, what does that say about how resilient life really is?",
+     "Why might the Arctic have recovered faster than the sites in China, and what could that mean for other regions?",
+     "What can a single exceptionally rich fossil site tell us, and what can it miss, about how life recovers worldwide?"
     ],
     "related": [
      {
-      "t": "Ahom language",
-      "u": "https://en.wikipedia.org/wiki/Ahom_language",
+      "t": "Permian\u2013Triassic extinction event (Wikipedia)",
+      "u": "https://en.wikipedia.org/wiki/Permian-Triassic_extinction",
       "k": "wiki"
      },
      {
-      "t": "Ahom script",
-      "u": "https://en.wikipedia.org/wiki/Ahom_script",
+      "t": "Permian (Wikipedia)",
+      "u": "https://en.wikipedia.org/wiki/Permian",
       "k": "wiki"
      },
      {
-      "t": "Ahom Dictionary Resources (CRCL project)",
-      "u": "http://sealang.net/archives/ahom/",
+      "t": "Fossils of ancient marine predators have been discovered on an Arctic mountain (Natural History Museum)",
+      "u": "https://www.nhm.ac.uk/discover/news/2025/november/fossils-ancient-marine-predators-discovered-arctic-mountain.html",
       "k": "sci"
      },
      {
-      "t": "Buranji",
-      "u": "https://en.wikipedia.org/wiki/Buranji",
-      "k": "wiki"
-     }
-    ]
-   },
-   "alt": {
-    "title": "'We have a strange destiny': a conversation with the Livonian poet Valts Ern\u0161treits: Part I",
-    "outlet": "Global Voices",
-    "url": "https://globalvoices.org/2020/10/06/we-have-a-strange-destiny-a-conversation-with-the-livonian-poet-valts-ernstreits-part-i/",
-    "year": 2020,
-    "summary": "Livonian is a Finnic language related to Finnish and Estonian. Centuries ago it was spoken across much of Latvia, but its speakers gradually assimilated into the wider population. By the 20th century it survived mainly in a few remote fishing villages. This interview with the poet and scholar Valts Ern\u0161treits covers the language's past and how he is working to give it a future.",
-    "facts": [
-     "Livonian is thought to have lost its last native speaker in 2013. She died in Canada, where she had settled after leaving Latvia in 1944.",
-     "Only around 250 Livonians remain in Latvia today, and many live far from the coast that bears their name.",
-     "Since Latvia regained independence in 1991, a small revival has grown among people with Livonian heritage or an interest in the culture.",
-     "Ern\u0161treits directs the Livonian Institute, founded in 2018 at the University of Latvia in Riga."
-    ],
-    "questions": [
-     "Does a language need native speakers to have a real future?",
-     "How do poetry and music help keep a language going when daily use has faded?",
-     "Why do small communities often keep their language in only a few remote villages?"
-    ],
-    "related": [
-     {
-      "t": "Livonian language revival",
-      "u": "https://en.wikipedia.org/wiki/Livonian_language_revival",
-      "k": "wiki"
-     },
-     {
-      "t": "Livonian \u2013 Endangered Language Alliance Toronto",
-      "u": "https://elalliance.com/livonian/",
+      "t": "New fossils reveal climate tipping point in most famous mass extinction (University of Leeds, Priestley Centre)",
+      "u": "https://climate.leeds.ac.uk/news/new-fossils-reveal-climate-tipping-point-in-most-famous-mass-extinction/",
       "k": "sci"
-     },
-     {
-      "t": "Endangered language",
-      "u": "https://en.wikipedia.org/wiki/Endangered_language",
-      "k": "wiki"
-     },
-     {
-      "t": "Language revitalization",
-      "u": "https://en.wikipedia.org/wiki/Language_revitalization",
-      "k": "wiki"
      }
     ]
    }
   },
   {
-   "id": "astrophysics",
-   "name": "Astrophysics",
-   "desc": "The physics of the universe",
-   "color": "#6366f1",
+   "id": "cs",
+   "name": "Computer Science",
+   "desc": "Computation, information and systems",
+   "color": "#38bdf8",
    "article": {
-    "title": "Novel Experiments Expand the Hunt for 'Ultralight' Dark Matter",
-    "outlet": "Quanta Magazine",
-    "url": "https://www.quantamagazine.org/novel-experiments-expand-the-hunt-for-ultralight-dark-matter-20261125/",
-    "year": 2026,
-    "summary": "For years, physicists have been shifting from hunting heavy WIMP particles to looking for much lighter candidates. These lighter candidates are so wispy that they would act more like giant waves rolling through space. The axion is the favorite among them. The article covers new experiments for finding them, including an upgraded 300-meter 'light shining through a wall' setup in Germany and a levitation-based experiment at Leiden University in the Netherlands.",
+    "title": "Minitel: The Online World France Built Before the Web",
+    "outlet": "IEEE Spectrum",
+    "url": "https://spectrum.ieee.org/minitel-the-online-world-france-built-before-the-web",
+    "year": 2021,
+    "summary": "France ran a government-backed online network years before the web arrived. It started with a simple electronic phone book, and cheap terminals spread across the country's growing phone network. Minitel let outside companies run their own services on their own machines, a freedom the internet later made standard. People in Silicon Valley often cite it as a warning against government-run systems, but the article shows how much it offered at a time when American online life was mostly small bulletin boards and early walled gardens.",
     "facts": [
-     "Some dark matter candidates are so light that they would behave like huge waves instead of individual particles.",
-     "In Germany, a 300-meter-long apparatus at DESY is being upgraded to try to shine light through a wall.",
-     "One search found 65 electromagnetic signals that match what ultralight dark matter might produce.",
-     "The Leiden University experiment is the first to look for dark matter's effects using magnetic levitation."
+     "The first Minitel service was an electronic phone directory, and it helped drive early adoption.",
+     "Before online grocery delivery became familiar, a Minitel service called 3615 TMK let Parisians order groceries for same-day delivery.",
+     "Service providers could run their own machines on the network, and the network did not favor one service over another.",
+     "Administrators encouraged providers by giving away high-quality documentation for free."
     ],
     "questions": [
-     "Why might scientists be moving away from WIMPs, and what would convince you that the shift is justified?",
-     "Why would a dark matter signal need data from around the world before anyone could trust it?",
-     "What are the advantages of Europe's mix of accelerators, labs and universities for hunting particles that cannot be seen?"
+     "Minitel was designed and run by the government. Which parts of its success or failure do you think came from that, and which came from its technical design?",
+     "Should a mass-market online service be open to any provider, or is some central control useful? What does the Minitel experience suggest?",
+     "Why might an early lead in online services slow a country's move to a newer technology?"
     ],
     "related": [
      {
-      "t": "Axion Dark Matter Experiment (ADMX)",
-      "u": "https://en.wikipedia.org/wiki/Axion_Dark_Matter_Experiment",
+      "t": "Minitel",
+      "u": "https://en.wikipedia.org/wiki/Minitel",
       "k": "wiki"
      },
      {
-      "t": "MADMAX: Searching for axion dark matter (Max Planck Institute for Physics)",
-      "u": "https://www.mpp.mpg.de/en/research/madmax",
+      "t": "The Minitel (History of Information)",
+      "u": "https://www.historyofinformation.com/detail.php?id=3268",
       "k": "sci"
      },
      {
-      "t": "Quantum Technologies for Axion Dark Matter Search (CORDIS, EU)",
-      "u": "https://cordis.europa.eu/project/id/101118911",
+      "t": "A short history of the internet (Science and Media Museum)",
+      "u": "https://www.scienceandmediamuseum.org.uk/objects-and-stories/short-history-internet",
       "k": "sci"
+     },
+     {
+      "t": "Timeline of the history of the Internet",
+      "u": "https://en.wikipedia.org/wiki/Timeline_of_the_history_of_the_Internet",
+      "k": "wiki"
      }
     ]
    },
    "alt": {
-    "title": "Gran Sasso: A tale of physics in the mountains",
-    "outlet": "Symmetry Magazine",
-    "url": "https://www.symmetrymagazine.org/article/february-2010/gran-sasso-tale-physics-mountains?language_content_entity=und",
-    "year": 2010,
-    "summary": "This feature tells the story of Italy's Gran Sasso laboratory, built inside a mountain, where physicists study dark matter, nuclear astrophysics and neutrinos. The rock above shields the experiments from cosmic bombardment. The piece describes it as a kind of scientific paradise for the hundreds of researchers who work there, while making clear it has had real troubles. One of them was the motorway tunnel that shares the site.",
+    "title": "Cybersyn, Chile 1971-73",
+    "outlet": "Frieze",
+    "url": "https://www.frieze.com/article/cybersyn-chile-1971-73",
+    "year": 2014,
+    "summary": "In the early 1970s, Salvador Allende's Chilean government worked with British cybernetician Stafford Beer on Cybersyn. It was a network of telex machines and other communication tools meant to act as an electronic nervous system for the economy. Instead of commands coming down from the top, officials would respond to up-to-the-minute information coming from factories. The article describes it as a socialist internet decades ahead of its time, and it also covers the hope that citizens could eventually signal their feelings about government decisions.",
     "facts": [
-     "You can drive into Gran Sasso instead of taking an elevator, which is unusual for an underground lab.",
-     "Canfranc and Modane are two other underground labs with drive-in access.",
-     "The lab has more than 750 scientific users from 24 countries.",
-     "A special exit from the A24 motorway tunnel leads scientists to the underground galleries, and the motorway counts as the lab's other tenant."
+     "Chile's Cybersyn used a network of telex machines, which are text-sending teleprinters, instead of modern computer terminals.",
+     "Stafford Beer, a British cybernetician, designed it, and he wanted to implant an 'electronic nervous system' into Chile.",
+     "Critics called it Big Brother-style surveillance, but its designers say they wanted workers to have more control over their own lives.",
+     "Chile had fewer than fifty computers in 1968, and all were made by US companies."
     ],
     "questions": [
-     "Why do dark matter experiments need to be put under a mountain, and what else might be shielded this way?",
-     "How does sharing a site with a motorway tunnel complicate sensitive physics?",
-     "What makes an international lab with users from dozens of countries a good model for big science?"
+     "Could a network built to give workers control also be used for surveillance? What would decide which way it went?",
+     "Why do some early network projects become forgotten, while others are told as the origin story of the internet?",
+     "What would a national network look like if it were built around citizens' feedback rather than commercial or military goals?"
     ],
     "related": [
      {
-      "t": "XENON",
-      "u": "https://en.wikipedia.org/wiki/XENON",
+      "t": "Project Cybersyn",
+      "u": "https://en.wikipedia.org/wiki/Project_Cybersyn",
       "k": "wiki"
      },
      {
-      "t": "Boulby extends the search for dark matter (CERN Courier)",
-      "u": "https://cerncourier.com/a/boulby-extends-the-search-for-dark-matter/",
+      "t": "The Chilean Wide Web (JSTOR Daily)",
+      "u": "https://daily.jstor.org/the-chilean-wide-web",
       "k": "sci"
      },
      {
-      "t": "Underground experiment casts doubt on controversial dark matter claim (Science news)",
-      "u": "https://www.science.org/content/article/underground-experiment-casts-doubt-controversial-dark-matter-claim",
+      "t": "Network Effects: Raul Espejo on Cybernetic Socialism in Salvador Allende's Chile (Logic)",
+      "u": "https://logicmag.io/play/raul-espejo-on-cybernetic-socialism-in-allendes-chile/",
       "k": "sci"
      },
      {
-      "t": "EDELWEISS",
-      "u": "https://en.wikipedia.org/wiki/EDELWEISS",
+      "t": "Timeline of the history of the Internet",
+      "u": "https://en.wikipedia.org/wiki/Timeline_of_the_history_of_the_Internet",
       "k": "wiki"
      }
     ]
@@ -260,76 +265,71 @@
    "desc": "Machines that learn and reason",
    "color": "#a78bfa",
    "article": {
-    "title": "What the History of Autonomous Vehicles Can Teach About Our Transportation Future",
-    "outlet": "Streetsblog USA",
-    "url": "https://usa.streetsblog.org/2021/01/25/what-the-history-of-autonomous-vehicles-can-teach-about-our-transportation-future",
-    "year": 2021,
-    "summary": "Transportation reporter Alex Davies talks about how old the dream of the self-driving car really is. He argues that the wish for an autonomous vehicle arose alongside the car itself. The conversation runs from the horse-and-carriage era through military-driven research like the DARPA challenge to small, slow shuttles for places like retirement communities. He declines to guess when fully driverless cars will arrive.",
+    "title": "Latin America: Uncovering the hidden human workforce behind AI",
+    "outlet": "Global Voices",
+    "url": "https://globalvoices.org/2024/10/05/latin-america-uncovering-the-hidden-human-workforce-behind-ai/",
+    "year": 2024,
+    "summary": "AI systems learn from data that people have to sort and label by hand. Much of that work is done by low-paid workers in Latin America, especially Venezuelans hit by economic crisis. The article describes an MIT investigation into their pay and conditions. It also looks at how companies defend themselves and at what it would take to treat these workers more fairly.",
     "facts": [
-     "The interview says a horse and carriage was a kind of semi-autonomous vehicle, because a horse won't walk into a wall even if the driver isn't paying attention.",
-     "Car crashes started almost as soon as horseless carriages appeared, and people immediately began asking how to remove crashes while keeping the new technology.",
-     "When the DARPA challenge began, few people were seriously talking about street safety or civilian uses for self-driving vehicles.",
-     "Some companies now aim low-speed autonomous shuttles at senior living communities, where residents may not be able to drive but still need to reach the doctor or the pool."
+     "Data labeling means analysing and classifying information so an AI algorithm can learn from it.",
+     "An MIT investigation found labelers earning roughly $2 an hour, with no social benefits and no job guarantees.",
+     "One worker took the job during a period when Venezuela's monthly salary was about $30, so even small per-task payments beat the local wage.",
+     "Besides Venezuela, one Colombia-based labeling firm says its biggest sources of workers are Colombia, Argentina, Panama and Chile."
     ],
     "questions": [
-     "If a horse-drawn carriage counts as 'semi-autonomous', where would you draw the line between a helpful animal or tool and a machine that actually drives?",
-     "Why might the push for self-driving cars have started with military research and not with safety on city streets?",
-     "Would you trust a slow, limited autonomous shuttle more than a car that claims to drive anywhere? Why or why not?"
+     "If a data-labeling job pays more than local alternatives but offers no security or benefits, is it fair work or exploitation?",
+     "Should companies that build AI be responsible for the working conditions of the people who label its training data?",
+     "How could Latin American countries move from supplying cheap labor to building AI technology themselves?"
     ],
     "related": [
      {
-      "t": "Horseless carriage",
-      "u": "https://en.wikipedia.org/wiki/Horseless_carriage",
+      "t": "Microwork",
+      "u": "https://en.wikipedia.org/wiki/Microwork",
       "k": "wiki"
      },
      {
-      "t": "History of steam road vehicles",
-      "u": "https://en.wikipedia.org/wiki/History_of_steam_road_vehicles",
+      "t": "Amazon Mechanical Turk",
+      "u": "https://en.wikipedia.org/wiki/AmazonMechanical",
       "k": "wiki"
      },
      {
-      "t": "PBS: Tesla - Master of Lightning: Race of Robots",
-      "u": "https://www.pbs.org/tesla/ll/ll_robots.html",
+      "t": "A New AI Lexicon: Labor - AI Now Institute",
+      "u": "https://ainowinstitute.org/publications/collection/a-new-ai-lexicon-labor",
       "k": "sci"
      }
     ]
    },
    "alt": {
-    "title": "The Surprisingly Long History of Driverless Cars",
-    "outlet": "History.com",
-    "url": "https://www.history.com/articles/driverless-cars-self-driving-car-history",
-    "year": 2026,
-    "summary": "This article traces driverless cars back nearly a century, well before Silicon Valley. It starts with a radio-controlled 'ghost car' on Broadway in 1925. It then moves through a 1957 highway test in Nebraska, Stanford's Shakey robot, and a 1977 Japanese car that followed painted lines. It finishes with Carnegie Mellon's cross-country 'No Hands Across America' trip in the 1990s.",
+    "title": "Indigenous Groups Are Safeguarding Culture with Their Own ChatGPT",
+    "outlet": "Atmos",
+    "url": "https://atmos.earth/political-landscapes/indigenous-groups-are-safeguarding-culture-with-their-own-chatgpt/",
+    "year": 2025,
+    "summary": "In the Brazilian Amazon, Indigenous communities are building their own AI tools instead of relying on Big Tech chatbots. The article follows Tain\u00e1, an assistant created in a village near Manaus to store traditional knowledge from several Indigenous peoples. It shows how communities decide what an AI should know and who gets to use it. That puts questions of cultural control and data ownership at the center of the AI ethics debate.",
     "facts": [
-     "In 1925 an army engineer named Francis Houdina drove a radio-controlled car down Broadway in New York, with its operators following close behind.",
-     "The 1957 'Nebraska test' used a 400-foot strip of highway outside Lincoln.",
-     "Shakey the Robot, built at Stanford Research Institute in the 1960s, has been called the great-grandfather of self-driving cars.",
-     "In 1977 a Japanese lab built a car that read painted white lines and cruised autonomously at about 20 miles per hour."
+     "The chatbot Tain\u00e1 was developed in the Inha\u00e3-b\u00e9 village in Manaus, not by a major American tech company.",
+     "It was first meant to preserve knowledge about Mura, Sater\u00e9-Maw\u00e9 and Tikuna culture.",
+     "It works like a Telegram chatbot and can answer questions in English, Spanish, Portuguese, Bahasa and Swahili.",
+     "A sister language model called Poli holds information the community wants to share publicly, along with UN climate-negotiation documents."
     ],
     "questions": [
-     "Why do you think radio-controlled cars were a dead end, even though they looked impressive to crowds at the time?",
-     "What does it mean for a machine to 'drive itself' if a human is still steering from a distance, and has that definition changed?",
-     "Which of these early experiments feels closest to today's self-driving cars, and why?"
+     "Who should decide which parts of a culture's knowledge are fed into an AI system?",
+     "Can a community-built AI avoid the problems of Big Tech models, or does it create new ones?",
+     "What would a fair deal look like between Indigenous communities and companies that want to use their data?"
     ],
     "related": [
      {
-      "t": "Self-driving car",
-      "u": "https://en.wikipedia.org/wiki/Self-driving_car",
+      "t": "Indigenous data governance",
+      "u": "https://en.wikipedia.org/wiki/Indigenous_data_governance",
       "k": "wiki"
      },
      {
-      "t": "Teleoperation",
-      "u": "https://en.wikipedia.org/wiki/Teleoperation",
-      "k": "wiki"
-     },
-     {
-      "t": "graphsearch.epfl.ch: Self-driving car",
-      "u": "https://graphsearch.epfl.ch/en/concept/245926",
+      "t": "Indigenous Data Sovereignty - UT Austin LibGuides",
+      "u": "https://guides.lib.utexas.edu/c.php?g=531053&p=8783894",
       "k": "sci"
      },
      {
-      "t": "Self-driving boats: The next tech transportation race",
-      "u": "https://phys.org/news/2017-09-self-driving-boats-tech.html",
+      "t": "New report and guidelines for indigenous data sovereignty in AI developments - UNESCO",
+      "u": "https://www.unesco.org/ethics-ai/en/articles/new-report-and-guidelines-indigenous-data-sovereignty-artificial-intelligence-developments",
       "k": "sci"
      }
     ]
