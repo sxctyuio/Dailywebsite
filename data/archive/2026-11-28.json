@@ -1,0 +1,300 @@
+{
+ "date": "2026-11-28",
+ "topics": [
+  {
+   "id": "medicine",
+   "name": "Medicine",
+   "desc": "Health, disease and treatment",
+   "color": "#f43f5e",
+   "article": {
+    "title": "You Should Thank Maurice Hilleman for Helping You Live Past the Age of 10",
+    "outlet": "Smithsonian Magazine",
+    "url": "https://www.smithsonianmag.com/smithsonian-institution/you-should-thank-maurice-hilleman-helping-you-live-past-age-10-180965369/",
+    "year": 2017,
+    "summary": "This piece introduces a Smithsonian podcast about Maurice Hilleman, a driven vaccine maker whose name few people know. He developed more than 40 vaccines, including the MMR combination, chickenpox, meningitis, pneumonia and hepatitis A and B. It tells how he took a throat swab from his own daughter with mumps and used the virus to make a vaccine. Her younger sister was among the first children to get the experimental shot.",
+    "facts": [
+     "When his daughter Jeryl Lynn caught mumps, Hilleman swabbed her throat and took the virus to his lab.",
+     "His younger daughter Kirsten was among the first to receive the experimental mumps vaccine made from her sister's virus.",
+     "By his death in 2005 at age 85, he had developed more than 40 vaccines.",
+     "Smithsonian's piece includes a correction: his mother died of childbed fever, not flu, and Kirsten was among the first vaccinated, not the very first."
+    ],
+    "questions": [
+     "What makes a scientist's obsession with safety and detail produce better medicine?",
+     "Why might the creator of most childhood vaccines be less famous than the creators of single, dramatic breakthroughs?",
+     "How does personal experience, like a sick child at 1 a.m., shape scientific discovery?"
+    ],
+    "related": [
+     {
+      "t": "John Franklin Enders (Wikipedia)",
+      "u": "https://en.wikipedia.org/wiki/John_Franklin_Enders",
+      "k": "wiki"
+     },
+     {
+      "t": "Rudolf Weigl (Wikipedia)",
+      "u": "https://en.wikipedia.org/wiki/Rudolf_Weigl",
+      "k": "wiki"
+     },
+     {
+      "t": "Maurice Hilleman, PhD (History of Vaccines)",
+      "u": "https://historyofvaccines.org/history/maurice-hilleman-phd/overview/",
+      "k": "sci"
+     },
+     {
+      "t": "The Antibody Initiative: Measles, Mumps, and Rubella Vaccines (Smithsonian)",
+      "u": "https://si.edu/spotlight/antibody-initiative/mmr",
+      "k": "sci"
+     }
+    ]
+   },
+   "alt": null
+  },
+  {
+   "id": "envsci",
+   "name": "Environmental Science",
+   "desc": "Physical, chemical and biological interactions",
+   "color": "#4ade80",
+   "article": {
+    "title": "Himalayan glaciers are wasting away, threatening mountain communities",
+    "outlet": "Mongabay India",
+    "url": "https://india.mongabay.com/2018/05/himalayan-glaciers-are-wasting-away-threatening-mountain-communities/",
+    "year": 2018,
+    "summary": "An international team reviewed the state of glaciers across the Himalaya and Karakoram. They found that most Himalayan glaciers are shrinking and losing mass, while a part of the northwest Karakoram has stayed stable. As the ice thins, rocky debris spreads over the glacier surface. That debris encourages ice cliffs and meltwater ponds, which melt the ice faster. It also feeds a growing number of glacial lakes that could burst and flood mountain communities downstream.",
+    "facts": [
+     "Ponds on a debris-covered glacier's surface can absorb about seven times more heat than the average for the whole debris-covered zone.",
+     "Ice melts fastest under a thin layer of debris a few millimetres to centimetres thick. A thick layer insulates the ice instead.",
+     "The northwest Karakoram, which spans parts of Pakistan, India and China, has had stable glacier mass while the Himalaya has lost ice.",
+     "A screening of about 2,800 Himalayan glacial lakes found 49 with potential flood volumes above 10 million cubic metres."
+    ],
+    "questions": [
+     "Why might a layer of rock on top of a glacier slow melting in some places but speed it up in others?",
+     "How should communities downstream balance the cost of monitoring glacial lakes against the risk of a sudden flood?",
+     "What could explain a region like the Karakoram holding steady while neighbouring ranges lose ice?"
+    ],
+    "related": [
+     {
+      "t": "Glacial lake outburst flood",
+      "u": "https://en.wikipedia.org/wiki/Glacial_lake_outburst_flood",
+      "k": "wiki"
+     },
+     {
+      "t": "Debris-covered glacier landsystems - AntarcticGlaciers.org",
+      "u": "https://www.antarcticglaciers.org/glacial-geology/glacial-landsystems/glaciated-valley-landsystems/debris-covered-glacier-landsystems/",
+      "k": "sci"
+     },
+     {
+      "t": "Hydrology of debris-covered glaciers in High Mountain Asia",
+      "u": "https://www.sciencedirect.com/science/article/abs/pii/S0012825220302580",
+      "k": "sci"
+     },
+     {
+      "t": "Growth and drainage of supraglacial lakes on debris-mantled Ngozumpa Glacier, Khumbu Himal, Nepal",
+      "u": "https://www.cambridge.org/core/journals/journal-of-glaciology/article/growth-and-drainage-of-supraglacial-lakes-on-debrismantled-ngozumpa-glacier-khumbu-himal-nepal/EB4EC62579E629BE72A1176DE25C1E07",
+      "k": "sci"
+     }
+    ]
+   },
+   "alt": {
+    "title": "Tibetan Glacier Holds 1,700 Ancient Viruses -- But They're Safe",
+    "outlet": "Explorersweb",
+    "url": "https://explorersweb.com/tibetan-glacier-holds-1700-ancient-viruses-but-theyre-safe/",
+    "year": 2024,
+    "summary": "Researchers drilled ice cores from the Guliya Glacier on the Tibetan Plateau and found more than 1,700 viruses that science had never seen before. All of them are bacteriophages, which infect only bacteria, so they pose no threat to people or animals. The ice layers span about 41,000 years, so the viruses show how these microbes changed as the climate warmed and cooled. The cores had to be kept frozen and free of modern contamination all the way from Tibet to Ohio.",
+    "facts": [
+     "A herd of yaks carried the ice cores down the mountain at the start of their journey.",
+     "About 97% of the viruses found were completely new to science.",
+     "The viruses came from nine separate time periods in the ice.",
+     "The team recovered about 50 times more viral information than any earlier glacier study."
+    ],
+    "questions": [
+     "What can frozen viruses tell us about how life responds to climate change, and what are the limits of that evidence?",
+     "Why is keeping ice cores free of contamination so hard, and what would happen to the science if it failed?",
+     "If glaciers are melting, what is lost when these frozen archives disappear, and who should decide how fast to study them?"
+    ],
+    "related": [
+     {
+      "t": "2026 Nepal\u2013Tibet floods",
+      "u": "https://en.wikipedia.org/wiki/2026_Nepal%E2%80%93Tibet_floods",
+      "k": "wiki"
+     },
+     {
+      "t": "15,000-year-old viruses discovered in Tibetan glacier ice",
+      "u": "https://news.osu.edu/15000-year-old-viruses-discovered-in-tibetan-glacier-ice/",
+      "k": "sci"
+     },
+     {
+      "t": "Ancient viral genomes preserved in glaciers reveal the history of Earth's climate",
+      "u": "https://theconversation.com/ancient-viral-genomes-preserved-in-glaciers-reveal-the-history-of-earths-climate-and-how-viruses-adapt-to-climate-change-237367",
+      "k": "sci"
+     },
+     {
+      "t": "China - Guliya Ice Cap (Byrd Polar ice core group)",
+      "u": "https://research.byrd.osu.edu/Icecore/Guliya.html",
+      "k": "sci"
+     }
+    ]
+   }
+  },
+  {
+   "id": "archaeology",
+   "name": "Archaeology",
+   "desc": "Uncovering the human past",
+   "color": "#d97706",
+   "article": {
+    "title": "A 100-Year-Old Fruitcake Was Found 'Perfectly Preserved' in Antarctica",
+    "outlet": "Time",
+    "url": "https://time.com/4896847/antarctic-trust-fruit-cake/",
+    "year": 2017,
+    "summary": "Conservators with the Antarctic Heritage Trust found a century-old fruitcake at Cape Adare, Antarctica. It was probably left by a team from Robert Falcon Scott's Terra Nova expedition. The tin had rusted badly, but the cake inside still looked and smelled edible. It turned up near the end of a project that conserved more than 1,500 artefacts from the site.",
+    "facts": [
+     "The cake was made by the British biscuit company Huntley & Palmers, and records show Scott liked that brand.",
+     "The conservators found it among the last few tins that were badly corroded and had not been identified.",
+     "The huts at Cape Adare were built in 1899 by a Norwegian-led expedition. Scott's men used them in 1911.",
+     "Conservators say fruitcake is a good high-energy food for polar conditions, and it is still popular on modern trips to the ice."
+    ],
+    "questions": [
+     "Why do you think food survives so well in Antarctica, and what does that say about what archaeologists can learn from sites there?",
+     "Is a century-old expedition hut an archaeological site, even though it's only about 100 years old? Where would you draw the line?",
+     "The artefacts are going back to their original spots in the huts instead of into a museum. What are the pros and cons of that choice?"
+    ],
+    "related": [
+     {
+      "t": "Historic Sites and Monuments in Antarctica",
+      "u": "https://en.wikipedia.org/wiki/Historic_Sites_and_Monuments_in_Antarctica",
+      "k": "wiki"
+     },
+     {
+      "t": "Research stations in Antarctica",
+      "u": "https://en.wikipedia.org/wiki/Research_stations_in_Antarctica",
+      "k": "wiki"
+     },
+     {
+      "t": "Century-old Fruitcake (Antarctic Heritage Trust)",
+      "u": "https://nzaht.org/century-old-fruitcake/",
+      "k": "sci"
+     },
+     {
+      "t": "Cape Adare - Archaeopedia",
+      "u": "http://archaeopedia.com/wiki/index.php/Cape_Adare",
+      "k": "sci"
+     }
+    ]
+   },
+   "alt": {
+    "title": "Last meal of ancient human sacrifice victim 'Tollund Man' revealed in exquisite detail",
+    "outlet": "Live Science",
+    "url": "https://www.livescience.com/bog-body-tollund-man-last-meal.html",
+    "year": 2021,
+    "summary": "Tollund Man is a bog body found in Denmark in 1950. A 1951 study of his gut concluded that his last meal was porridge. Researchers have now re-examined a piece of his colon with modern techniques. They found fish alongside the porridge, and they say they can reconstruct the meal in enough detail to cook it again. The study also found parasite infections, which add to the picture of Iron Age health.",
+    "facts": [
+     "The 1951 gut study found porridge but missed the fish, which newer protein analysis detected.",
+     "He had several parasitic infections, including the first tapeworm reported in a bog body.",
+     "Fish was eaten in Iron Age Denmark but was not a big part of the diet.",
+     "The researchers think the parasite eggs came from raw or undercooked meat and contaminated water."
+    ],
+    "questions": [
+     "What does it mean for archaeology that a mid-20th-century study could be improved on decades later with new tools?",
+     "If a sacrificial victim ate an ordinary meal, what might that suggest about how ritual and everyday life were connected?",
+     "Should museums keep old human remains in storage so future technology can examine them again?"
+    ],
+    "related": [
+     {
+      "t": "Research reveals recipe of Tollund man's last meal (Aarhus University)",
+      "u": "https://mbg.au.dk/en/news-and-events/news-item/artikel/research-reveals-recipe-of-tollund-mans-last-meal/",
+      "k": "sci"
+     },
+     {
+      "t": "Embalming cache",
+      "u": "https://en.wikipedia.org/wiki/Embalming_cache",
+      "k": "wiki"
+     },
+     {
+      "t": "What Did Tollund Man, One of Europe's Famed Bog Bodies, Eat Before He Died?",
+      "u": "https://www.smithsonianmag.com/smart-news/tollund-man-europe-bog-body-meal-food-history-mummy-180978247/",
+      "k": "sci"
+     }
+    ]
+   }
+  },
+  {
+   "id": "ai",
+   "name": "Artificial Intelligence",
+   "desc": "Machines that learn and reason",
+   "color": "#a78bfa",
+   "article": {
+    "title": "AI Boosts Research Careers but Flattens Scientific Discovery",
+    "outlet": "IEEE Spectrum",
+    "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+    "year": 2026,
+    "summary": "An analysis of more than 40 million academic papers found that scientists who use AI tools get ahead faster than peers who don't. They publish more, get cited more, and reach team-leader roles sooner. The catch is that the work seems to bunch up in the same crowded research areas, so the range of ideas explored narrows. The article also asks whether this narrowing is temporary, and one researcher argues that well-integrated AI systems can widen discovery.",
+    "facts": [
+     "Researchers compared about 311,000 AI-using papers with millions of papers that didn't use AI.",
+     "On average, AI-using scientists publish about three times as many papers.",
+     "They also receive nearly five times as many citations.",
+     "They become team leaders a year or two earlier than colleagues who don't use AI."
+    ],
+    "questions": [
+     "If AI makes individual scientists more productive but makes science as a whole more uniform, is that a good trade?",
+     "How could funders or journals reward researchers for exploring unusual questions instead of crowded ones?",
+     "What might be lost if many scientists lean on the same AI tools to choose their next project?"
+    ],
+    "related": [
+     {
+      "t": "Applications of artificial intelligence",
+      "u": "https://en.wikipedia.org/wiki/Artificial_intelligence_in_science",
+      "k": "wiki"
+     },
+     {
+      "t": "Discovery system (artificial intelligence)",
+      "u": "https://en.wikipedia.org/wiki/Discovery_system_(artificial_intelligence)",
+      "k": "wiki"
+     },
+     {
+      "t": "Autonomous discovery defines the next era of science (Argonne National Laboratory)",
+      "u": "https://www.anl.gov/article/autonomous-discovery-defines-the-next-era-of-science",
+      "k": "sci"
+     },
+     {
+      "t": "AI for Science 2025 (Nature)",
+      "u": "https://www.nature.com/articles/d42473-025-00161-3",
+      "k": "sci"
+     }
+    ]
+   },
+   "alt": {
+    "title": "AI Plant and Animal Identification Helps Us All Be Citizen Scientists",
+    "outlet": "Smithsonian Magazine",
+    "url": "https://www.smithsonianmag.com/innovation/ai-plant-and-animal-identification-helps-us-all-be-citizen-scientists-180963525/",
+    "year": 2017,
+    "summary": "iNaturalist is a platform where people post photos of plants and animals and a community of naturalists identifies them. The article covers the launch of an app that uses deep learning to name species automatically. The idea is to draw in a new wave of amateur citizen scientists, whose observations can help professionals track biodiversity and even spot new species. The AI learns from images that the community's experts have already verified.",
+    "facts": [
+     "The app was trained on labeled photos from iNaturalist's 'research grade' observations, which community experts had verified.",
+     "At the time, iNaturalist could add a new species to its model every 1.7 hours.",
+     "The model got the genus right 86 percent of the time.",
+     "It listed the correct species among its top 10 suggestions 77 percent of the time."
+    ],
+    "questions": [
+     "How does an AI identifier change what it means to be an amateur naturalist?",
+     "Who should be responsible when an automated tool misidentifies a rare or protected species?",
+     "Could a small town or village use a tool like this to build its own record of local wildlife, and what would it need?"
+    ],
+    "related": [
+     {
+      "t": "iNaturalist",
+      "u": "https://en.wikipedia.org/wiki/INaturalist",
+      "k": "wiki"
+     },
+     {
+      "t": "A digital twin for real-time biodiversity forecasting with citizen science data (Nature Ecology & Evolution)",
+      "u": "https://www.nature.com/articles/s41559-025-02966-3",
+      "k": "sci"
+     },
+     {
+      "t": "Using Citizen Scientists To Inform Machine Learning Algorithms To Automate The Detection Of Species In Ecological Imagery (University of North Dakota)",
+      "u": "https://commons.und.edu/theses/2281/",
+      "k": "sci"
+     }
+    ]
+   }
+  }
+ ]
+}
